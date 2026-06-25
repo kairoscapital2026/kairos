@@ -1,17 +1,17 @@
 KAIROS DAILY REPORT
 ========================================================================
 Date: 2026-06-25
-Generated: 2026-06-25 12:26:39 CET
+Generated: 2026-06-25 14:24:47 CET
 
 
 MACRO DATA SUMMARY
 ========================================================================
 Numeric market and fundamental data, shown as-is.
 Prices are daily closes (latest 2026-06-25).
-Prices last fetched 2026-06-25 12:21:14 CET.
+Prices last fetched 2026-06-25 14:21:36 CET.
 This is not sentiment and is never scored.
 
-Volatility: VIX 18.00 (normal) -0.6300 (-3.38%)
+Volatility: VIX 17.88 (normal) -0.7500 (-4.03%)
 
 Equities & indices:
 Symbol | Last         | Change                | Close date
@@ -58,14 +58,14 @@ VST    | 162.87       | +0.4800 (+0.30%)      | 2026-06-24
 XLU    | 45.54        | +0.4700 (+1.04%)      | 2026-06-24
 
 FX moves (top 6 of 46 pairs by absolute move; full universe in News & headlines):
-Symbol | Last   | Change           | Close date
--------+--------+------------------+-----------
-AUDNOK | 6.8050 | +0.0344 (+0.51%) | 2026-06-25
-NOKSEK | 0.9851 | -0.0043 (-0.43%) | 2026-06-25
-SEKCAD | 0.1452 | -0.0006 (-0.41%) | 2026-06-25
-NOKCHF | 0.0822 | -0.0003 (-0.36%) | 2026-06-25
-AUDSEK | 6.7089 | -0.0231 (-0.34%) | 2026-06-25
-NZDSEK | 5.4872 | -0.0188 (-0.34%) | 2026-06-25
+Symbol | Last    | Change           | Close date
+-------+---------+------------------+-----------
+SEKCAD | 0.1448  | -0.0010 (-0.69%) | 2026-06-25
+AUDNOK | 6.8153  | +0.0447 (+0.66%) | 2026-06-25
+NZDUSD | 0.5637  | -0.0028 (-0.49%) | 2026-06-25
+NOKCAD | 0.1429  | -0.0006 (-0.42%) | 2026-06-25
+USDNOK | 9.8901  | +0.0402 (+0.41%) | 2026-06-25
+NOKJPY | 16.3654 | -0.0603 (-0.37%) | 2026-06-25
 
 Upcoming earnings (numeric estimates, as-is; not scored):
 Symbol | Report date | Fiscal     | EPS est. 
@@ -93,12 +93,12 @@ Symbol | Name                                                    | Last         
 000660 | SK Hynix (Korea)                                        | 1,000,000.00 | +0.00% | +0.00%  | n/a     | n/a     | --                     | 0/0/0     | --  
 005930 | Samsung Electronics (Korea)                             | 358,500.00   | +5.29% | -1.10%  | n/a     | n/a     | --                     | 0/0/0     | --  
 AMAT   | Applied Materials                                       | 588.97       | +0.53% | +3.65%  | n/a     | n/a     | positive 1.00 (24 Jun) | 11/1/1    | --  
-AMD    | Advanced Micro Devices                                  | 519.74       | -0.02% | +2.45%  | n/a     | n/a     | positive 0.97 (25 Jun) | 28/8/7    | --  
+AMD    | Advanced Micro Devices                                  | 519.74       | -0.02% | +2.45%  | n/a     | n/a     | positive 0.97 (25 Jun) | 29/8/7    | --  
 AMZN   | Amazon                                                  | 234.27       | +0.07% | -4.77%  | n/a     | n/a     | positive 0.98 (25 Jun) | 33/14/4   | --  
 ANET   | Arista Networks                                         | 161.74       | -0.28% | -3.73%  | n/a     | n/a     | positive 1.00 (24 Jun) | 5/2/0     | --  
 ARM    | Arm Holdings                                            | 359.08       | -2.00% | -9.40%  | n/a     | n/a     | negative 0.98 (24 Jun) | 6/5/1     | --  
-ASML   | ASML Holding (ADR)                                      | 1,762.77     | -0.88% | -2.28%  | n/a     | n/a     | positive 1.00 (25 Jun) | 17/21/12  | --  
-AVGO   | Broadcom                                                | 382.07       | +0.51% | +1.59%  | n/a     | n/a     | positive 1.00 (25 Jun) | 28/10/12  | --  
+ASML   | ASML Holding (ADR)                                      | 1,762.77     | -0.88% | -2.28%  | n/a     | n/a     | positive 1.00 (25 Jun) | 17/21/13  | --  
+AVGO   | Broadcom                                                | 382.07       | +0.51% | +1.59%  | n/a     | n/a     | positive 1.00 (25 Jun) | 29/11/12  | --  
 CEG    | Constellation Energy                                    | 267.97       | -0.85% | -0.01%  | n/a     | n/a     | negative 0.94 (25 Jun) | 19/9/1    | --  
 CSCO   | Cisco Systems                                           | 119.73       | -1.17% | +0.13%  | n/a     | n/a     | positive 1.00 (24 Jun) | 17/6/0    | --  
 DELL   | Dell Technologies                                       | 434.06       | +1.47% | +7.42%  | n/a     | n/a     | neutral 1.00 (25 Jun)  | 20/5/2    | --  
@@ -107,23 +107,23 @@ DTCR   | Global X Data Center & Digital Infra ETF                | 31.04        
 EQIX   | Equinix (datacenter REIT)                               | 1,095.00     | -1.88% | +0.03%  | n/a     | n/a     | positive 1.00 (23 Jun) | 6/5/0     | --  
 ETN    | Eaton                                                   | 404.59       | -0.17% | -0.77%  | n/a     | n/a     | positive 1.00 (23 Jun) | 8/5/0     | --  
 GEV    | GE Vernova                                              | 1,057.65     | +2.19% | +7.67%  | n/a     | n/a     | neutral 0.67 (24 Jun)  | 30/10/0   | --  
-GOOGL  | Alphabet                                                | 345.29       | -0.24% | -7.49%  | n/a     | n/a     | positive 1.00 (25 Jun) | 15/22/6   | --  
+GOOGL  | Alphabet                                                | 345.29       | -0.24% | -7.49%  | n/a     | n/a     | positive 1.00 (25 Jun) | 17/22/6   | --  
 KLAC   | KLA Corp                                                | 240.48       | -1.64% | +1.33%  | n/a     | n/a     | positive 0.99 (25 Jun) | 13/1/1    | --  
 LRCX   | Lam Research                                            | 374.80       | +0.93% | +1.55%  | n/a     | n/a     | neutral 0.62 (24 Jun)  | 22/3/2    | --  
-META   | Meta Platforms                                          | 557.67       | -0.81% | -7.09%  | n/a     | n/a     | positive 1.00 (25 Jun) | 40/24/6   | --  
-MRVL   | Marvell Technology                                      | 276.70       | -0.84% | -0.71%  | n/a     | n/a     | positive 1.00 (25 Jun) | 37/17/5   | --  
-MSFT   | Microsoft Corp (AI vertical)                            | 365.46       | -2.27% | -7.20%  | -12.69% | -1.74%  | neutral 0.92 (25 Jun)  | 54/38/22  | --  
-MU     | Micron Technology Inc                                   | 1,048.51     | -0.31% | +2.72%  | n/a     | n/a     | neutral 0.98 (25 Jun)  | 39/14/10  | --  
+META   | Meta Platforms                                          | 557.67       | -0.81% | -7.09%  | n/a     | n/a     | positive 1.00 (25 Jun) | 40/23/6   | --  
+MRVL   | Marvell Technology                                      | 276.70       | -0.84% | -0.71%  | n/a     | n/a     | positive 1.00 (25 Jun) | 37/17/6   | --  
+MSFT   | Microsoft Corp (AI vertical)                            | 365.46       | -2.27% | -7.20%  | -12.69% | -1.74%  | neutral 0.92 (25 Jun)  | 55/39/22  | --  
+MU     | Micron Technology Inc                                   | 1,048.51     | -0.31% | +2.72%  | n/a     | n/a     | neutral 0.98 (25 Jun)  | 39/14/8   | --  
 NRG    | NRG Energy                                              | 142.21       | +3.31% | +7.65%  | n/a     | n/a     | positive 0.82 (24 Jun) | 2/1/0     | --  
-NVDA   | NVIDIA Corp (AI vertical)                               | 199.00       | -0.52% | -4.05%  | -7.48%  | +13.72% | positive 0.93 (25 Jun) | 77/62/34  | --  
+NVDA   | NVIDIA Corp (AI vertical)                               | 199.00       | -0.52% | -4.05%  | -7.48%  | +13.72% | positive 0.93 (25 Jun) | 72/61/34  | --  
 ORCL   | Oracle                                                  | 157.53       | -4.62% | -16.35% | n/a     | n/a     | neutral 1.00 (25 Jun)  | 29/11/21  | --  
 PWR    | Quanta Services                                         | 701.88       | -0.06% | -2.42%  | n/a     | n/a     | positive 1.00 (24 Jun) | 9/1/1     | --  
 QQQ    | Invesco QQQ Trust (Nasdaq 100)                          | 710.62       | -0.42% | -2.53%  | -0.96%  | +21.69% | positive 1.00 (25 Jun) | 33/30/8   | --  
 SFTBY  | SoftBank Group Corp (ADR; Tokyo 9984 not on EODHD plan) | 20.08        | -1.33% | -8.31%  | n/a     | n/a     | positive 0.88 (24 Jun) | 6/3/2     | --  
 SMCI   | Super Micro Computer                                    | 32.45        | -2.61% | +11.05% | n/a     | n/a     | negative 0.97 (24 Jun) | 29/5/3    | --  
-SMH    | VanEck Semiconductor ETF                                | 618.92       | -0.50% | +0.47%  | n/a     | n/a     | positive 1.00 (24 Jun) | 6/5/2     | --  
-SOXX   | iShares Semiconductor ETF                               | 601.50       | -0.31% | +1.74%  | n/a     | n/a     | positive 1.00 (24 Jun) | 12/11/1   | --  
-SPY    | SPDR S&P 500 ETF Trust                                  | 733.24       | -0.05% | -2.03%  | -1.41%  | +12.55% | neutral 0.97 (25 Jun)  | 34/46/8   | --  
+SMH    | VanEck Semiconductor ETF                                | 618.92       | -0.50% | +0.47%  | n/a     | n/a     | positive 1.00 (24 Jun) | 7/5/2     | --  
+SOXX   | iShares Semiconductor ETF                               | 601.50       | -0.31% | +1.74%  | n/a     | n/a     | positive 1.00 (24 Jun) | 12/11/2   | --  
+SPY    | SPDR S&P 500 ETF Trust                                  | 733.24       | -0.05% | -2.03%  | -1.41%  | +12.55% | neutral 0.97 (25 Jun)  | 33/46/7   | --  
 SU     | Schneider Electric (Euronext Paris)                     | 280.50       | +0.36% | -0.80%  | n/a     | n/a     | positive 0.89 (23 Jun) | 4/0/0     | --  
 TLN    | Talen Energy                                            | 405.89       | -1.46% | -0.15%  | n/a     | n/a     | positive 1.00 (23 Jun) | 11/0/0    | --  
 TSM    | TSMC (ADR)                                              | 440.83       | +1.02% | +3.52%  | n/a     | n/a     | positive 1.00 (25 Jun) | 49/17/2   | --  
@@ -132,64 +132,64 @@ VST    | Vistra                                                  | 162.87       
 XLU    | Utilities Select Sector SPDR ETF                        | 45.54        | +1.04% | +1.71%  | n/a     | n/a     | positive 0.94 (23 Jun) | 3/1/0     | --  
 
 Volatility:
-Symbol | Name                  | Last  | 1D     | 1W     | 1M      | 3M      | Sentiment             | Hdl +/0/- | Comp
--------+-----------------------+-------+--------+--------+---------+---------+-----------------------+-----------+-----
-VIX    | CBOE Volatility Index | 18.00 | -3.38% | +9.76% | +10.50% | -41.20% | neutral 1.00 (24 Jun) | 2/2/5     | --  
+Symbol | Name                  | Last  | 1D     | 1W     | 1M     | 3M      | Sentiment             | Hdl +/0/- | Comp
+-------+-----------------------+-------+--------+--------+--------+---------+-----------------------+-----------+-----
+VIX    | CBOE Volatility Index | 17.88 | -4.03% | +9.02% | +9.76% | -41.59% | neutral 1.00 (24 Jun) | 2/2/5     | --  
 
 FX:
 Symbol | Name         | Last     | 1D     | 1W     | 1M     | 3M     | Sentiment              | Hdl +/0/- | Comp
 -------+--------------+----------+--------+--------+--------+--------+------------------------+-----------+-----
-AUDCAD | AUD/CAD spot | 0.9819   | -0.06% | -0.99% | -0.91% | +0.38% | neutral 1.00 (19 Jun)  | 0/4/0     | --  
-AUDCHF | AUD/CHF spot | 0.5597   | -0.16% | -1.11% | -0.62% | +0.63% | neutral 1.00 (19 Jun)  | 0/3/0     | --  
-AUDJPY | AUD/JPY spot | 111.6800 | +0.02% | -1.27% | -2.28% | -1.30% | positive 0.65 (03 Mar) | 0/0/0     | --  
-AUDNOK | AUD/NOK spot | 6.8050   | +0.51% | -0.37% | +2.57% | +1.35% | neutral 1.00 (20 Jun)  | 0/3/0     | --  
-AUDNZD | AUD/NZD spot | 1.2218   | +0.03% | +0.01% | +1.26% | +1.03% | neutral 1.00 (19 Jun)  | 0/2/0     | --  
-AUDSEK | AUD/SEK spot | 6.7089   | -0.34% | -0.17% | +0.61% | +1.95% | neutral 1.00 (19 Jun)  | 0/1/0     | --  
-AUDUSD | AUD/USD spot | 0.6901   | +0.00% | -1.60% | -3.59% | -2.75% | positive 0.99 (25 Jun) | 7/5/5     | --  
-CADCHF | CAD/CHF spot | 0.5698   | -0.16% | -0.07% | +0.23% | +0.26% | neutral 1.00 (19 Jun)  | 0/2/0     | --  
-CADJPY | CAD/JPY spot | 113.6800 | +0.01% | -0.25% | -1.45% | -1.67% | neutral 1.00 (19 Jun)  | 0/3/0     | --  
-CHFJPY | CHF/JPY spot | 199.3700 | +0.10% | -0.25% | -1.75% | -2.00% | neutral 1.00 (19 Jun)  | 0/2/0     | --  
-EURAUD | EUR/AUD spot | 1.6466   | +0.02% | +0.80% | +1.15% | -1.56% | neutral 1.00 (19 Jun)  | 0/1/0     | --  
-EURCAD | EUR/CAD spot | 1.6174   | +0.04% | -0.37% | +0.47% | -0.28% | neutral 1.00 (19 Jun)  | 0/4/0     | --  
-EURCHF | EUR/CHF spot | 0.9217   | -0.11% | -0.42% | +0.71% | -0.01% | neutral 1.00 (19 Jun)  | 0/3/0     | --  
-EURGBP | EUR/GBP spot | 0.8615   | -0.13% | -0.60% | -0.36% | -1.06% | neutral 1.00 (21 Jun)  | 0/9/0     | --  
-EURJPY | EUR/JPY spot | 183.8890 | +0.00% | -0.50% | -0.98% | -1.93% | neutral 1.00 (19 Jun)  | 1/4/0     | --  
-EURNOK | EUR/NOK spot | 11.2089  | +0.19% | +0.62% | +3.87% | +0.86% | neutral 1.00 (30 May)  | 0/0/0     | --  
-EURNZD | EUR/NZD spot | 2.0120   | +0.18% | +1.08% | +2.50% | +0.66% | neutral 1.00 (19 Jun)  | 0/4/0     | --  
-EURSEK | EUR/SEK spot | 11.0444  | -0.22% | +0.49% | +2.02% | +2.16% | neutral 1.00 (15 Jun)  | 0/0/0     | --  
-EURUSD | EUR/USD spot | 1.1362   | +0.03% | -0.93% | -2.32% | -3.56% | neutral 0.81 (25 Jun)  | 30/18/33  | --  
-GBPAUD | GBP/AUD spot | 1.9108   | +0.14% | +1.26% | +1.67% | +0.39% | neutral 1.00 (19 Jun)  | 0/3/0     | --  
-GBPCAD | GBP/CAD spot | 1.8770   | +0.15% | +0.20% | +0.81% | +0.76% | neutral 1.00 (19 Jun)  | 0/2/0     | --  
-GBPCHF | GBP/CHF spot | 1.0697   | +0.01% | +0.16% | +1.06% | +1.04% | neutral 1.00 (19 Jun)  | 0/2/0     | --  
-GBPJPY | GBP/JPY spot | 213.4200 | +0.18% | -0.02% | -0.64% | -0.90% | neutral 1.00 (19 Jun)  | 0/3/0     | --  
-GBPNOK | GBP/NOK spot | 13.0080  | +0.29% | +1.20% | +4.22% | +1.91% | neutral 1.00 (20 Jun)  | 0/3/0     | --  
-GBPNZD | GBP/NZD spot | 2.3349   | +0.20% | +1.31% | +2.05% | +1.87% | neutral 0.99 (20 Jun)  | 0/1/0     | --  
-GBPSEK | GBP/SEK spot | 12.8172  | -0.11% | +1.07% | +2.36% | +3.22% | --                     | 0/0/0     | --  
-GBPUSD | GBP/USD spot | 1.3188   | -0.09% | -0.37% | -2.06% | -2.44% | positive 1.00 (25 Jun) | 4/2/6     | --  
-NOKCAD | NOK/CAD spot | 0.1432   | -0.21% | -1.24% | -3.37% | -1.24% | neutral 1.00 (19 Jun)  | 0/1/0     | --  
+AUDCAD | AUD/CAD spot | 0.9815   | -0.10% | -1.03% | -0.95% | +0.34% | neutral 1.00 (19 Jun)  | 0/4/0     | --  
+AUDCHF | AUD/CHF spot | 0.5600   | -0.11% | -1.06% | -0.57% | +0.68% | neutral 1.00 (19 Jun)  | 0/3/0     | --  
+AUDJPY | AUD/JPY spot | 111.5700 | -0.08% | -1.37% | -2.38% | -1.40% | positive 0.65 (03 Mar) | 0/0/0     | --  
+AUDNOK | AUD/NOK spot | 6.8153   | +0.66% | -0.22% | +2.73% | +1.51% | neutral 1.00 (20 Jun)  | 0/3/0     | --  
+AUDNZD | AUD/NZD spot | 1.2222   | +0.07% | +0.04% | +1.29% | +1.07% | neutral 1.00 (19 Jun)  | 0/2/0     | --  
+AUDSEK | AUD/SEK spot | 6.7248   | -0.11% | +0.06% | +0.84% | +2.19% | neutral 1.00 (19 Jun)  | 0/1/0     | --  
+AUDUSD | AUD/USD spot | 0.6892   | -0.13% | -1.73% | -3.72% | -2.87% | positive 0.99 (25 Jun) | 7/5/5     | --  
+CADCHF | CAD/CHF spot | 0.5704   | -0.05% | +0.04% | +0.33% | +0.37% | neutral 1.00 (19 Jun)  | 0/2/0     | --  
+CADJPY | CAD/JPY spot | 113.6300 | -0.03% | -0.29% | -1.50% | -1.71% | neutral 1.00 (19 Jun)  | 0/3/0     | --  
+CHFJPY | CHF/JPY spot | 199.0900 | -0.04% | -0.39% | -1.89% | -2.13% | neutral 1.00 (19 Jun)  | 0/2/0     | --  
+EURAUD | EUR/AUD spot | 1.6450   | -0.07% | +0.70% | +1.06% | -1.66% | neutral 1.00 (19 Jun)  | 0/1/0     | --  
+EURCAD | EUR/CAD spot | 1.6152   | -0.09% | -0.51% | +0.33% | -0.41% | neutral 1.00 (19 Jun)  | 0/4/0     | --  
+EURCHF | EUR/CHF spot | 0.9215   | -0.13% | -0.44% | +0.69% | -0.03% | neutral 1.00 (19 Jun)  | 0/3/0     | --  
+EURGBP | EUR/GBP spot | 0.8614   | -0.14% | -0.61% | -0.37% | -1.07% | neutral 1.00 (21 Jun)  | 0/9/0     | --  
+EURJPY | EUR/JPY spot | 183.4980 | -0.21% | -0.71% | -1.19% | -2.13% | neutral 1.00 (19 Jun)  | 1/4/0     | --  
+EURNOK | EUR/NOK spot | 11.2151  | +0.24% | +0.68% | +3.93% | +0.92% | neutral 1.00 (30 May)  | 0/0/0     | --  
+EURNZD | EUR/NZD spot | 2.0112   | +0.14% | +1.03% | +2.46% | +0.62% | neutral 1.00 (19 Jun)  | 0/4/0     | --  
+EURSEK | EUR/SEK spot | 11.0761  | +0.06% | +0.78% | +2.32% | +2.45% | neutral 1.00 (15 Jun)  | 0/0/0     | --  
+EURUSD | EUR/USD spot | 1.1340   | -0.17% | -1.12% | -2.51% | -3.74% | neutral 0.81 (25 Jun)  | 30/18/33  | --  
+GBPAUD | GBP/AUD spot | 1.9089   | +0.04% | +1.16% | +1.56% | +0.29% | neutral 1.00 (19 Jun)  | 0/3/0     | --  
+GBPCAD | GBP/CAD spot | 1.8741   | -0.01% | +0.05% | +0.65% | +0.60% | neutral 1.00 (19 Jun)  | 0/2/0     | --  
+GBPCHF | GBP/CHF spot | 1.0692   | -0.04% | +0.11% | +1.01% | +0.99% | neutral 1.00 (19 Jun)  | 0/2/0     | --  
+GBPJPY | GBP/JPY spot | 213.0000 | -0.02% | -0.22% | -0.84% | -1.10% | neutral 1.00 (19 Jun)  | 0/3/0     | --  
+GBPNOK | GBP/NOK spot | 13.0131  | +0.33% | +1.24% | +4.26% | +1.95% | neutral 1.00 (20 Jun)  | 0/3/0     | --  
+GBPNZD | GBP/NZD spot | 2.3339   | +0.16% | +1.26% | +2.01% | +1.83% | neutral 0.99 (20 Jun)  | 0/1/0     | --  
+GBPSEK | GBP/SEK spot | 12.8518  | +0.16% | +1.34% | +2.64% | +3.50% | --                     | 0/0/0     | --  
+GBPUSD | GBP/USD spot | 1.3154   | -0.35% | -0.63% | -2.32% | -2.69% | positive 1.00 (25 Jun) | 4/2/6     | --  
+NOKCAD | NOK/CAD spot | 0.1429   | -0.42% | -1.45% | -3.58% | -1.45% | neutral 1.00 (19 Jun)  | 0/1/0     | --  
 NOKCHF | NOK/CHF spot | 0.0822   | -0.36% | -1.08% | -3.07% | -0.84% | neutral 0.96 (30 Mar)  | 0/0/0     | --  
-NOKJPY | NOK/JPY spot | 16.4124  | -0.08% | -0.81% | -4.63% | -2.72% | neutral 1.00 (19 Jun)  | 0/1/0     | --  
-NOKSEK | NOK/SEK spot | 0.9851   | -0.43% | -0.16% | -1.80% | +1.25% | neutral 1.00 (19 Jun)  | 0/1/0     | --  
-NZDCAD | NZD/CAD spot | 0.8039   | -0.04% | -1.07% | -2.09% | -0.68% | neutral 1.00 (19 Jun)  | 0/1/0     | --  
-NZDCHF | NZD/CHF spot | 0.4579   | -0.24% | -1.17% | -1.91% | -0.46% | neutral 1.00 (18 May)  | 0/0/0     | --  
-NZDJPY | NZD/JPY spot | 91.4100  | -0.01% | -1.28% | -3.49% | -2.29% | neutral 1.00 (19 Jun)  | 0/1/0     | --  
-NZDNOK | NZD/NOK spot | 5.5693   | +0.20% | +0.13% | +1.22% | +1.37% | neutral 1.00 (16 Apr)  | 0/0/0     | --  
-NZDSEK | NZD/SEK spot | 5.4872   | -0.34% | -0.25% | -0.62% | +1.71% | positive 0.93 (04 Jun) | 0/0/0     | --  
-NZDUSD | NZD/USD spot | 0.5649   | -0.28% | -1.62% | -4.79% | -3.99% | negative 1.00 (25 Jun) | 0/1/7     | --  
-SEKCAD | SEK/CAD spot | 0.1452   | -0.41% | -1.49% | -2.29% | -2.48% | neutral 1.00 (17 Nov)  | 0/0/0     | --  
-SEKCHF | SEK/CHF spot | 0.0834   | +0.00% | -0.95% | -1.42% | -2.23% | neutral 0.98 (16 Jun)  | 0/0/0     | --  
-SEKJPY | SEK/JPY spot | 16.6130  | +0.16% | -1.23% | -3.54% | -4.21% | neutral 1.00 (12 Dec)  | 0/0/0     | --  
-USDCAD | USD/CAD spot | 1.4231   | -0.02% | +0.54% | +2.82% | +3.18% | neutral 1.00 (20 Jun)  | 0/4/0     | --  
-USDCHF | USD/CHF spot | 0.8110   | -0.16% | +0.48% | +3.08% | +3.46% | positive 1.00 (19 Jun) | 1/3/0     | --  
-USDJPY | USD/JPY spot | 161.8100 | +0.01% | +0.31% | +1.35% | +1.63% | neutral 1.00 (21 Jun)  | 3/4/0     | --  
-USDNOK | USD/NOK spot | 9.8572   | +0.07% | +1.49% | +6.25% | +4.30% | neutral 1.00 (21 May)  | 0/0/0     | --  
-USDSEK | USD/SEK spot | 9.7182   | -0.28% | +1.41% | +4.42% | +5.70% | positive 0.69 (17 Jun) | 0/0/0     | --  
-USDTWD | USD/TWD spot | 31.7950  | +0.13% | +0.54% | n/a    | n/a    | --                     | 0/0/0     | --  
+NOKJPY | NOK/JPY spot | 16.3654  | -0.37% | -1.09% | -4.91% | -3.00% | neutral 1.00 (19 Jun)  | 0/1/0     | --  
+NOKSEK | NOK/SEK spot | 0.9874   | -0.20% | +0.07% | -1.57% | +1.49% | neutral 1.00 (19 Jun)  | 0/1/0     | --  
+NZDCAD | NZD/CAD spot | 0.8029   | -0.16% | -1.19% | -2.22% | -0.80% | neutral 1.00 (19 Jun)  | 0/1/0     | --  
+NZDCHF | NZD/CHF spot | 0.4581   | -0.20% | -1.12% | -1.86% | -0.41% | neutral 1.00 (18 May)  | 0/0/0     | --  
+NZDJPY | NZD/JPY spot | 91.2200  | -0.21% | -1.48% | -3.69% | -2.50% | neutral 1.00 (19 Jun)  | 0/1/0     | --  
+NZDNOK | NZD/NOK spot | 5.5738   | +0.28% | +0.21% | +1.30% | +1.45% | neutral 1.00 (16 Apr)  | 0/0/0     | --  
+NZDSEK | NZD/SEK spot | 5.5058   | -0.00% | +0.09% | -0.28% | +2.05% | positive 0.93 (04 Jun) | 0/0/0     | --  
+NZDUSD | NZD/USD spot | 0.5637   | -0.49% | -1.83% | -4.99% | -4.20% | negative 1.00 (25 Jun) | 0/1/7     | --  
+SEKCAD | SEK/CAD spot | 0.1448   | -0.69% | -1.76% | -2.56% | -2.75% | neutral 1.00 (17 Nov)  | 0/0/0     | --  
+SEKCHF | SEK/CHF spot | 0.0832   | -0.24% | -1.19% | -1.65% | -2.46% | neutral 0.98 (16 Jun)  | 0/0/0     | --  
+SEKJPY | SEK/JPY spot | 16.5710  | -0.10% | -1.48% | -3.79% | -4.45% | neutral 1.00 (12 Dec)  | 0/0/0     | --  
+USDCAD | USD/CAD spot | 1.4245   | +0.08% | +0.64% | +2.92% | +3.28% | neutral 1.00 (20 Jun)  | 0/4/0     | --  
+USDCHF | USD/CHF spot | 0.8127   | +0.05% | +0.69% | +3.29% | +3.67% | positive 1.00 (19 Jun) | 1/3/0     | --  
+USDJPY | USD/JPY spot | 161.8800 | +0.06% | +0.36% | +1.39% | +1.67% | neutral 1.00 (21 Jun)  | 3/4/0     | --  
+USDNOK | USD/NOK spot | 9.8901   | +0.41% | +1.83% | +6.60% | +4.65% | neutral 1.00 (21 May)  | 0/0/0     | --  
+USDSEK | USD/SEK spot | 9.7643   | +0.20% | +1.90% | +4.91% | +6.20% | positive 0.69 (17 Jun) | 0/0/0     | --  
+USDTWD | USD/TWD spot | 31.8300  | +0.24% | +0.65% | n/a    | n/a    | --                     | 0/0/0     | --  
 
 index:
 Symbol | Name                          | Last      | 1D     | 1W     | 1M  | 3M  | Sentiment              | Hdl +/0/- | Comp
 -------+-------------------------------+-----------+--------+--------+-----+-----+------------------------+-----------+-----
-DXY    | US Dollar Index (DXY)         | 101.55    | -0.06% | +0.69% | n/a | n/a | positive 0.92 (10 Jun) | 0/0/0     | --  
+DXY    | US Dollar Index (DXY)         | 101.59    | -0.02% | +0.73% | n/a | n/a | positive 0.92 (10 Jun) | 0/0/0     | --  
 NDX    | Nasdaq-100 Index              | 29,220.06 | -0.43% | -2.50% | n/a | n/a | neutral 0.96 (24 Jun)  | 12/4/17   | --  
 SOX    | PHLX Semiconductor Index      | 13,458.20 | -0.18% | +1.23% | n/a | n/a | positive 1.00 (24 Jun) | 7/1/1     | --  
 SPX    | S&P 500 Index                 | 7,358.22  | -0.10% | -2.04% | n/a | n/a | neutral 0.81 (25 Jun)  | 101/13/21 | --  
@@ -428,15 +428,15 @@ AMD - Advanced Micro Devices (equity)
     https://finance.yahoo.com/healthcare/articles/novartis-targets-hard-treat-cancers-174704686.html
     Novartis is partnering with Antares Therapeutics to develop small-molecule cancer therapies in a deal worth up to $1.9 billion, which includes an upfront payment of $105 million and potential milestone payments and royalties. The collaboration aims to address hard-to-treat cancers and leverage Novartis' development capabilities and global reach.
 
+  [2026-06-24 18:47:00 CET] Yahoo Finance (eodhd) | FinBERT positive 0.67
+    Wayfair stock rebound reveals a major furniture shift
+    https://finance.yahoo.com/markets/stocks/articles/wayfair-stock-rebound-reveals-major-174700982.html
+    Wayfair's stock has rebounded significantly, rising 73% over the past year, as the company reported a 7.4% increase in net revenue to $2.9 billion in the first quarter, alongside a return to active customer growth. Despite this positive performance, analysts have lowered their price targets for the stock due to ongoing challenges in the home-furnishings market.
+
   [2026-06-24 17:40:57 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.99
     S&amp;P 500 to 8,200: Where to invest before the next leg higher
     https://finance.yahoo.com/markets/stocks/articles/p-500-8-200-where-164057030.html
     Mark Gibbens, CIO of Gibbens Capital Management, expressed optimism about the S&P 500's potential to reach 8,200 by year-end, citing strong earnings growth projections of around 30% for Q1 and over 20% for Q2. He noted that while there may be some market consolidation ahead of earnings reports, he does not anticipate any rate hikes or cuts from the Federal Reserve for the remainder of the year.
-
-  [2026-06-24 17:33:00 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
-    Needham triples Micron target ahead of crucial earnings report
-    https://finance.yahoo.com/markets/stocks/articles/needham-triples-micron-target-ahead-163300247.html
-    Needham has raised its price target for Micron Technology from $500 to $1,550 ahead of the company's earnings report, reflecting a belief in the long-term strength of the memory market, particularly due to demand from AI applications. Despite the initial rise in Micron's stock following the announcement, shares fell over 11% the next day amid a broader selloff in AI-related stocks.
 
 AMZN - Amazon (equity)
   [2026-06-25 11:56:01 CET] Seeking Alpha (eodhd) | FinBERT positive 0.98
@@ -522,6 +522,11 @@ ASML - ASML Holding (ADR) (equity)
     https://finance.yahoo.com/technology/articles/ibm-debuts-worlds-first-sub-100000589.html
     IBM has introduced the world's first sub-1 nanometer chip technology, featuring a new "nanostack" 3D transistor architecture that allows for nearly 100 billion transistors on a chip the size of a fingernail. This breakthrough is expected to enhance performance by up to 50% and improve energy efficiency by 70% compared to IBM's previous 2 nm chips, marking a significant advancement in semiconductor technology.
 
+  [2026-06-25 01:16:25 CET] Yahoo Finance (eodhd) | FinBERT negative 0.99
+    onsemi and Semtech Shares Are Falling, What You Need To Know
+    https://finance.yahoo.com/markets/stocks/articles/onsemi-semtech-shares-falling-know-001625574.html
+    Shares of onsemi and Semtech fell by 4% and 3.9%, respectively, amid a broader decline in semiconductor stocks following concerns about South Korean chipmakers slowing AI memory expansion and a hawkish shift in Federal Reserve rate expectations. The KOSPI index dropped 10%, leading to significant losses for major companies like SK Hynix and Samsung, which each fell more than 10%.
+
   [2026-06-24 19:58:16 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.63
     ASML Holding N.V. (ASML) Is One Of Billionaire David Tepper’s Longest Held AI Stocks
     https://finance.yahoo.com/markets/stocks/articles/asml-holding-n-v-asml-185816412.html
@@ -536,11 +541,6 @@ ASML - ASML Holding (ADR) (equity)
     European Stocks Close Mixed; Oil Prices Tumble as Hormuz Traffic Rises
     https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-mixed-oil-154530207.html
     European stock markets closed mixed on Wednesday, with the Stoxx Europe 600 showing little change, while oil prices fell amid increased traffic in the Hormuz Strait.
-
-  [2026-06-24 13:20:27 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
-    Micron Technology (MU) Gains from Insatiable Demand For Computing Power
-    https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-gains-insatiable-122027423.html
-    Burke Wealth Management's Q1 2026 investor letter reported a -10.6% return for its "Focused Growth Strategy," underperforming the S&P 500's -4.3% return, amid concerns over the Iran War and rising oil prices. The letter highlighted Micron Technology, which saw a 13.29% one-month return and a 726.54% increase over the past year, as a key player benefiting from the growing demand for computing power essential for the AI revolution.
 
 AUDCAD - AUD/CAD spot (fx)
   [2026-06-19 08:00:00 CET] news.google.com (google) | FinBERT neutral 1.00
@@ -644,6 +644,11 @@ AVGO - Broadcom (equity)
     https://seekingalpha.com/news/4607091-amazon-boosts-india-investment-by-13b-to-expand-ai-cloud-infrastructure?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news
     Amazon is increasing its planned investments in India by $13 billion to enhance its artificial intelligence and cloud infrastructure, specifically expanding Amazon Web Services' data center capacity in Mumbai and Hyderabad. The company also plans to open over 20 new fulfillment centers and more than 100 delivery stations in India this year, with total investments expected to exceed $88 billion between 2010 and 2030.
 
+  [2026-06-24 20:34:27 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    AI Chip Stocks Stage Rebound: Nvidia, AMD Lead Recovery Ahead of Micron Earnings Shock
+    https://finance.yahoo.com/technology/articles/ai-chip-stocks-stage-rebound-193427431.html
+    AI and chip stocks saw a modest recovery on Wednesday, led by Nvidia and AMD, as investors anticipated Micron Technology's fiscal third-quarter results following a selloff in memory stocks. The Nasdaq Composite, S&P 500, and Dow all posted gains, while Micron remained one of the stronger performers despite a slight decline.
+
   [2026-06-24 19:20:00 CET] nasdaq.com (eodhd) | FinBERT positive 1.00
     2 High-Growth AI Stocks I'd Be Buying Instead of SpaceX
     https://www.nasdaq.com/articles/2-high-growth-ai-stocks-id-be-buying-instead-spacex
@@ -658,11 +663,6 @@ AVGO - Broadcom (equity)
     Top Midday Stories: Wendy's Shares Soar on Reported Meme-Trader Frenzy; Broadcom, OpenAI Roll Out Jalapeno AI Chip
     https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-wendy-apos-161842501.html
     Wendy's shares increased significantly amid a reported surge in meme trading, while Broadcom and OpenAI announced the rollout of their Jalapeno AI chip. Additionally, all three major US stock indexes rose around midday as oil prices declined.
-
-  [2026-06-24 16:31:59 CET] Yahoo Finance (eodhd) | FinBERT positive 0.72
-    Is Qualcomm Stock A Bet On AI's Future Or A Hostage To The Smartphone's Present?
-    https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-bet-ais-future-153159933.html
-    Qualcomm's stock has experienced a significant run-up but is currently trading about 18% below its 52-week high as the company shifts focus from its core smartphone business to emerging markets in AI, automotive, and data centers. Despite facing challenges in its handset segment, Qualcomm maintains a strong financial position, allowing it to invest in new growth areas while navigating near-term turbulence.
 
 CADCHF - CAD/CHF spot (fx)
   [2026-06-19 08:00:00 CET] news.google.com (google) | FinBERT neutral 1.00
@@ -1233,6 +1233,11 @@ MRVL - Marvell Technology (equity)
     https://finance.yahoo.com/markets/stocks/articles/stifel-raises-texas-instruments-txn-040150870.html
     Stifel raised its price target for Texas Instruments (TXN) from $340 to $360, maintaining a Buy rating, due to improving momentum in the semiconductor sector. Citi also increased its price objective for TXN from $280 to $345, citing a stronger recovery in the analog market driven by demand from data centers.
 
+  [2026-06-25 01:08:25 CET] Yahoo Finance (eodhd) | FinBERT negative 0.99
+    Why Marvell Technology (MRVL) Shares Are Trading Lower Today
+    https://finance.yahoo.com/markets/stocks/articles/why-marvell-technology-mrvl-shares-000825018.html
+    Marvell Technology's shares fell 4.1% following a decline in South Korean chipmakers and concerns over debt-funded AI capital spending, as well as a hawkish shift in Federal Reserve rate expectations. The drop was influenced by a report that SK Hynix is slowing its high-bandwidth memory expansion, which investors interpreted as a warning about AI data-center demand.
+
   [2026-06-24 21:12:23 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
     ASML Holding (ASML): The Best All-Time High Stock with Legs to Rally Further
     https://finance.yahoo.com/markets/stocks/articles/asml-holding-asml-best-time-201223491.html
@@ -1247,11 +1252,6 @@ MRVL - Marvell Technology (equity)
     Stock Market News for Jun 24, 2026
     https://finance.yahoo.com/markets/stocks/articles/stock-market-news-jun-24-132200682.html
     On June 24, 2026, Wall Street closed sharply lower, with the Dow Jones Industrial Average down 0.1%, the Nasdaq Composite falling 2.2%, and the S&P 500 losing 1.4%, primarily due to concerns over AI spending in the semiconductor sector. Oil prices also declined, with Brent crude down 1.1% and WTI crude down 0.9%, amid easing supply concerns related to U.S.-Iran negotiations.
-
-  [2026-06-23 23:46:33 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.98
-    Wall Street ends lower as AI spending concerns mount
-    https://finance.yahoo.com/video/wall-street-ends-lower-ai-224633427.html
-    Wall Street closed lower amid growing concerns about spending on artificial intelligence. The decline reflects investor apprehension regarding the financial implications of AI investments.
 
 MSFT - Microsoft Corp (AI vertical) (equity)
   [2026-06-25 11:57:50 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.92
@@ -1269,15 +1269,15 @@ MSFT - Microsoft Corp (AI vertical) (equity)
     https://www.globenewswire.com/news-release/2026/06/25/3317243/673/en/ROSEN-A-LEADING-NATIONAL-FIRM-Encourages-Microsoft-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-MSFT.html
     Rosen Law Firm is reminding Microsoft investors who purchased common stock between May 1, 2025, and January 28, 2026, of the August 11, 2026, deadline to secure counsel for a securities class action lawsuit. The lawsuit alleges that Microsoft made misleading statements regarding its Copilot products, leading to investor damages when the true information was revealed.
 
+  [2026-06-24 20:30:00 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Qualcomm debuts line of AI data center chips and systems, increasing competition with Nvidia
+    https://finance.yahoo.com/technology/article/qualcomm-debuts-line-of-ai-data-center-chips-and-systems-increasing-competition-with-nvidia-193000684.html
+    Qualcomm is launching a new line of AI data center chips and systems, including the Dragonfly C1000 CPU, and has secured agreements with major clients like Microsoft and Meta. The company is also acquiring AI software firm Modular to enhance its competitive position against Nvidia and is introducing new memory technology aimed at improving efficiency and reducing costs.
+
   [2026-06-24 20:03:47 CET] Yahoo Finance (eodhd) | FinBERT neutral 1.00
     Microsoft Corporation (MSFT) Is One Of Billionaire David Tepper’s Oldest AI Stocks
     https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-one-billionaire-190347977.html
     Microsoft Corporation (NASDAQ:MSFT) is one of billionaire David Tepper's oldest AI stock holdings, having been part of Appaloosa's portfolio since 2010. The fund's stake in Microsoft peaked at 1.7 million shares worth $639 million in Q4 2023, but has since declined, with the latest stake valued at $33 million.
-
-  [2026-06-24 19:41:00 CET] Yahoo Finance (eodhd) | FinBERT positive 0.90
-    2 Cheap Home-Run Nuclear Stocks to Buy Now for 90% Upside and AI Growth
-    https://finance.yahoo.com/energy/articles/2-cheap-home-run-nuclear-184100373.html
-    The article discusses two nuclear energy stocks, X-Energy and Nano Nuclear Energy, which are trading under $25 per share and are projected to have a 90% upside based on Zacks price targets. It highlights the increasing demand for electricity driven by AI data centers and the U.S. government's goal to quadruple nuclear capacity by 2050, with both companies involved in developing next-generation nuclear technologies.
 
 MU - Micron Technology Inc (equity)
   [2026-06-25 11:21:06 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.98
