@@ -1,0 +1,1711 @@
+KAIROS DAILY REPORT
+========================================================================
+Date: 2026-06-27
+Generated: 2026-06-27 06:27:08 CET
+
+
+MACRO DATA SUMMARY
+========================================================================
+Numeric market and fundamental data, shown as-is.
+Prices are daily closes (latest 2026-06-26).
+Prices last fetched 2026-06-27 06:21:22 CET.
+This is not sentiment and is never scored.
+
+Volatility: VIX 18.41 (normal) -0.4800 (-2.54%)
+
+Equities & indices:
+Symbol | Last         | Change                | Close date
+-------+--------------+-----------------------+-----------
+000660 | 1,000,000.00 | +0.0000 (+0.00%)      | 2026-06-26
+005930 | 339,500.00   | -19,000.0000 (-5.30%) | 2026-06-26
+AMAT   | 626.84       | -41.1600 (-6.16%)     | 2026-06-26
+AMD    | 521.58       | -10.9900 (-2.06%)     | 2026-06-26
+AMZN   | 232.69       | +5.6800 (+2.50%)      | 2026-06-26
+ANET   | 157.60       | -7.8500 (-4.74%)      | 2026-06-26
+ARM    | 334.27       | -13.4400 (-3.87%)     | 2026-06-26
+ASML   | 1,794.62     | -46.5601 (-2.53%)     | 2026-06-26
+AVGO   | 365.02       | -13.8900 (-3.67%)     | 2026-06-26
+CEG    | 264.02       | -4.6700 (-1.74%)      | 2026-06-26
+CSCO   | 113.77       | -5.2000 (-4.37%)      | 2026-06-26
+DELL   | 399.49       | -9.9600 (-2.43%)      | 2026-06-26
+DLR    | 193.00       | +0.5600 (+0.29%)      | 2026-06-26
+DTCR   | 30.68        | -0.3900 (-1.26%)      | 2026-06-26
+EQIX   | 1,091.30     | +3.6900 (+0.34%)      | 2026-06-26
+ETN    | 402.68       | -17.1900 (-4.09%)     | 2026-06-26
+GEV    | 1,045.17     | -40.3000 (-3.71%)     | 2026-06-26
+GOOGL  | 337.39       | -6.3200 (-1.84%)      | 2026-06-26
+KLAC   | 248.64       | -10.1600 (-3.93%)     | 2026-06-26
+LRCX   | 379.09       | -22.7300 (-5.66%)     | 2026-06-26
+META   | 550.25       | +7.3800 (+1.36%)      | 2026-06-26
+MRVL   | 266.77       | -14.4900 (-5.15%)     | 2026-06-26
+MSFT   | 372.97       | +20.1400 (+5.71%)     | 2026-06-26
+MU     | 1,132.33     | -81.2301 (-6.69%)     | 2026-06-26
+NRG    | 149.36       | +2.2500 (+1.53%)      | 2026-06-26
+NVDA   | 192.53       | -3.2100 (-1.64%)      | 2026-06-26
+ORCL   | 148.53       | -3.9300 (-2.58%)      | 2026-06-26
+PWR    | 687.87       | -30.7200 (-4.28%)     | 2026-06-26
+QQQ    | 706.52       | -9.8600 (-1.38%)      | 2026-06-26
+SFTBY  | 19.71        | -1.1700 (-5.60%)      | 2026-06-26
+SMCI   | 30.63        | -1.0500 (-3.31%)      | 2026-06-26
+SMH    | 611.61       | -25.2700 (-3.97%)     | 2026-06-26
+SOXX   | 589.94       | -35.2600 (-5.64%)     | 2026-06-26
+SPY    | 728.99       | -5.3100 (-0.72%)      | 2026-06-26
+SU     | 276.05       | -3.5000 (-1.25%)      | 2026-06-26
+TLN    | 404.09       | -12.7100 (-3.05%)     | 2026-06-26
+TSM    | 432.35       | -2.6400 (-0.61%)      | 2026-06-26
+VRT    | 303.95       | -21.6200 (-6.64%)     | 2026-06-26
+VST    | 163.49       | -4.2800 (-2.55%)      | 2026-06-26
+XLU    | 46.20        | +0.3500 (+0.76%)      | 2026-06-26
+
+FX moves (top 6 of 46 pairs by absolute move; full universe in News & headlines):
+Symbol | Last    | Change           | Close date
+-------+---------+------------------+-----------
+NOKSEK | 0.9756  | -0.0102 (-1.03%) | 2026-06-26
+NOKCHF | 0.0813  | -0.0008 (-0.97%) | 2026-06-26
+NOKJPY | 16.2440 | -0.1576 (-0.96%) | 2026-06-26
+NOKCAD | 0.1419  | -0.0011 (-0.77%) | 2026-06-26
+NZDNOK | 5.5995  | +0.0324 (+0.58%) | 2026-06-26
+EURNOK | 11.2801 | +0.0563 (+0.50%) | 2026-06-26
+
+Upcoming earnings (numeric estimates, as-is; not scored):
+Symbol | Report date | Fiscal     | EPS est. 
+-------+-------------+------------+----------
+ASML   | 2026-07-15  | 2026-06-30 | 6.86     
+TSM    | 2026-07-16  | 2026-06-30 | 3.74     
+GEV    | 2026-07-22  | 2026-06-30 | 3.18     
+DLR    | 2026-07-23  | 2026-06-30 | 0.33     
+GOOGL  | 2026-07-23  | 2026-06-30 | 2.88     
+000660 | 2026-07-29  | 2026-06-30 | 71,064.06
+005930 | 2026-07-29  | 2026-06-30 | 11,032.84
+ARM    | 2026-07-29  | 2026-06-30 | 0.40     
+
+
+WATCHLIST SUMMARY
+========================================================================
+Percentage moves over 1D / 1W / 1M / 3M from daily closes (unitless).
+Last level in the quote currency for FX, USD for equities/volatility.
+Sentiment is the latest FinBERT label/score for the instrument.
+Hdl +/0/- = positive/neutral/negative scored headlines in the news window.
+
+Equities:
+Symbol | Name                                                    | Last         | 1D     | 1W      | 1M     | 3M      | Sentiment              | Hdl +/0/- | Comp
+-------+---------------------------------------------------------+--------------+--------+---------+--------+---------+------------------------+-----------+-----
+000660 | SK Hynix (Korea)                                        | 1,000,000.00 | +0.00% | +0.00%  | n/a    | n/a     | --                     | 0/0/0     | --  
+005930 | Samsung Electronics (Korea)                             | 339,500.00   | -5.30% | -4.10%  | n/a    | n/a     | --                     | 0/0/0     | --  
+AMAT   | Applied Materials                                       | 626.84       | -6.16% | +1.58%  | n/a    | n/a     | positive 0.99 (26 Jun) | 12/2/2    | --  
+AMD    | Advanced Micro Devices                                  | 521.58       | -2.06% | -2.94%  | n/a    | n/a     | positive 1.00 (26 Jun) | 56/21/10  | --  
+AMZN   | Amazon                                                  | 232.69       | +2.50% | -4.79%  | n/a    | n/a     | neutral 0.98 (27 Jun)  | 53/25/9   | --  
+ANET   | Arista Networks                                         | 157.60       | -4.74% | -7.11%  | n/a    | n/a     | positive 1.00 (25 Jun) | 4/3/0     | --  
+ARM    | Arm Holdings                                            | 334.27       | -3.87% | -23.94% | n/a    | n/a     | positive 1.00 (25 Jun) | 5/5/1     | --  
+ASML   | ASML Holding (ADR)                                      | 1,794.62     | -2.53% | -7.00%  | n/a    | n/a     | positive 1.00 (25 Jun) | 12/13/10  | --  
+AVGO   | Broadcom                                                | 365.02       | -3.67% | -11.12% | n/a    | n/a     | neutral 1.00 (26 Jun)  | 51/18/16  | --  
+CEG    | Constellation Energy                                    | 264.02       | -1.74% | -3.66%  | n/a    | n/a     | neutral 1.00 (26 Jun)  | 20/11/3   | --  
+CSCO   | Cisco Systems                                           | 113.77       | -4.37% | -4.83%  | n/a    | n/a     | positive 0.60 (26 Jun) | 11/4/0    | --  
+DELL   | Dell Technologies                                       | 399.49       | -2.43% | -2.44%  | n/a    | n/a     | neutral 1.00 (26 Jun)  | 24/13/2   | --  
+DLR    | Digital Realty (datacenter REIT)                        | 193.00       | +0.29% | +2.58%  | n/a    | n/a     | positive 1.00 (23 Jun) | 4/0/0     | --  
+DTCR   | Global X Data Center & Digital Infra ETF                | 30.68        | -1.26% | -3.88%  | n/a    | n/a     | positive 1.00 (13 Jun) | 0/0/0     | --  
+EQIX   | Equinix (datacenter REIT)                               | 1,091.30     | +0.34% | -0.08%  | n/a    | n/a     | positive 0.60 (25 Jun) | 6/5/0     | --  
+ETN    | Eaton                                                   | 402.68       | -4.09% | -4.53%  | n/a    | n/a     | positive 1.00 (23 Jun) | 3/2/0     | --  
+GEV    | GE Vernova                                              | 1,045.17     | -3.71% | -5.82%  | n/a    | n/a     | positive 0.51 (26 Jun) | 32/9/0    | --  
+GOOGL  | Alphabet                                                | 337.39       | -1.84% | -8.33%  | n/a    | n/a     | positive 0.97 (27 Jun) | 36/36/8   | --  
+KLAC   | KLA Corp                                                | 248.64       | -3.93% | -4.21%  | n/a    | n/a     | positive 0.99 (25 Jun) | 7/1/1     | --  
+LRCX   | Lam Research                                            | 379.09       | -5.66% | -2.56%  | n/a    | n/a     | positive 0.91 (26 Jun) | 21/4/5    | --  
+META   | Meta Platforms                                          | 550.25       | +1.36% | -4.67%  | n/a    | n/a     | positive 0.64 (27 Jun) | 58/38/13  | --  
+MRVL   | Marvell Technology                                      | 266.77       | -5.15% | -14.11% | n/a    | n/a     | neutral 1.00 (26 Jun)  | 36/18/7   | --  
+MSFT   | Microsoft Corp (AI vertical)                            | 372.97       | +5.71% | -1.69%  | -9.62% | +2.13%  | positive 1.00 (27 Jun) | 78/50/28  | --  
+MU     | Micron Technology Inc                                   | 1,132.33     | -6.69% | -0.15%  | n/a    | n/a     | positive 0.80 (27 Jun) | 85/38/23  | --  
+NRG    | NRG Energy                                              | 149.36       | +1.53% | +10.59% | n/a    | n/a     | neutral 0.99 (25 Jun)  | 2/2/0     | --  
+NVDA   | NVIDIA Corp (AI vertical)                               | 192.53       | -1.64% | -8.62%  | -9.33% | +12.56% | negative 0.96 (27 Jun) | 127/68/47 | --  
+ORCL   | Oracle                                                  | 148.53       | -2.58% | -19.40% | n/a    | n/a     | negative 0.99 (26 Jun) | 44/20/30  | --  
+PWR    | Quanta Services                                         | 687.87       | -4.28% | -2.05%  | n/a    | n/a     | positive 1.00 (26 Jun) | 5/0/0     | --  
+QQQ    | Invesco QQQ Trust (Nasdaq 100)                          | 706.52       | -1.38% | -4.50%  | -3.14% | +23.13% | neutral 0.70 (27 Jun)  | 29/27/5   | --  
+SFTBY  | SoftBank Group Corp (ADR; Tokyo 9984 not on EODHD plan) | 19.71        | -5.60% | -15.81% | n/a    | n/a     | negative 0.98 (26 Jun) | 8/8/7     | --  
+SMCI   | Super Micro Computer                                    | 30.63        | -3.31% | -0.10%  | n/a    | n/a     | positive 1.00 (25 Jun) | 31/4/3    | --  
+SMH    | VanEck Semiconductor ETF                                | 611.61       | -3.97% | -7.31%  | n/a    | n/a     | neutral 1.00 (26 Jun)  | 7/4/2     | --  
+SOXX   | iShares Semiconductor ETF                               | 589.94       | -5.64% | -7.74%  | n/a    | n/a     | neutral 0.66 (26 Jun)  | 16/11/6   | --  
+SPY    | SPDR S&P 500 ETF Trust                                  | 728.99       | -0.72% | -2.38%  | -2.61% | +13.30% | positive 0.96 (27 Jun) | 59/49/6   | --  
+SU     | Schneider Electric (Euronext Paris)                     | 276.05       | -1.25% | -4.56%  | n/a    | n/a     | positive 1.00 (25 Jun) | 3/1/0     | --  
+TLN    | Talen Energy                                            | 404.09       | -3.05% | -7.38%  | n/a    | n/a     | positive 1.00 (23 Jun) | 2/0/0     | --  
+TSM    | TSMC (ADR)                                              | 432.35       | -0.61% | -6.44%  | n/a    | n/a     | negative 0.79 (26 Jun) | 59/14/3   | --  
+VRT    | Vertiv Holdings                                         | 303.95       | -6.64% | -8.74%  | n/a    | n/a     | neutral 0.89 (26 Jun)  | 8/5/0     | --  
+VST    | Vistra                                                  | 163.49       | -2.55% | -0.02%  | n/a    | n/a     | positive 0.85 (24 Jun) | 6/3/0     | --  
+XLU    | Utilities Select Sector SPDR ETF                        | 46.20        | +0.76% | +3.88%  | n/a    | n/a     | neutral 1.00 (26 Jun)  | 5/3/0     | --  
+
+Volatility:
+Symbol | Name                  | Last  | 1D     | 1W     | 1M      | 3M      | Sentiment              | Hdl +/0/- | Comp
+-------+-----------------------+-------+--------+--------+---------+---------+------------------------+-----------+-----
+VIX    | CBOE Volatility Index | 18.41 | -2.54% | +9.71% | +16.96% | -27.09% | positive 0.97 (26 Jun) | 4/1/3     | --  
+
+FX:
+Symbol | Name         | Last     | 1D     | 1W     | 1M     | 3M     | Sentiment              | Hdl +/0/- | Comp
+-------+--------------+----------+--------+--------+--------+--------+------------------------+-----------+-----
+AUDCAD | AUD/CAD spot | 0.9797   | -0.21% | -1.33% | -1.18% | +0.32% | neutral 1.00 (19 Jun)  | 0/0/0     | --  
+AUDCHF | AUD/CHF spot | 0.5584   | -0.27% | -1.20% | -1.22% | +0.34% | neutral 1.00 (19 Jun)  | 0/0/0     | --  
+AUDJPY | AUD/JPY spot | 111.5500 | -0.23% | -1.22% | -2.84% | -1.41% | positive 0.65 (03 Mar) | 0/0/0     | --  
+AUDNOK | AUD/NOK spot | 6.8100   | +0.23% | +0.21% | +2.54% | +1.77% | neutral 1.00 (20 Jun)  | 0/1/0     | --  
+AUDNZD | AUD/NZD spot | 1.2229   | -0.05% | +0.13% | +0.92% | +1.28% | neutral 1.00 (19 Jun)  | 0/0/0     | --  
+AUDSEK | AUD/SEK spot | 6.7226   | -0.09% | +0.09% | +0.45% | +2.36% | neutral 1.00 (19 Jun)  | 0/0/0     | --  
+AUDUSD | AUD/USD spot | 0.6897   | -0.19% | -1.53% | -3.95% | -3.21% | negative 0.89 (26 Jun) | 6/2/7     | --  
+CADCHF | CAD/CHF spot | 0.5703   | -0.05% | +0.12% | +0.26% | +0.53% | neutral 1.00 (19 Jun)  | 0/0/0     | --  
+CADJPY | CAD/JPY spot | 113.9300 | +0.00% | +0.11% | -1.39% | -1.22% | neutral 1.00 (19 Jun)  | 0/0/0     | --  
+CHFJPY | CHF/JPY spot | 199.6900 | -0.00% | +0.03% | -1.69% | -1.79% | neutral 1.00 (19 Jun)  | 0/0/0     | --  
+EURAUD | EUR/AUD spot | 1.6511   | +0.34% | +0.89% | +1.51% | -1.39% | neutral 1.00 (19 Jun)  | 0/0/0     | --  
+EURCAD | EUR/CAD spot | 1.6157   | +0.06% | -0.47% | +0.37% | -0.51% | neutral 1.00 (19 Jun)  | 0/0/0     | --  
+EURCHF | EUR/CHF spot | 0.9216   | +0.04% | -0.34% | +0.64% | +0.04% | neutral 1.00 (19 Jun)  | 0/0/0     | --  
+EURGBP | EUR/GBP spot | 0.8621   | +0.02% | -0.68% | -0.20% | -0.85% | neutral 1.00 (21 Jun)  | 0/1/0     | --  
+EURJPY | EUR/JPY spot | 183.8270 | +0.09% | -0.59% | -1.16% | -1.85% | neutral 1.00 (19 Jun)  | 0/0/0     | --  
+EURNOK | EUR/NOK spot | 11.2801  | +0.50% | +2.00% | +4.41% | +1.15% | neutral 1.00 (30 May)  | 0/0/0     | --  
+EURNZD | EUR/NZD spot | 2.0133   | +0.09% | +0.75% | +1.75% | +0.59% | neutral 1.00 (19 Jun)  | 0/0/0     | --  
+EURSEK | EUR/SEK spot | 11.0566  | -0.07% | +0.94% | +2.07% | +2.04% | neutral 1.00 (15 Jun)  | 0/0/0     | --  
+EURUSD | EUR/USD spot | 1.1381   | +0.10% | -0.68% | -2.16% | -3.49% | negative 0.76 (26 Jun) | 27/14/34  | --  
+GBPAUD | GBP/AUD spot | 1.9129   | +0.19% | +1.64% | +2.00% | +0.47% | neutral 1.00 (19 Jun)  | 0/0/0     | --  
+GBPCAD | GBP/CAD spot | 1.8737   | +0.01% | +0.27% | +0.54% | +0.32% | neutral 1.00 (19 Jun)  | 0/0/0     | --  
+GBPCHF | GBP/CHF spot | 1.0688   | -0.01% | +0.40% | +0.81% | +0.88% | neutral 1.00 (19 Jun)  | 0/0/0     | --  
+GBPJPY | GBP/JPY spot | 213.5000 | +0.02% | +0.39% | -0.85% | -0.89% | neutral 1.00 (19 Jun)  | 0/0/0     | --  
+GBPNOK | GBP/NOK spot | 13.0817  | +0.45% | +2.76% | +4.59% | +1.99% | neutral 1.00 (20 Jun)  | 0/1/0     | --  
+GBPNZD | GBP/NZD spot | 2.3367   | +0.19% | +1.56% | +1.53% | +2.17% | neutral 0.99 (20 Jun)  | 0/1/0     | --  
+GBPSEK | GBP/SEK spot | 12.8225  | -0.12% | +1.69% | +2.25% | +2.89% | --                     | 0/0/0     | --  
+GBPUSD | GBP/USD spot | 1.3188   | +0.16% | -0.09% | -1.71% | -2.19% | positive 1.00 (26 Jun) | 4/2/4     | --  
+NOKCAD | NOK/CAD spot | 0.1419   | -0.77% | -2.27% | -4.12% | -2.47% | neutral 1.00 (19 Jun)  | 0/0/0     | --  
+NOKCHF | NOK/CHF spot | 0.0813   | -0.97% | -2.40% | -4.13% | -1.57% | neutral 0.96 (30 Mar)  | 0/0/0     | --  
+NOKJPY | NOK/JPY spot | 16.2440  | -0.96% | -1.87% | -5.48% | -3.47% | neutral 1.00 (19 Jun)  | 0/0/0     | --  
+NOKSEK | NOK/SEK spot | 0.9756   | -1.03% | -1.35% | -2.70% | +0.41% | neutral 1.00 (19 Jun)  | 0/0/0     | --  
+NZDCAD | NZD/CAD spot | 0.8004   | -0.21% | -1.46% | -2.40% | -1.49% | neutral 1.00 (19 Jun)  | 0/0/0     | --  
+NZDCHF | NZD/CHF spot | 0.4565   | -0.26% | -1.34% | -2.14% | -0.95% | neutral 1.00 (18 May)  | 0/0/0     | --  
+NZDJPY | NZD/JPY spot | 91.2000  | -0.21% | -1.32% | -3.74% | -2.68% | neutral 1.00 (19 Jun)  | 0/0/0     | --  
+NZDNOK | NZD/NOK spot | 5.5995   | +0.58% | +0.83% | +1.78% | +2.12% | neutral 1.00 (16 Apr)  | 0/0/0     | --  
+NZDSEK | NZD/SEK spot | 5.4773   | -0.35% | -0.29% | -0.85% | +1.63% | positive 0.93 (04 Jun) | 0/0/0     | --  
+NZDUSD | NZD/USD spot | 0.5643   | -0.04% | -1.60% | -4.78% | -4.11% | negative 0.99 (26 Jun) | 0/1/6     | --  
+SEKCAD | SEK/CAD spot | 0.1457   | -0.07% | -0.75% | -1.75% | -2.48% | neutral 1.00 (17 Nov)  | 0/0/0     | --  
+SEKCHF | SEK/CHF spot | 0.0830   | -0.36% | -1.54% | -1.89% | -2.35% | neutral 0.98 (16 Jun)  | 0/0/0     | --  
+SEKJPY | SEK/JPY spot | 16.6008  | +0.16% | -1.33% | -3.13% | -4.20% | neutral 1.00 (12 Dec)  | 0/0/0     | --  
+USDCAD | USD/CAD spot | 1.4194   | -0.06% | +0.21% | +2.56% | +3.10% | neutral 1.00 (20 Jun)  | 0/1/0     | --  
+USDCHF | USD/CHF spot | 0.8096   | -0.07% | +0.21% | +2.83% | +3.68% | positive 1.00 (19 Jun) | 0/0/0     | --  
+USDJPY | USD/JPY spot | 161.7100 | -0.05% | +0.30% | +1.13% | +2.09% | neutral 1.00 (21 Jun)  | 0/3/0     | --  
+USDNOK | USD/NOK spot | 9.9096   | +0.38% | +2.65% | +6.69% | +4.82% | neutral 1.00 (21 May)  | 0/0/0     | --  
+USDSEK | USD/SEK spot | 9.7133   | -0.19% | +1.62% | +4.30% | +5.74% | positive 0.69 (17 Jun) | 0/0/0     | --  
+USDTWD | USD/TWD spot | 31.8450  | +0.10% | +0.50% | n/a    | n/a    | --                     | 0/0/0     | --  
+
+index:
+Symbol | Name                          | Last      | 1D     | 1W     | 1M  | 3M  | Sentiment              | Hdl +/0/- | Comp
+-------+-------------------------------+-----------+--------+--------+-----+-----+------------------------+-----------+-----
+DXY    | US Dollar Index (DXY)         | 101.37    | -0.06% | +0.51% | n/a | n/a | positive 0.92 (10 Jun) | 0/0/0     | --  
+NDX    | Nasdaq-100 Index              | 29,118.24 | -1.09% | -4.24% | n/a | n/a | neutral 1.00 (27 Jun)  | 26/6/21   | --  
+SOX    | PHLX Semiconductor Index      | 13,203.57 | -5.29% | -7.94% | n/a | n/a | negative 0.50 (25 Jun) | 11/1/2    | --  
+SPX    | S&P 500 Index                 | 7,354.02  | -0.05% | -1.95% | n/a | n/a | positive 0.94 (27 Jun) | 264/49/34 | --  
+TWII   | TAIEX (Taiwan Weighted Index) | 44,571.76 | -3.64% | -4.07% | n/a | n/a | --                     | 0/0/0     | --  
+
+
+KEY MACRO NUMBERS
+========================================================================
+No key macro releases in the window.
+
+
+ECONOMIC CALENDAR (WEEK AHEAD)
+========================================================================
+Time (CET / GMT)             | Ccy | Country | Event                                | Est.     | Prev.    | Affects (watchlist)                      
+-----------------------------+-----+---------+--------------------------------------+----------+----------+------------------------------------------
+27 Jun 14:45 CET / 13:45 GMT | EUR | EU      | ECB Schnabel Speech                  | -        | -        | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+28 Jun 17:35 CET / 16:35 GMT | USD | US      | Fed Barkin Speech                    | -        | -        | AMAT, AMD, AMZN, ANET, ARM +47           
+29 Jun 00:50 CET / 23:50 GMT | JPY | JP      | Retail Sales                         | 0.70     | 1.30     | AUDJPY, CADJPY, CHFJPY, EURJPY, GBPJPY +4
+29 Jun 06:00 CET / 05:00 GMT | JPY | JP      | Housing Starts                       | -        | 11.40    | AUDJPY, CADJPY, CHFJPY, EURJPY, GBPJPY +4
+29 Jun 06:00 CET / 05:00 GMT | EUR | FI      | Consumer Confidence                  | -10.00   | -10.50   | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+29 Jun 07:00 CET / 06:00 GMT | SEK | SE      | Balance of Trade                     | -8.40    | -7.30    | AUDSEK, EURSEK, GBPSEK, NOKSEK, NZDSEK +4
+29 Jun 08:00 CET / 07:00 GMT | EUR | ES      | Retail Sales                         | 1.20     | 0.80     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+29 Jun 08:00 CET / 07:00 GMT | EUR | ES      | CPI                                  | -        | 3.20     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+29 Jun 08:00 CET / 07:00 GMT | EUR | ES      | Core Inflation Rate                  | 2.90     | 2.90     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+29 Jun 08:00 CET / 07:00 GMT | EUR | ES      | Inflation Rate                       | 0.40     | 0.10     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+29 Jun 08:00 CET / 07:00 GMT | EUR | ES      | Harmonised Inflation Rate            | 0.40     | 0.10     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+29 Jun 09:30 CET / 08:30 GMT | EUR | PT      | Consumer Confidence                  | -26.00   | -27.10   | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+29 Jun 09:30 CET / 08:30 GMT | GBP | UK      | BoE Consumer Credit                  | 1.80     | 1.86     | EURGBP, GBPAUD, GBPCAD, GBPCHF, GBPJPY +4
+29 Jun 10:00 CET / 09:00 GMT | EUR | EU      | Consumer Inflation Expectation       | 42.00    | 40.50    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+29 Jun 10:30 CET / 09:30 GMT | EUR | BE      | Harmonised Inflation Rate            | 3.90     | 4.00     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+29 Jun 10:30 CET / 09:30 GMT | EUR | BE      | CPI                                  | -        | -0.08    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+29 Jun 10:30 CET / 09:30 GMT | EUR | BE      | Inflation Rate                       | 0.30     | -0.08    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+29 Jun 11:00 CET / 10:00 GMT | EUR | PT      | Retail Sales                         | -0.30    | -0.70    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+29 Jun 11:00 CET / 10:00 GMT | EUR | IE      | Retail Sales                         | -        | -0.20    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+29 Jun 15:30 CET / 14:30 GMT | USD | US      | Dallas Fed Manufacturing Index       | 2.00     | 0.40     | AMAT, AMD, AMZN, ANET, ARM +47           
+29 Jun 17:30 CET / 16:30 GMT | EUR | EU      | ECB President Lagarde Speech         | -        | -        | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+29 Jun 17:30 CET / 16:30 GMT | EUR | EU      | ECB Lagarde Speech                   | -        | -        | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+30 Jun 00:30 CET / 23:30 GMT | JPY | JP      | Unemployment Rate                    | 2.50     | 2.50     | AUDJPY, CADJPY, CHFJPY, EURJPY, GBPJPY +4
+30 Jun 00:50 CET / 23:50 GMT | JPY | JP      | Industrial Production                | 2.20     | 2.00     | AUDJPY, CADJPY, CHFJPY, EURJPY, GBPJPY +4
+30 Jun 04:30 CET / 03:30 GMT | EUR | IE      | Consumer Confidence                  | -        | 59.40    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+30 Jun 07:00 CET / 06:00 GMT | SEK | SE      | Retail Sales                         | 4.10     | 4.70     | AUDSEK, EURSEK, GBPSEK, NOKSEK, NZDSEK +4
+30 Jun 07:00 CET / 06:00 GMT | EUR | DE      | Retail Sales                         | -0.40    | -0.30    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+30 Jun 07:00 CET / 06:00 GMT | GBP | UK      | GDP Growth Rate                      | 0.60     | 0.20     | EURGBP, GBPAUD, GBPCAD, GBPCHF, GBPJPY +4
+30 Jun 07:45 CET / 06:45 GMT | EUR | FR      | Harmonised Inflation Rate            | 0.40     | 0.10     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+30 Jun 07:45 CET / 06:45 GMT | EUR | FR      | Inflation Rate                       | 2.40     | 2.40     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+30 Jun 07:45 CET / 06:45 GMT | EUR | FR      | CPI                                  | -        | 2.40     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+30 Jun 08:55 CET / 07:55 GMT | EUR | DE      | Unemployment Rate                    | 6.40     | 6.30     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+30 Jun 09:00 CET / 08:00 GMT | EUR | DE      | Baden Wuerttemberg CPI               | -        | 2.40     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+30 Jun 09:00 CET / 08:00 GMT | EUR | DE      | North Rhine Westphalia CPI           | -        | -0.20    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+30 Jun 09:00 CET / 08:00 GMT | EUR | DE      | Bavaria CPI                          | -        | -0.20    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+30 Jun 09:00 CET / 08:00 GMT | EUR | DE      | Hesse CPI                            | -        | -0.20    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+30 Jun 09:00 CET / 08:00 GMT | EUR | DE      | Saxony CPI                           | -        | 2.80     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+30 Jun 09:00 CET / 08:00 GMT | EUR | DE      | Brandenburg CPI                      | -        | 2.80     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+30 Jun 09:40 CET / 08:40 GMT | EUR | EU      | ECB Elderson Speech                  | -        | -        | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+30 Jun 10:00 CET / 09:00 GMT | EUR | IT      | Harmonised Inflation Rate            | 3.40     | 3.20     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+30 Jun 10:00 CET / 09:00 GMT | EUR | IT      | CPI                                  | -        | 0.40     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+30 Jun 10:00 CET / 09:00 GMT | EUR | IT      | Inflation Rate                       | 3.40     | 3.20     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+30 Jun 10:40 CET / 09:40 GMT | EUR | EU      | ECB Schnabel Speech                  | -        | -        | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+30 Jun 11:00 CET / 10:00 GMT | EUR | IE      | Harmonised Inflation Rate            | 3.40     | 3.50     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+30 Jun 11:00 CET / 10:00 GMT | EUR | PT      | Inflation Rate                       | 0.30     | 0.20     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+30 Jun 11:00 CET / 10:00 GMT | EUR | GR      | Retail Sales                         | 2.50     | 3.00     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+30 Jun 11:00 CET / 10:00 GMT | EUR | PT      | CPI                                  | -        | 0.20     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+30 Jun 11:00 CET / 10:00 GMT | EUR | IE      | Retail Sales                         | -        | -0.50    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+30 Jun 11:40 CET / 10:40 GMT | GBP | UK      | BoE Breeden Speech                   | -        | -        | EURGBP, GBPAUD, GBPCAD, GBPCHF, GBPJPY +4
+30 Jun 12:30 CET / 11:30 GMT | EUR | EU      | ECB Lane Speech                      | -        | -        | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+30 Jun 13:00 CET / 12:00 GMT | EUR | DE      | Harmonised Inflation Rate            | 2.70     | 2.70     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+30 Jun 13:00 CET / 12:00 GMT | EUR | DE      | CPI                                  | -        | -0.20    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+30 Jun 13:00 CET / 12:00 GMT | EUR | DE      | Inflation Rate                       | 0.10     | -0.20    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+30 Jun 13:00 CET / 12:00 GMT | EUR | EU      | ECB Cipollone Speech                 | -        | -        | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+30 Jun 14:30 CET / 13:30 GMT | EUR | EU      | ECB Lane Speech                      | -        | -        | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+30 Jun 14:45 CET / 13:45 GMT | USD | US      | Chicago PMI                          | 60.00    | 62.70    | AMAT, AMD, AMZN, ANET, ARM +47           
+30 Jun 15:00 CET / 14:00 GMT | USD | US      | CB Consumer Confidence               | -        | 93.10    | AMAT, AMD, AMZN, ANET, ARM +47           
+30 Jun 15:30 CET / 14:30 GMT | USD | US      | Dallas Fed Services Index            | -4.00    | -7.70    | AMAT, AMD, AMZN, ANET, ARM +47           
+30 Jun 15:30 CET / 14:30 GMT | USD | US      | Dallas Fed Services Revenues Index   | 6.00     | 5.00     | AMAT, AMD, AMZN, ANET, ARM +47           
+01 Jul 00:00 CET / 23:00 GMT | AUD | AU      | Ai Group Manufacturing Index         | -22.00   | -22.40   | AUDCAD, AUDCHF, AUDJPY, AUDNOK, AUDNZD +4
+01 Jul 00:00 CET / 23:00 GMT | AUD | AU      | S&P Global Manufacturing PMI         | 51.20    | 50.70    | AUDCAD, AUDCHF, AUDJPY, AUDNOK, AUDNZD +4
+01 Jul 00:50 CET / 23:50 GMT | JPY | JP      | Tankan Non-Manufacturing Outlook     | 30.00    | 29.00    | AUDJPY, CADJPY, CHFJPY, EURJPY, GBPJPY +4
+01 Jul 00:50 CET / 23:50 GMT | JPY | JP      | Tankan Small Non-Manufacturing Index | -        | 16.00    | AUDJPY, CADJPY, CHFJPY, EURJPY, GBPJPY +4
+01 Jul 00:50 CET / 23:50 GMT | JPY | JP      | Tankan Large Non-Manufacturing Index | 35.00    | 36.00    | AUDJPY, CADJPY, CHFJPY, EURJPY, GBPJPY +4
+01 Jul 00:50 CET / 23:50 GMT | JPY | JP      | Tankan Large Manufacturing Outlook   | 13.00    | 14.00    | AUDJPY, CADJPY, CHFJPY, EURJPY, GBPJPY +4
+01 Jul 01:01 CET / 00:01 GMT | EUR | IE      | AIB Manufacturing PMI                | 52.60    | -        | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+01 Jul 01:01 CET / 00:01 GMT | EUR | IE      | S&P Global Manufacturing PMI         | -        | 55.90    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+01 Jul 01:30 CET / 00:30 GMT | JPY | JP      | S&P Global Manufacturing PMI         | 54.90    | 54.50    | AUDJPY, CADJPY, CHFJPY, EURJPY, GBPJPY +4
+01 Jul 05:30 CET / 04:30 GMT | EUR | NL      | Inflation Rate                       | 3.60     | 3.50     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+01 Jul 05:30 CET / 04:30 GMT | EUR | NL      | Retail Sales                         | 2.90     | 3.40     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+01 Jul 05:30 CET / 04:30 GMT | EUR | NL      | GDP Growth Rate                      | 0.10     | 0.50     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+01 Jul 05:30 CET / 04:30 GMT | EUR | NL      | CPI                                  | -        | 3.50     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+01 Jul 06:00 CET / 05:00 GMT | EUR | FI      | Harmonised Inflation Rate            | 3.10     | 2.80     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+01 Jul 06:00 CET / 05:00 GMT | EUR | NL      | NEVI Manufacturing PMI               | 55.10    | -        | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+01 Jul 06:00 CET / 05:00 GMT | JPY | JP      | Consumer Confidence                  | 34.00    | 33.60    | AUDJPY, CADJPY, CHFJPY, EURJPY, GBPJPY +4
+01 Jul 07:30 CET / 06:30 GMT | SEK | SE      | Swedbank Manufacturing PMI           | 55.90    | 57.30    | AUDSEK, EURSEK, GBPSEK, NOKSEK, NZDSEK +4
+01 Jul 07:30 CET / 06:30 GMT | SEK | SE      | S&P Global Manufacturing PMI         | -        | 57.30    | AUDSEK, EURSEK, GBPSEK, NOKSEK, NZDSEK +4
+01 Jul 07:30 CET / 06:30 GMT | CHF | CH      | Retail Sales                         | 0.80     | 1.60     | AUDCHF, CADCHF, CHFJPY, EURCHF, GBPCHF +4
+01 Jul 08:00 CET / 07:00 GMT | EUR | AT      | Harmonised Inflation Rate            | 0.30     | 0.10     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+01 Jul 08:00 CET / 07:00 GMT | EUR | AT      | Inflation Rate                       | 3.60     | 3.70     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+01 Jul 08:00 CET / 07:00 GMT | EUR | AT      | CPI                                  | -        | 0.10     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+01 Jul 08:15 CET / 07:15 GMT | EUR | ES      | S&P Global Manufacturing PMI         | 51.20    | 51.20    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+01 Jul 08:30 CET / 07:30 GMT | CHF | CH      | procure.ch Manufacturing PMI         | 58.00    | 57.30    | AUDCHF, CADCHF, CHFJPY, EURCHF, GBPCHF +4
+01 Jul 08:30 CET / 07:30 GMT | EUR | AT      | Unemployment Rate                    | 6.90     | 7.10     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+01 Jul 08:45 CET / 07:45 GMT | EUR | IT      | S&P Global Manufacturing PMI         | 52.60    | 52.90    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+01 Jul 08:50 CET / 07:50 GMT | EUR | FR      | S&P Global Manufacturing PMI         | 50.70    | 49.70    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+01 Jul 08:55 CET / 07:55 GMT | EUR | DE      | S&P Global Manufacturing PMI         | 50.00    | 50.10    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+01 Jul 09:00 CET / 08:00 GMT | EUR | GR      | S&P Global Manufacturing PMI         | 52.80    | 53.30    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+01 Jul 09:00 CET / 08:00 GMT | EUR | EU      | S&P Global Manufacturing PMI         | 51.30    | 51.60    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+01 Jul 09:30 CET / 08:30 GMT | GBP | UK      | S&P Global Manufacturing PMI         | 53.10    | 53.90    | EURGBP, GBPAUD, GBPCAD, GBPCHF, GBPJPY +4
+01 Jul 10:00 CET / 09:00 GMT | EUR | EU      | Inflation Rate                       | 3.00     | 3.20     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+01 Jul 10:00 CET / 09:00 GMT | EUR | EU      | Core Inflation Rate                  | 2.60     | 2.60     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+01 Jul 10:00 CET / 09:00 GMT | EUR | EU      | CPI                                  | 103.40   | 103.13   | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+01 Jul 10:00 CET / 09:00 GMT | EUR | GR      | Unemployment Rate                    | 9.60     | 9.50     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+01 Jul 11:00 CET / 10:00 GMT | EUR | PT      | Industrial Production                | 0.50     | -        | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+01 Jul 11:00 CET / 10:00 GMT | EUR | PT      | Unemployment Rate                    | 5.70     | 5.70     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+01 Jul 11:00 CET / 10:00 GMT | EUR | IE      | Unemployment Rate                    | 4.80     | 4.90     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+01 Jul 14:00 CET / 13:00 GMT | EUR | EU      | ECB President Lagarde Speech         | -        | -        | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+01 Jul 14:00 CET / 13:00 GMT | GBP | UK      | BoE Gov Bailey Speech                | -        | -        | EURGBP, GBPAUD, GBPCAD, GBPCHF, GBPJPY +4
+01 Jul 14:00 CET / 13:00 GMT | EUR | EU      | ECB Lagarde Speech                   | -        | -        | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+01 Jul 14:45 CET / 13:45 GMT | USD | US      | S&P Global Manufacturing PMI         | 55.70    | 55.10    | AMAT, AMD, AMZN, ANET, ARM +47           
+01 Jul 15:00 CET / 14:00 GMT | USD | US      | ISM Manufacturing PMI                | 53.70    | 54.00    | AMAT, AMD, AMZN, ANET, ARM +47           
+01 Jul 15:00 CET / 14:00 GMT | USD | US      | ISM Manufacturing New Orders         | 56.00    | 56.80    | AMAT, AMD, AMZN, ANET, ARM +47           
+01 Jul 15:00 CET / 14:00 GMT | USD | US      | ISM Manufacturing Employment         | 49.00    | 48.60    | AMAT, AMD, AMZN, ANET, ARM +47           
+01 Jul 15:00 CET / 14:00 GMT | USD | US      | ISM Manufacturing Prices             | 79.00    | 82.10    | AMAT, AMD, AMZN, ANET, ARM +47           
+02 Jul 02:30 CET / 01:30 GMT | AUD | AU      | Balance of Trade                     | 2.20     | 1.79     | AUDCAD, AUDCHF, AUDJPY, AUDNOK, AUDNZD +4
+02 Jul 07:30 CET / 06:30 GMT | CHF | CH      | CPI                                  | -        | 0.60     | AUDCHF, CADCHF, CHFJPY, EURCHF, GBPCHF +4
+02 Jul 07:30 CET / 06:30 GMT | CHF | CH      | Inflation Rate                       | 0.70     | 0.60     | AUDCHF, CADCHF, CHFJPY, EURCHF, GBPCHF +4
+02 Jul 08:00 CET / 07:00 GMT | EUR | ES      | Unemployment Change                  | -        | -36.30   | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+02 Jul 08:30 CET / 07:30 GMT | EUR | EU      | ECB Buch Speech                      | -        | -        | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+02 Jul 09:00 CET / 08:00 GMT | EUR | IT      | Unemployment Rate                    | 5.10     | 5.10     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+02 Jul 09:30 CET / 08:30 GMT | GBP | UK      | BoE Credit Conditions Survey         | -        | -        | EURGBP, GBPAUD, GBPCAD, GBPCHF, GBPJPY +4
+02 Jul 10:00 CET / 09:00 GMT | EUR | EU      | Unemployment Rate                    | 6.30     | 6.30     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+02 Jul 11:00 CET / 10:00 GMT | EUR | EU      | ECB Elderson Speech                  | -        | -        | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+02 Jul 13:30 CET / 12:30 GMT | USD | US      | Non Farm Payrolls                    | 114.00   | 172.00   | AMAT, AMD, AMZN, ANET, ARM +47           
+02 Jul 13:30 CET / 12:30 GMT | USD | US      | Continuing Jobless Claims            | 1,825.00 | 1,821.00 | AMAT, AMD, AMZN, ANET, ARM +47           
+02 Jul 13:30 CET / 12:30 GMT | USD | US      | Initial Jobless Claims               | 220.00   | 215.00   | AMAT, AMD, AMZN, ANET, ARM +47           
+02 Jul 13:30 CET / 12:30 GMT | USD | US      | Government Payrolls                  | 10.00    | 52.00    | AMAT, AMD, AMZN, ANET, ARM +47           
+02 Jul 13:30 CET / 12:30 GMT | USD | US      | Jobless Claims 4-Week Average        | 220.50   | 224.25   | AMAT, AMD, AMZN, ANET, ARM +47           
+02 Jul 13:30 CET / 12:30 GMT | USD | US      | Nonfarm Payrolls Private             | 100.00   | 120.00   | AMAT, AMD, AMZN, ANET, ARM +47           
+02 Jul 13:30 CET / 12:30 GMT | USD | US      | Unemployment Rate                    | 4.30     | 4.30     | AMAT, AMD, AMZN, ANET, ARM +47           
+02 Jul 13:30 CET / 12:30 GMT | USD | US      | U-6 Unemployment Rate                | 8.10     | 8.10     | AMAT, AMD, AMZN, ANET, ARM +47           
+02 Jul 13:30 CET / 12:30 GMT | USD | US      | Manufacturing Payrolls               | 12.00    | 7.00     | AMAT, AMD, AMZN, ANET, ARM +47           
+02 Jul 14:30 CET / 13:30 GMT | CAD | CA      | S&P Global Manufacturing PMI         | 53.40    | 52.90    | AUDCAD, CADCHF, CADJPY, EURCAD, GBPCAD +4
+02 Jul 15:00 CET / 14:00 GMT | USD | US      | Factory Orders ex Transportation     | 0.40     | 1.30     | AMAT, AMD, AMZN, ANET, ARM +47           
+02 Jul 15:00 CET / 14:00 GMT | USD | US      | Factory Orders                       | 2.10     | 4.80     | AMAT, AMD, AMZN, ANET, ARM +47           
+02 Jul 16:45 CET / 15:45 GMT | GBP | UK      | BoE Mann Speech                      | -        | -        | EURGBP, GBPAUD, GBPCAD, GBPCHF, GBPJPY +4
+02 Jul 18:55 CET / 17:55 GMT | EUR | EU      | ECB Cipollone Speech                 | -        | -        | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+02 Jul 21:30 CET / 20:30 GMT | USD | US      | Fed Balance Sheet                    | 6.50     | 6.74     | AMAT, AMD, AMZN, ANET, ARM +47           
+02 Jul 23:00 CET / 22:00 GMT | NZD | NZ      | ANZ Roy Morgan Consumer Confidence   | 86.00    | 86.50    | AUDNZD, EURNZD, GBPNZD, NZDCAD, NZDCHF +4
+03 Jul 00:00 CET / 23:00 GMT | AUD | AU      | S&P Global Services PMI              | 49.90    | 48.70    | AUDCAD, AUDCHF, AUDJPY, AUDNOK, AUDNZD +4
+03 Jul 00:00 CET / 23:00 GMT | AUD | AU      | S&P Global Composite PMI             | 49.80    | -        | AUDCAD, AUDCHF, AUDJPY, AUDNOK, AUDNZD +4
+03 Jul 01:01 CET / 00:01 GMT | EUR | IE      | S&P Global Services PMI              | 50.20    | 50.80    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+03 Jul 01:30 CET / 00:30 GMT | JPY | JP      | S&P Global Services PMI              | 51.80    | 50.00    | AUDJPY, CADJPY, CHFJPY, EURJPY, GBPJPY +4
+03 Jul 01:30 CET / 00:30 GMT | JPY | JP      | S&P Global Composite PMI             | 52.50    | -        | AUDJPY, CADJPY, CHFJPY, EURJPY, GBPJPY +4
+03 Jul 07:00 CET / 06:00 GMT | NOK | NO      | Unemployment Rate n.s.a              | -        | 1.90     | AUDNOK, EURNOK, GBPNOK, NOKCAD, NOKCHF +4
+03 Jul 07:30 CET / 06:30 GMT | SEK | SE      | S&P Global Services PMI              | 52.60    | 53.90    | AUDSEK, EURSEK, GBPSEK, NOKSEK, NZDSEK +4
+03 Jul 07:45 CET / 06:45 GMT | EUR | FR      | Industrial Production                | -0.30    | 0.10     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+03 Jul 08:00 CET / 07:00 GMT | EUR | ES      | Industrial Production                | 2.30     | 2.00     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+03 Jul 08:15 CET / 07:15 GMT | EUR | ES      | S&P Global Composite PMI             | 50.10    | -        | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+03 Jul 08:15 CET / 07:15 GMT | EUR | ES      | S&P Global Services PMI              | 49.70    | 50.10    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+03 Jul 08:45 CET / 07:45 GMT | EUR | IT      | S&P Global Services PMI              | 49.00    | 49.40    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+03 Jul 08:45 CET / 07:45 GMT | EUR | IT      | S&P Global Composite PMI             | 49.90    | 50.40    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+03 Jul 08:50 CET / 07:50 GMT | EUR | FR      | S&P Global Composite PMI             | 47.60    | 44.90    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+03 Jul 08:50 CET / 07:50 GMT | EUR | FR      | S&P Global Services PMI              | 47.40    | 44.30    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+03 Jul 08:55 CET / 07:55 GMT | EUR | DE      | S&P Global Services PMI              | 46.80    | 48.10    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+03 Jul 08:55 CET / 07:55 GMT | EUR | DE      | S&P Global Composite PMI             | 48.00    | 48.80    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+03 Jul 09:00 CET / 08:00 GMT | EUR | IT      | Retail Sales                         | 1.80     | 1.60     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+03 Jul 09:00 CET / 08:00 GMT | EUR | EU      | S&P Global Services PMI              | 48.90    | 47.70    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+03 Jul 09:00 CET / 08:00 GMT | EUR | EU      | S&P Global Composite PMI             | 49.50    | 48.50    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+03 Jul 09:00 CET / 08:00 GMT | EUR | EU      | ECB President Lagarde Speech         | -        | -        | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+03 Jul 09:00 CET / 08:00 GMT | EUR | EU      | ECB Lagarde Speech                   | -        | -        | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+03 Jul 09:30 CET / 08:30 GMT | GBP | UK      | CPI                                  | 3.70     | 3.70     | EURGBP, GBPAUD, GBPCAD, GBPCHF, GBPJPY +4
+03 Jul 09:30 CET / 08:30 GMT | GBP | UK      | S&P Global Composite PMI             | 49.40    | 49.70    | EURGBP, GBPAUD, GBPCAD, GBPCHF, GBPJPY +4
+03 Jul 09:30 CET / 08:30 GMT | GBP | UK      | S&P Global Services PMI              | 48.70    | 49.30    | EURGBP, GBPAUD, GBPCAD, GBPCHF, GBPJPY +4
+03 Jul 11:00 CET / 10:00 GMT | EUR | ES      | Consumer Confidence                  | -        | 77.70    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
+03 Jul 16:00 CET / 15:00 GMT | GBP | UK      | BoE Gov Bailey Speech                | -        | -        | EURGBP, GBPAUD, GBPCAD, GBPCHF, GBPJPY +4
+
+
+EXECUTIVE SUMMARY
+========================================================================
+Automated daily snapshot. Macro levels and the watchlist are numeric market data shown as-is; news carries deterministic FinBERT sentiment with separate neutral summaries; reported earnings follow as hard numbers. Own-portfolio holdings are excluded from this run.
+
+
+NEWS & HEADLINES
+========================================================================
+Sentiment legend (FinBERT):
+  Every sentiment label below is produced by a pinned, deterministic FinBERT model
+  (a fixed model revision). It is rule-bound and cannot hallucinate: the same text
+  always yields the same label.
+  Labels: positive / neutral / negative. The score is the model's confidence in that
+  label, from 0.00 to 1.00.
+  The per-article summaries are separate, OpenAI-generated convenience text describing
+  the article. They are NOT the sentiment signal and do not affect the FinBERT label.
+
+AMAT - Applied Materials (equity)
+  [2026-06-26 09:07:57 CET] Yahoo Finance (eodhd) | FinBERT positive 0.99
+    US Stock Market Today: S&amp;P 500 Futures Rise As Tech Leads Inflation Watch
+    https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080757270.html
+    US stock futures are rising, with E-mini S&P 500 contracts up about 0.7% and Nasdaq-100 futures up more than 2%, as investors monitor inflation signals and housing market conditions. Key developments include expectations of higher inflation from the Fed's preferred gauge, a drop in US oil inventories, and a 7.3% decline in new home sales in May.
+
+  [2026-06-26 04:07:15 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Applied Materials (AMAT) Launches New Chipmaking Systems, Soars to All-Time High
+    https://finance.yahoo.com/technology/articles/applied-materials-amat-launches-chipmaking-030715650.html
+    Applied Materials Inc. launched a new lineup of chipmaking systems designed to enhance artificial intelligence development, leading the stock to reach an all-time high of $669.22 before closing at $668, a 13.42 percent increase. The new systems include the Centura Prime Epi system and three advanced packaging systems aimed at improving efficiency and performance in semiconductor manufacturing.
+
+  [2026-06-24 21:14:07 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Is Applied Materials (AMAT) the Best All-Time High Stock with Legs to Rally Further?
+    https://finance.yahoo.com/markets/stocks/articles/applied-materials-amat-best-time-201407046.html
+    Applied Materials, Inc. (NASDAQ:AMAT) has been identified as one of the 10 All-Time High Stocks with potential for further gains, with Wells Fargo raising its price target to $715 and Citi increasing its target to $710. The company recently introduced new deposition and etch systems aimed at enhancing materials engineering for semiconductor manufacturing.
+
+  [2026-06-24 16:02:58 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.92
+    How Applied Materials Could Become the Next $1 Trillion Chip Stock
+    https://finance.yahoo.com/markets/stocks/articles/applied-materials-could-become-next-150258562.html
+    Applied Materials (AMAT) has seen significant growth, with a market capitalization nearing half a trillion dollars, as it produces essential machinery for semiconductor manufacturing. Analysts have raised their price targets for AMAT stock following strong earnings reports, with expectations of continued demand in the semiconductor equipment industry, particularly driven by AI infrastructure needs.
+
+  [2026-06-24 15:40:00 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    From Quantum to Clothing: Insider Trades Hit 3 Big Names
+    https://finance.yahoo.com/markets/stocks/articles/quantum-clothing-insider-trades-hit-144000700.html
+    Insider sales have increased at D-Wave Quantum Inc. and Applied Materials, with D-Wave expected to receive $100 million in government funding, while Lululemon insiders are making purchases amid a significant decline in the company's stock price. D-Wave's insider sales reached $36 million in Q2, Applied Materials saw $114 million in sales, and Lululemon insiders bought nearly $1 million in shares despite the stock's drop of nearly 50% this year.
+
+AMD - Advanced Micro Devices (equity)
+  [2026-06-26 19:00:25 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    2 Reasons to Like AMD and 1 to Stay Skeptical
+    https://finance.yahoo.com/markets/stocks/articles/2-reasons-amd-1-stay-180025373.html
+    AMD's stock price has increased by 147% over the past six months, reaching $530.48 per share, driven by strong quarterly results and projected revenue growth of 47.6% over the next year. However, concerns remain about the company's historical return on invested capital, which has been low compared to its peers in the semiconductor industry.
+
+  [2026-06-26 16:44:00 CET] Yahoo Finance (eodhd) | FinBERT positive 0.99
+    AMD’s stock split history (&amp; prospects) explained
+    https://finance.yahoo.com/markets/stocks/articles/amd-stock-split-history-prospects-154400094.html
+    Advanced Micro Devices (AMD) has not conducted a stock split in over 25 years, with its last split occurring in 2000, despite significant stock price increases and speculation among investors about a potential split due to the company's recent performance. AMD has conducted six stock splits since going public in 1972, with its stock price increasing by a factor of 904 since its IPO.
+
+  [2026-06-26 15:00:25 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Is AMD a Buy? The Forecast and the 80% Bullish Analyst Wall
+    https://finance.yahoo.com/markets/stocks/articles/amd-buy-forecast-80-bullish-140025893.html
+    Advanced Micro Devices (AMD) has a BUY rating with a price target of $570.22, supported by 41 out of 51 analysts being bullish and a projected 57% annual growth in Data Center revenue. Despite a significant year-to-date stock increase of 148.68%, concerns about high valuation and insider selling persist, indicating potential risks for investors.
+
+  [2026-06-26 15:00:13 CET] Yahoo Finance (eodhd) | FinBERT positive 0.97
+    Forget Pouring Everything Into the SpaceX IPO. This Fund Spreads the Space Bet and Is Up 46% in a Year
+    https://finance.yahoo.com/markets/stocks/articles/forget-pouring-everything-spacex-ipo-140013819.html
+    The ARK Space Exploration & Innovation ETF (ARKX) has achieved a 46.71% return over the past year by diversifying investments across 35 space-related companies, including Rocket Lab and L3Harris, as investors seek exposure to the space sector ahead of the anticipated SpaceX IPO. The fund's structure limits the impact of any single stock's performance, making it a less risky alternative to investing directly in SpaceX.
+
+  [2026-06-26 14:01:16 CET] Yahoo Finance (eodhd) | FinBERT neutral 1.00
+    Update: Tech Stocks Drag Down Equity Index Futures Pre-Bell Amid AI, Gulf Worries
+    https://finance.yahoo.com/markets/stocks/articles/tech-stocks-drag-down-equity-130116053.html
+    Tech stocks are negatively impacting equity index futures ahead of the market opening, influenced by concerns related to artificial intelligence and the Gulf region. The article includes updates on index futures, equity, and oil prices.
+
+AMZN - Amazon (equity)
+  [2026-06-27 03:31:24 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.98
+    Jeff Bezos Challenges Elon Musk’s Tesla And SpaceX With Zoox Robotaxi, Blue Origin Mars Push
+    https://finance.yahoo.com/technology/articles/jeff-bezos-challenges-elon-musk-023124277.html
+    Jeff Bezos' companies are competing with Elon Musk's ventures by unveiling an updated Robotaxi from Zoox, which can produce over 100 units and features improved passenger comfort, and showcasing Blue Origin's new Mars technology, the Blue Ring Mars Telecommunications Orbiter, designed for future Mars missions. Zoox has completed over 500,000 rides since its launch, while Blue Origin's orbiter aims to enhance exploration and communication on Mars.
+
+  [2026-06-27 00:32:31 CET] nasdaq.com (eodhd) | FinBERT negative 0.98
+    Why X-Energy Stock Collapsed 19.2% This Week
+    https://www.nasdaq.com/articles/why-x-energy-stock-collapsed-192-week
+    X-Energy's stock fell 19.2% this week due to delays in its construction projects and a downgrade from Jeffries, as the company currently lacks an approved reactor design and generates minimal revenue. The delay in breaking ground on its first project with Amazon is now pushed to 2027, contributing to the stock's decline since its IPO in April.
+
+  [2026-06-26 22:45:13 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    GameStop pledges to pursue its takeover offer for eBay despite rejection
+    https://finance.yahoo.com/markets/stocks/articles/gamestop-pledges-pursue-ebay-takeover-214513842.html
+    GameStop has announced its intention to continue pursuing its $56 billion takeover offer for eBay, despite the e-commerce company's rejection of the unsolicited bid. Additionally, GameStop expects to achieve adjusted earnings before interest, taxes, depreciation, and amortization of over $600 million in fiscal 2026, up from $345.4 million in fiscal 2025.
+
+  [2026-06-26 22:13:45 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Rubrik (RBRK) Among Most Promising New Technology Stocks To Buy Now
+    https://finance.yahoo.com/technology/articles/rubrik-rbrk-among-most-promising-211345853.html
+    Rubrik, Inc. (NYSE:RBRK) reported fiscal Q1 2027 earnings with revenue of $387.07 million, exceeding estimates, and raised its full-year revenue guidance to $1.64 billion to $1.65 billion. The company also announced an integration of its Rubrik Agent Cloud platform with Amazon Bedrock AgentCore to enhance security in AI workflows.
+
+  [2026-06-26 22:12:40 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    X-Energy (XE) Among Our Most Promising New Technology Stocks
+    https://finance.yahoo.com/technology/articles/x-energy-xe-among-most-211240080.html
+    X-Energy, Inc. (NASDAQ:XE) has seen a 28% decline in its stock price over the past month following a successful IPO in April 2026 that raised approximately $1.1 billion. The company reported a 109% year-over-year increase in revenue for fiscal Q1 2026, totaling $43.4 million, and has a project pipeline of 144 reactors, while analysts maintain a positive outlook with a price target of $35 despite concerns over a delay in a construction permit application.
+
+ANET - Arista Networks (equity)
+  [2026-06-25 09:19:11 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    KeyBanc Raises PT on Arista Networks (ANET) Stock
+    https://finance.yahoo.com/markets/stocks/articles/keybanc-raises-pt-arista-networks-081911451.html
+    KeyBanc analyst Brandon Nispel raised the price target for Arista Networks, Inc. (NYSE:ANET) stock from $178 to $200 while maintaining an "Overweight" rating, citing strong demand and positive developments from the company's new product line. Additionally, Arista announced the launch of the Arista 7060XE7 Series, a new portfolio of networking platforms aimed at supporting AI infrastructure.
+
+  [2026-06-24 16:34:00 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Arista and Paradise Commercial Acquire Thornhill Square Shopping Centre
+    https://finance.yahoo.com/real-estate/articles/arista-paradise-commercial-acquire-thornhill-153400964.html
+    Arista and Paradise Commercial have acquired Thornhill Square Shopping Centre, a 170,000 square foot mixed-use retail property in Thornhill, Ontario, which is anchored by Food Basics and Shoppers Drug Mart. The ownership group plans to revitalize the center through significant long-term investments and enhancements to the tenant mix to better serve the community.
+
+  [2026-06-24 12:44:32 CET] Yahoo Finance (eodhd) | FinBERT neutral 1.00
+    Analysts Pound The Table For 4 Rising S&amp;P 500 Stocks
+    https://finance.yahoo.com/m/854744c0-f3a1-39bb-b0e3-f011c8f9a390/analysts-pound-the-table-for.html
+    Analysts are showing strong support for several rising S&P 500 stocks, indicating that investors should not overlook these opportunities. The article suggests that there is a consensus among analysts regarding these stocks.
+
+  [2026-06-24 10:02:00 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.99
+    The Zacks Analyst Blog Highlights Micron, The Coca-Cola, Arista Networks and Where Food Comes From
+    https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-micron-090200759.html
+    Zacks.com has featured stocks including Micron Technology, The Coca-Cola Co., Arista Networks, and Where Food Comes From in its Analyst Blog, highlighting their recent performance and market conditions. The reports indicate that Micron is benefiting from AI-driven markets, Coca-Cola is seeing growth from its diverse portfolio, Arista Networks is capitalizing on AI and cloud investments, and Where Food Comes From is expanding its certification platform despite facing industry challenges.
+
+  [2026-06-24 02:11:46 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Arista Networks (ANET) Unveils 1.6 Terabit Platforms As 800 Gig Adoption Builds
+    https://finance.yahoo.com/markets/stocks/articles/arista-networks-anet-unveils-1-011146467.html
+    Arista Networks has launched new 1.6-terabit networking platforms to enhance its AI and cloud networking strategy, responding to increasing demand for 800-gig deployments among enterprise and hyperscale customers. The company's initiatives are part of its Arista 2.0 plan, aimed at supporting modern AI data center architectures.
+
+ARM - Arm Holdings (equity)
+  [2026-06-25 19:35:34 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Is Arm Holdings a Buy Near $347? The Case for Double-Digit Upside
+    https://finance.yahoo.com/markets/stocks/articles/arm-holdings-buy-near-347-183534957.html
+    Arm Holdings is currently trading at $347.57, with a 12-month price target of $382.24, indicating a potential upside of approximately 10%, while its data center royalty revenue more than doubled in Q4, contributing to a strong buy rating with 90% confidence. However, the stock faces risks, including a high trailing P/E ratio and potential impacts from the Qualcomm trial, with a bear case price target of $294.57.
+
+  [2026-06-24 16:36:00 CET] Yahoo Finance (eodhd) | FinBERT negative 0.98
+    Arm Stock Isn’t Immune to the Tech Selloff. Wall Street Still Sees Big Upside.
+    https://finance.yahoo.com/m/173c216a-20ec-3405-82e8-3928a13f79f7/arm-stock-isn%E2%80%99t-immune-to-the.html
+    Arm Holdings stock is experiencing a decline, but analysts are increasing their price targets for the company.
+
+  [2026-06-24 14:00:13 CET] Yahoo Finance (eodhd) | FinBERT neutral 1.00
+    Update: US Equity Futures Edge Higher Pre-Bell as Tech Stocks Rebound, Oil Prices Fall
+    https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-edge-higher-130013063.html
+    US equity futures are rising ahead of the market open, driven by a rebound in tech stocks, while oil prices have decreased. The article also includes updates on economic data and an overview of world markets.
+
+  [2026-06-23 22:06:51 CET] Yahoo Finance (eodhd) | FinBERT neutral 1.00
+    Update: US Equity Indexes Decline Amid Hard Sell-Off in Chipmakers
+    https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-decline-amid-210651156.html
+    US equity indexes have declined due to a significant sell-off in chipmaker stocks, with updates on index and price movements as well as analysts' comments included in the article. Access to the full details requires a premium subscription.
+
+  [2026-06-23 21:22:00 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.99
+    US Equity Markets End Lower as Tech Stocks Fall
+    https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-lower-202200042.html
+    US equity indexes closed lower on Tuesday, primarily due to significant declines in major semiconductor and technology stocks.
+
+ASML - ASML Holding (ADR) (equity)
+  [2026-06-25 23:05:19 CET] nasdaq.com (eodhd) | FinBERT positive 1.00
+    IBM Unveils World's First Sub-1 Nanometer Chip Technology
+    https://www.nasdaq.com/articles/ibm-unveils-worlds-first-sub-1-nanometer-chip-technology
+    IBM has introduced the world's first sub-1 nanometer semiconductor technology with a 0.7 nanometer chip that features a new three-dimensional "nanostack" transistor architecture, capable of packing nearly 100 billion transistors onto a chip the size of a fingernail. This technology is expected to enhance performance and energy efficiency compared to IBM's previous 2 nm chips and could see commercial adoption within the next five years.
+
+  [2026-06-25 11:00:00 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    IBM Debuts World's First Sub-1 Nanometer Chip Technology
+    https://finance.yahoo.com/technology/articles/ibm-debuts-worlds-first-sub-100000589.html
+    IBM has introduced the world's first sub-1 nanometer chip technology, featuring a new "nanostack" 3D transistor architecture that allows for nearly 100 billion transistors on a chip the size of a fingernail. This breakthrough is expected to enhance performance by up to 50% and improve energy efficiency by 70% compared to IBM's previous 2 nm chips, marking a significant advancement in semiconductor technology.
+
+  [2026-06-25 01:24:25 CET] Yahoo Finance (eodhd) | FinBERT negative 0.99
+    Vishay Intertechnology and Himax Shares Plummet, What You Need To Know
+    https://finance.yahoo.com/markets/stocks/articles/vishay-intertechnology-himax-shares-plummet-002425754.html
+    Shares of Vishay Intertechnology and Himax fell 8.6% and 8.1%, respectively, amid a broader decline in the semiconductor sector driven by concerns over South Korean chipmakers' slowing AI memory expansion and a hawkish shift in Federal Reserve rate expectations. The KOSPI index dropped 10%, leading to halted trading, as investors reacted to reports indicating a cautionary stance on AI data-center demand.
+
+  [2026-06-25 01:16:25 CET] Yahoo Finance (eodhd) | FinBERT negative 0.99
+    onsemi and Semtech Shares Are Falling, What You Need To Know
+    https://finance.yahoo.com/markets/stocks/articles/onsemi-semtech-shares-falling-know-001625574.html
+    Shares of onsemi and Semtech fell by 4% and 3.9%, respectively, amid a broader decline in semiconductor stocks following concerns about South Korean chipmakers slowing AI memory expansion and a hawkish shift in Federal Reserve rate expectations. The KOSPI index dropped 10%, leading to significant losses for major companies like SK Hynix and Samsung, which each fell more than 10%.
+
+  [2026-06-24 19:58:16 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.63
+    ASML Holding N.V. (ASML) Is One Of Billionaire David Tepper’s Longest Held AI Stocks
+    https://finance.yahoo.com/markets/stocks/articles/asml-holding-n-v-asml-185816412.html
+    ASML Holding N.V. is one of billionaire David Tepper's long-term stock picks, having been part of Appaloosa Management's holdings since 2013, with a current stake valued at $65 million. JPMorgan and Bank of America have recently raised their price targets for ASML shares, citing the company's advanced chip manufacturing capabilities.
+
+AUDNOK - AUD/NOK spot (fx)
+  [2026-06-20 08:00:00 CET] news.google.com (google) | FinBERT neutral 1.00
+    Official exchange rates on selected date | Bank of Russia - Центральный Банк России
+    https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YcldQcEpOMEd0OGVlTzFTZnlKM2lYZ1JxQ2FvLUVUMDI2WnQ0bnk2SzlEV01pb2RKNW40WVJTTzNUTTdDeFJmSDFJN3pnZE5tS3QtakRR?oc=5
+    The Bank of Russia has published the official exchange rates for various currencies on a specified date. The document provides the exchange rates applicable for that day.
+
+AUDUSD - AUD/USD spot (fx)
+  [2026-06-26 08:50:41 CET] FXStreet (eodhd) | FinBERT negative 0.89
+    AUD/USD Price Forecast: Downward-sloping 20-day EMA backs further decline
+    https://www.fxstreet.com/news/aud-usd-price-forecast-downward-sloping-20-day-ema-backs-further-decline-202606260750
+    The Australian Dollar (AUD) is trading 0.25% lower at approximately 0.6890 against the US Dollar (USD) during the European trading session on Friday, as market participants anticipate a downward move by the Reserve Bank of Australia (RBA).
+
+  [2026-06-26 05:10:38 CET] FXStreet (eodhd) | FinBERT negative 0.58
+    AUD/JPY Price Forecast: Extends bearish spell below 111.50 as downside bias persists
+    https://www.fxstreet.com/news/aud-jpy-price-forecast-extends-bearish-spell-below-11150-as-downside-bias-persists-202606260410
+    The AUD/JPY cross is trading in negative territory at approximately 111.25 during early European trading hours on Friday, continuing its bearish trend below 111.50.
+
+  [2026-06-25 07:54:53 CET] FXStreet (eodhd) | FinBERT positive 0.99
+    AUD/JPY Price Forecast: Softens to near 111.50 on intervention fears and bearish technical bias
+    https://www.fxstreet.com/news/aud-jpy-price-forecast-softens-to-near-11150-on-intervention-fears-and-bearish-technical-bias-202606250654
+    The AUD/JPY cross is trading around 111.50, showing a decline during early European trading hours on Thursday, as the Japanese Yen strengthens against the Australian Dollar due to concerns over potential currency intervention by Japanese authorities.
+
+  [2026-06-25 07:40:10 CET] FXStreet (eodhd) | FinBERT negative 0.66
+    AUD/USD Price Forecast: Likely to find support near 0.6830 amid hawkish Fed bets
+    https://www.fxstreet.com/news/aud-usd-price-forecast-likely-to-find-support-near-06830-amid-hawkish-fed-bets-202606250640
+    The AUD/USD pair is trading slightly lower at approximately 0.6890 during the European trading session on Thursday, with expectations of finding support around 0.6830 amid hawkish Federal Reserve bets.
+
+  [2026-06-25 02:31:11 CET] FXStreet (eodhd) | FinBERT negative 1.00
+    Australia’s Unemployment Rate falls in May: What 4.4% means for AUD/USD
+    https://www.fxstreet.com/news/australias-unemployment-rate-falls-in-may-what-44-means-for-aud-usd-202606250131
+    Australia's unemployment rate decreased to 4.4% in May from 4.5% in April, as reported by the Australian Bureau of Statistics, matching market expectations.
+
+AVGO - Broadcom (equity)
+  [2026-06-26 18:08:00 CET] Yahoo Finance (eodhd) | FinBERT neutral 1.00
+    These Are the Best Income Investments Now.  Where to Find Yields of 5% or More.
+    https://finance.yahoo.com/m/e7a6563c-1133-32f6-9382-cbd984b15c57/these-are-the-best-income.html
+    Investors currently have the option to choose between stocks and bonds for income, with the S&P 500 yielding 1% and certain sectors of the stock market, such as utilities, REITs, and telecom, offering dividend yields of 3% or more. BlackRock's deputy chief investment officer notes that yields in the market are considered very attractive.
+
+  [2026-06-26 13:50:00 CET] nasdaq.com (eodhd) | FinBERT positive 0.85
+    Broadcom Stock Is Down More Than 22% From Its Peak and Worth a Closer Look
+    https://www.nasdaq.com/articles/broadcom-stock-down-more-22-its-peak-and-worth-closer-look
+    Broadcom's stock has declined over 22% from its peak in June, following the company's decision not to raise its fiscal 2027 AI chip revenue forecast after its Q2 earnings report. Despite this sell-off, Broadcom is projected to see significant growth in its AI chip revenue, which is expected to exceed $100 billion by fiscal 2027.
+
+  [2026-06-26 12:30:01 CET] nasdaq.com (eodhd) | FinBERT positive 0.99
+    SCHD vs. VIG: Should Income Investors Favor Dividend Yield or Growth Potential?
+    https://www.nasdaq.com/articles/schd-vs-vig-should-income-investors-favor-dividend-yield-or-growth-potential
+    The Schwab U.S. Dividend Equity ETF (SCHD) offers a higher dividend yield of 3.3% and lower price volatility compared to the Vanguard Dividend Appreciation ETF (VIG), which has a lower expense ratio and a larger portfolio focused on growth, particularly in technology. Both ETFs are popular among income-focused investors, with SCHD tracking the Dow Jones U.S. Dividend 100 Index and VIG following the S&P U.S. Dividend Growers Index.
+
+  [2026-06-26 07:56:25 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    3 Market-Beating Stocks with Solid Fundamentals
+    https://finance.yahoo.com/markets/stocks/articles/3-market-beating-stocks-solid-065625716.html
+    The article highlights three market-beating stocks with strong fundamentals: Broadcom (AVGO), Comfort Systems (FIX), and Standex (SXI), noting their significant five-year returns of 702%, 2,475%, and 263%, respectively. Each company demonstrates solid revenue growth, strong margins, and effective capital management, making them noteworthy investment options.
+
+  [2026-06-26 05:32:04 CET] Yahoo Finance (eodhd) | FinBERT negative 0.98
+    Asian shares plunge as traders sell to lock in profits after recent rallies driven by AI
+    https://finance.yahoo.com/markets/world-indices/articles/asian-shares-plunge-traders-sell-043204996.html
+    Asian shares fell sharply on Friday, with Japan's Nikkei 225 index dropping 5% and South Korea's Kospi plunging 8.4%, as traders sold stocks to secure profits following recent rallies in artificial intelligence-related investments. U.S. futures also declined, and oil prices fell, with Brent crude dropping 1.8% to $74.13 per barrel.
+
+CEG - Constellation Energy (equity)
+  [2026-06-26 23:08:45 CET] Yahoo Finance (eodhd) | FinBERT neutral 1.00
+    Constellation Energy (CEG) Files To Extend New York Reactor Licenses Through 2049
+    https://finance.yahoo.com/energy/articles/constellation-energy-ceg-files-extend-220845606.html
+    Constellation Energy has filed applications to extend the operating licenses of its Ginna and Nine Mile Point Unit 1 nuclear reactors in New York through 2049, aiming to support the state's Zero Emissions Credit program. If approved, the extensions would help maintain zero-emissions power, local jobs, and tax revenue while aligning with New York's climate and power reliability goals.
+
+  [2026-06-26 22:41:00 CET] Yahoo Finance (eodhd) | FinBERT negative 1.00
+    Alcohol Stocks Are Down. Why One Analyst Says They Could Bounce Back.
+    https://finance.yahoo.com/m/442d7f7d-b4c9-3ff6-8b76-73173a13d0c5/alcohol-stocks-are-down.-why.html
+    TD Cowen analysts attribute the decline in alcohol stocks to reduced overall spending, suggesting that the pressure may lessen as young consumers transition into adulthood.
+
+  [2026-06-26 20:49:15 CET] Yahoo Finance (eodhd) | FinBERT neutral 1.00
+    Sector Update: Energy Stocks Decline Late Afternoon
+    https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-afternoon-194915501.html
+    Energy stocks declined late Friday afternoon, with the NYSE Energy Sector Index falling by 0.8%.
+
+  [2026-06-26 18:53:42 CET] Yahoo Finance (eodhd) | FinBERT neutral 1.00
+    Sector Update: Energy Stocks Decline Friday Afternoon
+    https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-friday-175342609.html
+    Energy stocks declined on Friday afternoon, with the NYSE Energy Sector Index falling by 0.6%.
+
+  [2026-06-26 16:06:00 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Constellation Seeks License Renewals for Two New York Units Through 2049
+    https://finance.yahoo.com/energy/articles/constellation-seeks-license-renewals-two-150600439.html
+    Constellation has submitted license renewal applications to the Nuclear Regulatory Commission to extend the operations of the Ginna Clean Energy Center and Nine Mile Point Unit 1 reactors in New York until 2049. The renewal is expected to save New Yorkers $50 billion and support local jobs and tax revenue while maintaining reliable, emissions-free power.
+
+CSCO - Cisco Systems (equity)
+  [2026-06-26 16:04:25 CET] Yahoo Finance (eodhd) | FinBERT positive 0.60
+    1 Growth Stock Set to Flourishand 2 Facing Headwinds
+    https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-set-flourishand-150425928.html
+    The article discusses one growth stock, Graham Corporation (GHM), which is expected to perform well due to its strong revenue growth and improved operating margins, while highlighting two stocks, MongoDB (MDB) and First Busey (BUSE), that may face challenges due to implementation complexities and weak unit economics, respectively. MongoDB's revenue growth is at 23.6%, and First Busey's is at 60%, but both are experiencing issues that could hinder their future performance.
+
+  [2026-06-26 13:32:25 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Q1 Earnings Roundup: Cisco (NASDAQ:CSCO) And The Rest Of The IT Services &amp; Other Tech Segment
+    https://finance.yahoo.com/markets/stocks/articles/q1-earnings-roundup-cisco-nasdaq-123225997.html
+    In the Q1 earnings roundup for IT services and other tech stocks, Cisco reported revenues of $15.84 billion, a 12% year-on-year increase, exceeding analysts' expectations. The overall group of 20 tracked companies saw revenues beat consensus estimates by 6.8%, while Applied Digital achieved a 139% revenue increase, and Everforth reported flat revenues, missing guidance expectations.
+
+  [2026-06-26 12:04:25 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.99
+    2 Growth Stocks with Explosive Upside and 1 Facing Challenges
+    https://finance.yahoo.com/markets/stocks/articles/2-growth-stocks-explosive-upside-110425653.html
+    The article discusses two growth stocks, monday.com and Shift4 Payments, which are experiencing strong revenue growth and competitive advantages, while highlighting Affirm as a stock facing challenges due to negative returns on capital and high debt levels. Affirm's stock is currently trading at $76.33, while monday.com and Shift4 are priced at $67.48 and $44.13, respectively.
+
+  [2026-06-25 22:09:24 CET] Yahoo Finance (eodhd) | FinBERT positive 0.82
+    Cisco (CSCO) Stock Sees Modest Fair Value Lift After AI Networking Target Raises
+    https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-sees-modest-210924894.html
+    Cisco Systems' fair value estimate has increased from $125.82 to $127.05, attributed to stronger AI networking execution and increased product orders, despite ongoing valuation concerns and segment risks. The company reported record fiscal Q3 2026 revenue of $15.8 billion, with a significant rise in total product orders and a restructuring plan that includes a $1 billion charge and a workforce reduction of about 4,000 employees.
+
+  [2026-06-24 22:45:05 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Cisco Systems (CSCO) Dips More Than Broader Market: What You Should Know
+    https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-dips-more-214505688.html
+    Cisco Systems (CSCO) closed down 1.16% at $119.74, underperforming the S&P 500's 0.1% loss, while the company has seen a 2.38% increase in stock price over the past month. Analysts project an upcoming earnings per share of $1.17 and quarterly revenue of $16.85 billion, reflecting significant year-over-year growth.
+
+DELL - Dell Technologies (equity)
+  [2026-06-26 17:45:00 CET] Yahoo Finance (eodhd) | FinBERT neutral 1.00
+    Elon Musk and Tim Cook issue the same red alert over new crisis in America — and it’s unlike anything they’ve ever seen
+    https://finance.yahoo.com/economy/articles/elon-musk-tim-cook-issue-164500375.html
+    Tim Cook, CEO of Apple, and Elon Musk, CEO of Tesla and SpaceX, have both issued warnings about unprecedented price increases affecting the tech industry, with Cook describing the situation as a "hundred-year flood." The rising costs, particularly for memory and storage chips, have led Apple to announce price hikes for its products, a trend also seen among other major device manufacturers.
+
+  [2026-06-26 16:22:09 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.99
+    Trump name-dropped Nokia and Eli Lilly in a Pennsylvania speech. Here's what happened to 5 other stocks he singled out
+    https://finance.yahoo.com/markets/stocks/articles/trump-name-dropped-nokia-eli-152209306.html
+    During a speech in Pennsylvania, former President Donald Trump praised Eli Lilly for its $3.5 billion investment in a manufacturing facility and Nokia for its $30 million expansion in semiconductor packaging and testing. The article also discusses how Trump's positive mentions of various companies, including Micron and Dell, have coincided with significant stock price increases, while noting that he holds shares in Eli Lilly and has made investments in other companies he has publicly endorsed.
+
+  [2026-06-26 15:58:19 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    TD Synnex Delivers Strong Fiscal Q2 on Hyve Growth, Market Share Gains, Morgan Stanley Says
+    https://finance.yahoo.com/markets/stocks/articles/td-synnex-delivers-strong-fiscal-145819373.html
+    TD Synnex reported strong fiscal Q2 results, attributed to growth in its Hyve segment and gains in market share, according to Morgan Stanley.
+
+  [2026-06-26 14:00:04 CET] Yahoo Finance (eodhd) | FinBERT positive 0.98
+    Dell Technologies Inc. (DELL) is Attracting Investor Attention: Here is What You Should Know
+    https://finance.yahoo.com/markets/stocks/articles/dell-technologies-inc-dell-attracting-130004772.html
+    Dell Technologies Inc. has seen a 29.1% increase in its stock price over the past month, significantly outperforming the S&P 500, which declined by 1.4%. The company is expected to report earnings of $4.88 per share for the current quarter, reflecting a 110.3% year-over-year increase, and has received a Zacks Rank #1 (Strong Buy) based on positive earnings estimate revisions.
+
+  [2026-06-26 13:33:00 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.98
+    4 Stocks With Strong Interest Coverage Ratios to Buy for H2 2026
+    https://finance.yahoo.com/markets/stocks/articles/4-stocks-strong-interest-coverage-123300716.html
+    The article discusses the importance of interest coverage ratios in evaluating a company's financial stability, particularly in a challenging economic environment. It highlights four companies—Casey's General Stores, Dell Technologies, Interface, and Celestica—that have strong interest coverage ratios and positive growth projections, making them potential investment opportunities.
+
+DLR - Digital Realty (datacenter REIT) (equity)
+  [2026-06-23 14:25:00 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Company News for Jun 23, 2026
+    https://finance.yahoo.com/markets/stocks/articles/company-news-jun-23-2026-132500465.html
+    Apogee Therapeutics, Inc. saw its shares increase by 46.7% following AbbVie Inc.'s announcement of a $10.9 billion acquisition, while AbbVie’s shares rose by 6.3%. Digital Realty Trust, Inc. shares gained 3.9%, Sandisk Corporation shares rose 4.1%, and Meta Platforms, Inc. shares fell by 2.3% amid an AI-related selloff.
+
+  [2026-06-22 12:37:23 CET] Seeking Alpha (eodhd) | FinBERT positive 1.00
+    Digital Realty expands into Kansas City; to raise stake in Teraco, acquire Columbia Capital
+    https://seekingalpha.com/news/4605409-digital-realty-expands-into-kansas-city-to-raise-stake-in-teraco-acquire-columbia-capital?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news
+    Digital Realty Trust has announced its expansion into the Kansas City market by acquiring approximately 1,440 acres of land for hyperscale data center development and plans to increase its ownership in Teraco to 77% while also acquiring Columbia Capital for about $485 million. The transactions will be funded through the issuance of 6.3 million shares of common stock and are expected to close in the second half of the year.
+
+  [2026-06-22 12:00:00 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Digital Realty Announces Transactions to Drive Continued Platform Growth
+    https://finance.yahoo.com/technology/articles/digital-realty-announces-transactions-drive-110000682.html
+    Digital Realty Trust, L.P. has announced the acquisition of a two-gigawatt development site in the Kansas City metro for approximately $475 million, an increase in its ownership of Teraco to 77% for about $650 million, and plans to acquire Columbia Capital for around $485 million. These transactions aim to enhance Digital Realty's growth in hyperscale data center development, colocation, and connectivity, as well as its Strategic Private Capital platform.
+
+  [2026-06-22 09:39:22 CET] Seeking Alpha (eodhd) | FinBERT positive 0.92
+    Stock index futures slip as investors look for more U.S.-Iran talk updates
+    https://seekingalpha.com/news/4605347-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news
+    Stock index futures declined on Monday as investors awaited updates on U.S.-Iran negotiations, with Nasdaq 100 futures down 0.05%, S&P 500 futures falling 0.17%, and Dow futures edging down 0.05%. The discussions, which showed "progress," concluded the first day in Switzerland, with both countries agreeing to a roadmap for a more permanent agreement within 60 days.
+
+EQIX - Equinix (datacenter REIT) (equity)
+  [2026-06-25 19:44:31 CET] Seeking Alpha (eodhd) | FinBERT positive 0.60
+    Local US governments strive to navigate data centers' potential credit risks - Moody's
+    https://seekingalpha.com/news/4607478-local-us-governments-strive-to-navigate-data-centers-potential-credit-risks---moodys?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news
+    Local U.S. governments are reassessing tax incentives and considering stricter development reviews and moratoriums in response to the rapid construction of data centers, which pose potential credit risks due to their high demands for electricity and water. Moody's analysts noted that this growth could lead to increased costs for governments and ratepayers if not managed properly, prompting some jurisdictions to revise incentives while others aggressively pursue new data centers for revenue generation.
+
+  [2026-06-23 16:07:00 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Can Public Storage's $1.2B Canada Acquisition Drive Long-Term Growth?
+    https://finance.yahoo.com/real-estate/articles/public-storages-1-2b-canada-150700187.html
+    Public Storage is planning a $1.2 billion acquisition of Public Storage Canada, which includes 68 properties and 5.3 million net rentable square feet in major Canadian markets. The deal aims to enhance Public Storage's presence in Canada and is expected to provide a high NOI yield and potential long-term growth opportunities.
+
+  [2026-06-23 15:51:00 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Digital Realty Bets on AI Growth With Major Expansion Moves
+    https://finance.yahoo.com/technology/articles/digital-realty-bets-ai-growth-145100620.html
+    Digital Realty is expanding its global data center platform by acquiring approximately 1,440 acres at Astra Enterprise Park near Kansas City for $475 million and increasing its stake in Teraco to 77% for $650 million, while also planning to acquire Columbia Capital for about $485 million. These moves are aimed at supporting the growing demand for hyperscale and AI-driven infrastructure, alongside recent international expansions, including a new data center in Barcelona.
+
+  [2026-06-23 12:50:01 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.92
+    Schwab vs. iShares: Which U.S. REIT ETF Looks Best in 2026?
+    https://finance.yahoo.com/real-estate/articles/schwab-vs-ishares-u-reit-115001265.html
+    The Schwab U.S. REIT ETF (SCHH) offers broader diversification, a lower expense ratio of 0.07%, and a higher dividend yield of 2.8% compared to the iShares Select U.S. REIT ETF (ICF), which has an expense ratio of 0.32% and a dividend yield of 2.5%. Both ETFs provide access to U.S. real estate investment trusts, but SCHH holds 120 positions while ICF is concentrated in 30 holdings.
+
+  [2026-06-23 12:07:00 CET] nasdaq.com (eodhd) | FinBERT positive 0.99
+    2 High-Dividend ETFs I'd Buy Right Now Without Hesitation
+    https://www.nasdaq.com/articles/2-high-dividend-etfs-id-buy-right-now-without-hesitation
+    The article discusses two ETFs, the Vanguard International High Dividend ETF and the Vanguard Real Estate ETF, highlighting their attractive pricing and potential for steady income and growth. The Vanguard International High Dividend ETF offers a 3.9% dividend yield and low expense ratio, while the Vanguard Real Estate ETF has a dividend yield of approximately 4% and has shown annualized growth in dividends of about 6.5% over the past three years.
+
+ETN - Eaton (equity)
+  [2026-06-23 21:29:00 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Top Analyst Reports for Micron Technology, Coca-Cola &amp; Arista Networks
+    https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-micron-technology-202900550.html
+    The Zacks Research Daily features new research reports on 16 major stocks, including Micron Technology, Coca-Cola, and Arista Networks, highlighting their recent performance and growth prospects. Micron is benefiting from AI-driven memory markets, Coca-Cola is seeing steady growth from its diverse portfolio, and Arista Networks is capitalizing on rising investments in AI and cloud networking.
+
+  [2026-06-23 19:46:12 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Cummins Stock Adds Horsepower, Not Ballast
+    https://finance.yahoo.com/markets/stocks/articles/cummins-stock-adds-horsepower-not-184612575.html
+    Cummins has reached new 52-week highs following a significant 2-gigawatt supply agreement with Circe Energy for a West Texas data center, indicating its expanding role in the AI infrastructure sector. The company's stock has shown a high correlation with the S&P 500, capturing a larger percentage of market gains compared to losses, while facing upcoming challenges related to compliance with new EPA regulations.
+
+  [2026-06-22 22:32:25 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.50
+    Eaton Corporation to Merge Mobility Business with Dana
+    https://finance.yahoo.com/markets/stocks/articles/eaton-corporation-merge-mobility-business-213225430.html
+    Eaton Corporation plc has announced an agreement to merge its mobility business with Dana, valuing Eaton's Mobility Group at approximately $5.1 billion, with the combined entity projected to be worth over $10 billion. The transaction is expected to close in the first quarter of 2027, pending shareholder and regulatory approvals, and will allow Eaton to focus on its electrical and aerospace businesses.
+
+  [2026-06-22 21:15:00 CET] Yahoo Finance (eodhd) | FinBERT positive 0.99
+    TD SYNNEX Appoints Douglas Britt to Board of Directors
+    https://finance.yahoo.com/technology/articles/td-synnex-appoints-douglas-britt-201500704.html
+    TD SYNNEX has appointed Douglas Britt to its Board of Directors, effective June 17, 2026, increasing the board size to eleven members. Britt, a technology executive with over 30 years of experience, will serve on the Audit Committee and Technology Committee.
+
+  [2026-06-22 18:43:00 CET] globenewswire.com (eodhd) | FinBERT neutral 1.00
+    BRODSKY &amp; SMITH SHAREHOLDER UPDATE: Notifying Investors of the Following Investigations: Arcosa, Inc. (NYSE – ACA), Fathom Holdings Inc. (Nasdaq – FTHM), Nuvalent, Inc. (Nasdaq – NUVL), Dana Incorporated (NYSE – DAN)
+    https://www.globenewswire.com/news-release/2026/06/22/3315551/0/en/BRODSKY-SMITH-SHAREHOLDER-UPDATE-Notifying-Investors-of-the-Following-Investigations-Arcosa-Inc-NYSE-ACA-Fathom-Holdings-Inc-Nasdaq-FTHM-Nuvalent-Inc-Nasdaq-NUVL-Dana-Incorporated-.html
+    Brodsky & Smith is notifying investors about ongoing investigations into the fiduciary duties of the boards of Arcosa, Inc., Fathom Holdings Inc., Nuvalent, Inc., and Dana Incorporated in relation to their respective merger agreements. The investigations focus on whether these boards failed to conduct fair processes and whether the deal considerations provide fair value to shareholders.
+
+EURGBP - EUR/GBP spot (fx)
+  [2026-06-21 17:30:00 CET] news.google.com (google) | FinBERT neutral 1.00
+    Could The Pound Sterling Fall Further? Rabobank Thinks So - Exchange Rates UK
+    https://news.google.com/rss/articles/CBMitwFBVV95cUxQcUcxY0NhTU40UGg3b2lTQ2xmS2VjZEpNVHV0Z1VabG0tcVI4cUIzN1Y5amtHU0I1V1pTcWFTSHJfSHVWUTcxdFV3bGdLVXBuVmtjQjJfVGdVVzRWZHhGSnVHcWNWc2JuQ29FUVZ3TzEwYjJxVWlWbHBJdTZJM0lhRHRDWlNDUTZScGxRaXFDWTNKN0FpU09yR2VLTW1ldmx5Z0tGQ1U1TXVueVpvY2N0eFJpQXBZQ0U?oc=5
+    Rabobank has suggested that the Pound Sterling may decline further in value. The article discusses the factors influencing this potential depreciation.
+
+EURUSD - EUR/USD spot (fx)
+  [2026-06-26 17:08:53 CET] FXStreet (eodhd) | FinBERT negative 0.76
+    Euro holds ground against the US Dollar as traders weigh Middle East tensions and Fed outlook
+    https://www.fxstreet.com/news/euro-holds-ground-against-the-us-dollar-as-traders-weigh-middle-east-tensions-and-fed-outlook-202606261608
+    The Euro is trading positively against the US Dollar on Friday, but is set for a second consecutive weekly loss due to ongoing tensions in the Middle East and a hawkish outlook from the Federal Reserve.
+
+  [2026-06-26 16:12:05 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    UBS turns more bullish on U.S. dollar, sees euro and yen weakening further
+    https://finance.yahoo.com/markets/currencies/articles/ubs-turns-more-bullish-u-151205230.html
+    UBS has raised its forecasts for the U.S. dollar, predicting it will strengthen against the euro and yen through the second half of 2026, with the euro expected to fall to 1.12 and the yen to 165 per dollar. The bank also downgraded its end-2026 target for the Australian dollar to 0.68 and anticipates further weakness in the Swiss franc in the near term.
+
+  [2026-06-26 11:57:25 CET] FXStreet (eodhd) | FinBERT positive 1.00
+    Euro picks up above 1.1400 amid lower Oil prices and a softer US Dollar
+    https://www.fxstreet.com/news/euro-picks-up-above-11400-amid-lower-oil-prices-and-a-softer-us-dollar-202606261057
+    The Euro has risen above 1.1400 against the US Dollar, recovering from previous weekly losses due to a significant drop in oil prices and a weaker US Dollar.
+
+  [2026-06-26 10:03:03 CET] FXStreet (eodhd) | FinBERT neutral 0.92
+    Euro: Seen holding 1.1300 against US Dollar before recovery – ING
+    https://www.fxstreet.com/news/euro-seen-holding-11300-against-us-dollar-before-recovery-ing-202606260903
+    Francesco Pesole at ING notes that the EUR/USD exchange rate is expected to stabilize around 1.1350–1.1400, with Eurozone-specific factors being less influential in the short term.
+
+  [2026-06-26 09:34:49 CET] FXStreet (eodhd) | FinBERT negative 0.88
+    Eurozone consumer one-year inflation expectations cool down to 3.5% - ECB survey shows
+    https://www.fxstreet.com/news/eurozone-consumer-one-year-inflation-expectations-cool-down-to-35-ecb-survey-shows-202606260834
+    The European Central Bank's latest survey indicates that one-year inflation expectations in the Eurozone have decreased to 3.5%, while longer-term inflation projections remain unchanged.
+
+GBPNOK - GBP/NOK spot (fx)
+  [2026-06-20 03:58:38 CET] news.google.com (google) | FinBERT neutral 1.00
+    Pound To Norwegian Krone Forecast – Is Now The Best Time To Buy NOK From GBP? - Good Money Guide
+    https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qaEM4THhFVGd0RnlzWlplYk94SG51OFp0d09EeEpEU3k2TnR2aXlhc0hiMHFlbXYtMFFCVmd5a2lkWWJadXpwWHljS1E5Tk1ZUnJWWWhJM3dqTWt3SHJRZy0wNHQ?oc=5
+    The article discusses the current exchange rate between the British Pound and the Norwegian Krone, exploring whether it is an advantageous time for GBP holders to purchase NOK. It provides insights into market trends and factors influencing the currency exchange.
+
+GBPNZD - GBP/NZD spot (fx)
+  [2026-06-20 11:05:09 CET] news.google.com (google) | FinBERT neutral 0.99
+    Pound To New Zealand Dollar Forecast – Is Now The Best Time To Buy NZD From GBP? - Good Money Guide
+    https://news.google.com/rss/articles/CBMidkFVX3lxTFB2ZF90RnFyTTNkZVZBZWg4S1VQSHdCUmJKdXJJcHNRSGVKc1dZNHA2UXJaNUNLcktMYVBmUUpFNXBCOGs4MkxNanZCSGx1Tk8yNlhaOTd0ZUd1N21rTkJXSHBXYmZqTWx6WFVDY0ZhckJDTV9OR0E?oc=5
+    The article discusses the current exchange rate between the British Pound and the New Zealand Dollar, exploring whether it is an advantageous time for GBP holders to purchase NZD. It provides insights into market trends and factors influencing the currency pair.
+
+GBPUSD - GBP/USD spot (fx)
+  [2026-06-26 08:54:21 CET] FXStreet (eodhd) | FinBERT positive 1.00
+    GBP/USD Price Forecast: Struggles to build on move beyond 1.3200 amid bearish setup
+    https://www.fxstreet.com/news/gbp-usd-price-forecast-struggles-to-build-on-move-beyond-13200-amid-bearish-setup-202606260754
+    The GBP/USD pair maintains a positive bias for the second consecutive day, trading just above the 1.3200 level during the early European session on Friday, but shows a lack of bullish conviction.
+
+  [2026-06-26 07:49:20 CET] FXStreet (eodhd) | FinBERT positive 0.99
+    EUR/GBP Price Forecasts: Euro shows signs of bottoming at 0.8600
+    https://www.fxstreet.com/news/eur-gbp-price-forecasts-euro-shows-signs-of-bottoming-at-08600-202606260649
+    The Euro is trading at approximately 0.8615 against the British Pound, having bounced from lows of 0.8600 earlier in the week, indicating potential signs of bottoming.
+
+  [2026-06-25 09:35:12 CET] FXStreet (eodhd) | FinBERT positive 1.00
+    GBP/JPY Price Forecasts: Pound bounces up to 213.40 with intervention risks increasing
+    https://www.fxstreet.com/news/gbp-jpy-price-forecasts-pound-bounces-up-to-21340-with-intervention-risks-increasing-202606250835
+    The British Pound (GBP) has recovered to around 213.40 against the Japanese Yen (JPY) after previously dropping to lows near 212.50. There are increasing risks of intervention in the currency market.
+
+  [2026-06-24 12:36:52 CET] FXStreet (eodhd) | FinBERT negative 0.99
+    GBP/USD Price Forecast: Resumes downside after testing Triangle breakdown zone
+    https://www.fxstreet.com/news/gbp-usd-price-forecast-resumes-downside-after-testing-triangle-breakdown-zone-202606241136
+    The British Pound (GBP) is trading 0.38% lower at approximately 1.3150 against the US Dollar (USD) on Wednesday, as the GBP/USD pair experiences selling pressure amid strong performance from the USD driven by hawkish Federal Reserve expectations.
+
+  [2026-06-24 07:32:16 CET] FXStreet (eodhd) | FinBERT negative 0.98
+    EUR/GBP Price Forecasts: Testing 10-month lows at 0.8611 in risk-off markets
+    https://www.fxstreet.com/news/eur-gbp-price-forecasts-testing-10-month-lows-at-08611-in-risk-off-markets-202606240632
+    The Euro (EUR) has declined for the fourth consecutive day against the British Pound (GBP), with the EUR/GBP pair testing the 0.8610 area, marking its lowest level in 10 months. The pair has lost approximately 0.6% this week.
+
+GEV - GE Vernova (equity)
+  [2026-06-26 19:03:36 CET] Yahoo Finance (eodhd) | FinBERT positive 0.51
+    Nuclear Stocks And Small Modular Reactors Ace Big Wins. A DOE Deadline Looms.
+    https://finance.yahoo.com/m/11168907-3405-3d5e-9a2a-62f9f2e8fcfd/nuclear-stocks-and-small.html
+    Nuclear stocks have experienced a decline, but advancements in small modular reactor technologies have made significant progress recently. Investors are advised to stay informed as a deadline from the Department of Energy approaches.
+
+  [2026-06-25 18:46:14 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    After Doubling in a Year, GE Vernova Stock Isn’t Done Climbing
+    https://finance.yahoo.com/energy/articles/doubling-ge-vernova-stock-isn-174614298.html
+    GE Vernova (GEV) stock has increased 67% year-to-date and 117% over the past year, driven by strong order growth and a significant backlog, with the company reporting $18.3 billion in orders for Q1 2026, a 71% year-over-year increase. The Power and Electrification segments are experiencing robust demand, contributing to revenue growth and improved profitability, positioning GE Vernova for continued expansion.
+
+  [2026-06-25 15:26:00 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    GEV vs. PEG: Which Grid Modernization Leader Is the Smarter Buy Now?
+    https://finance.yahoo.com/energy/articles/gev-vs-peg-grid-modernization-142600075.html
+    GE Vernova (GEV) and Public Service Enterprise Group (PEG) are both positioned to benefit from increasing electricity demand and grid modernization, with GEV focusing on supplying equipment and technology for power generation and transmission, while PEG invests directly in regulated utility infrastructure. Recent estimates indicate that GEV's earnings per share are expected to grow significantly more than PEG's, and GEV has shown stronger price performance and return on equity compared to PEG.
+
+  [2026-06-25 12:37:41 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Energy Transition Today - Romania's Wind Energy Milestone Secures Major Investment
+    https://finance.yahoo.com/energy/articles/energy-transition-today-romanias-wind-113741218.html
+    Copenhagen Infrastructure Partners has reached financial close on the 392 MW Pestera II onshore wind project in Romania, marking a significant investment in renewable energy for the region. The project, supported by international banks and a 15-year contract for difference, is expected to begin operations in 2028 and aims to provide competitively priced renewable power.
+
+  [2026-06-24 20:15:30 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.67
+    GE Vernova (GEV) Stock After 103% One-Year Rally Is There Upside Left
+    https://finance.yahoo.com/markets/stocks/articles/ge-vernova-gev-stock-103-191530423.html
+    GE Vernova's stock recently closed at $1,034.98, reflecting a 103.2% increase over the past year, but a Discounted Cash Flow analysis suggests it may be overvalued by 38.6% compared to its estimated intrinsic value of $746.95 per share. The stock's current P/E ratio of 29.7 is below the industry average, indicating it may be undervalued based on earnings, while various investor narratives suggest differing fair value estimates ranging from $714.58 to $1,269.77 per share.
+
+GOOGL - Alphabet (equity)
+  [2026-06-27 01:38:34 CET] Yahoo Finance (eodhd) | FinBERT positive 0.97
+    FTC gives Musk the OK to acquire SpaceX alumni startup Mesh
+    https://finance.yahoo.com/technology/articles/ftc-gives-musk-ok-acquire-003834597.html
+    Elon Musk is seeking to acquire Mesh Optical Technologies, a startup founded by former SpaceX engineers that develops hardware for fast data center communications, with the Federal Trade Commission having expedited its antitrust review of the acquisition. Mesh Optical, which raised $50 million in a Series A funding round, aims to create optical transceivers for data centers, leveraging technology previously used in SpaceX's Starlink satellites.
+
+  [2026-06-27 00:07:27 CET] Yahoo Finance (eodhd) | FinBERT positive 0.98
+    American Airlines (AAL) Brings Starlink To 500 Planes And Signs Google Fuel Deal
+    https://finance.yahoo.com/markets/stocks/articles/american-airlines-aal-brings-starlink-230727652.html
+    American Airlines Group plans to equip over 500 aircraft with SpaceX Starlink high-speed in-flight Wi-Fi starting in 2027 and has entered a three-year sustainable aviation fuel partnership with Google to support emissions reduction efforts. These initiatives aim to enhance passenger connectivity and strengthen the company's focus on sustainability.
+
+  [2026-06-26 23:32:25 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Uber (UBER) Shares Skyrocket, What You Need To Know
+    https://finance.yahoo.com/markets/stocks/articles/uber-uber-shares-skyrocket-know-223225094.html
+    Shares of Uber (NYSE: UBER) rose 5.6% after an analyst at Citizens reiterated a "Market Outperform" rating and a $100 price target, citing growth momentum from Waymo's self-driving car services. The stock has seen limited volatility over the past year and is currently trading 24.1% below its 52-week high.
+
+  [2026-06-26 23:01:18 CET] nasdaq.com (eodhd) | FinBERT positive 1.00
+    Why ServiceNow Stock Gained 9.9%on Friday
+    https://www.nasdaq.com/articles/why-servicenow-stock-gained-99on-friday
+    ServiceNow shares rose 9.9% following the announcement of an expanded partnership with Google and HCLTech, amid a broader recovery in software stocks as concerns about AI replacing specialized SaaS companies have diminished. The company's subscription revenue grew 22% last quarter, and it has recently formed several significant AI partnerships.
+
+  [2026-06-26 17:35:00 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.98
+    Chasing Alphabet's 6.25% Dividend Yield? Read the Fine Print First.
+    https://finance.yahoo.com/markets/stocks/articles/chasing-alphabets-6-25-dividend-163500206.html
+    Alphabet paid its first quarterly dividend of $0.20 per share in June 2024, which has since increased to $0.22, resulting in a low yield of 0.25%. The company has also raised nearly $85 billion by issuing $16.75 billion of convertible preferred stock with a 6.25% dividend yield, but this preferred stock will convert to common shares in May 2029, after which the yield will revert to the lower common stock yield.
+
+KLAC - KLA Corp (equity)
+  [2026-06-25 00:16:43 CET] Yahoo Finance (eodhd) | FinBERT positive 0.99
+    How Investors Are Reacting To KLA (KLAC) Ten-for-One Split And AI-Focused Capital Structure Shift
+    https://finance.yahoo.com/markets/stocks/articles/investors-reacting-kla-klac-ten-231643196.html
+    KLA Corporation executed a ten-for-one forward stock split effective June 11, 2026, and raised its authorized common stock from 500 million to 5 billion shares to enhance trading liquidity and align its capital structure with its AI-focused ambitions. The company projects significant revenue and earnings growth by 2029, but faces risks related to customer concentration and potential slowdowns in capital expenditures for advanced packaging and high bandwidth memory.
+
+  [2026-06-24 21:14:14 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Wells Fargo Raises its Price Target on KLA Corporation (KLAC)
+    https://finance.yahoo.com/markets/stocks/articles/wells-fargo-raises-price-target-201414449.html
+    Wells Fargo raised its price target on KLA Corporation (NASDAQ:KLAC) to $305 from $210 and maintained an Overweight rating, while Citi increased its target to $290 from $206.40, both citing positive expectations for the semiconductor equipment sector. KLA Corporation specializes in process control and yield management solutions for the semiconductor industry.
+
+  [2026-06-24 15:08:00 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    KLAC vs. AMAT: Which Chip Equipment Stock Is the Better Buy Now?
+    https://finance.yahoo.com/technology/articles/klac-vs-amat-chip-equipment-140800939.html
+    KLA Corporation and Applied Materials, Inc. are both benefiting from increased demand in the semiconductor equipment sector driven by AI, but they have different strengths; KLA focuses on process control and advanced packaging, while Applied Materials has a broader equipment portfolio across various semiconductor manufacturing areas. Both companies are positioned to capitalize on the growing complexity of chip production, with KLA expecting significant revenue growth in advanced packaging and Applied Materials anticipating strong growth in leading-edge foundry/logic and DRAM sectors.
+
+  [2026-06-23 23:15:05 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Why KLA (KLAC) Dipped More Than Broader Market Today
+    https://finance.yahoo.com/markets/stocks/articles/why-kla-klac-dipped-more-221505565.html
+    KLA (KLAC) closed at $244.49, down 9.17% in the latest trading session, which was a larger decline compared to the S&P 500's loss of 1.44%. The company is expected to report earnings of $1 per share, reflecting a year-over-year growth of 6.38%, with revenue estimates at $3.59 billion, indicating a 13.14% increase from the same quarter last year.
+
+  [2026-06-23 20:44:46 CET] Yahoo Finance (eodhd) | FinBERT negative 0.98
+    KLA Corporation, onsemi, and Nova Shares Are Falling, What You Need To Know
+    https://finance.yahoo.com/markets/stocks/articles/kla-corporation-onsemi-nova-shares-194446161.html
+    Shares of KLA Corporation, onsemi, and Nova fell significantly following a report that SK Hynix is slowing its high-bandwidth memory expansion, which affected the AI-chip sector and led to a broader decline in semiconductor stocks. The Philadelphia Semiconductor Index opened down approximately 7%, with KLA Corporation, onsemi, and Nova experiencing declines of 9.1%, 9.4%, and 8.8%, respectively.
+
+LRCX - Lam Research (equity)
+  [2026-06-26 16:07:00 CET] Yahoo Finance (eodhd) | FinBERT positive 0.91
+    Can AMAT's Investment Strategy Lift Future Cash Flow Growth?
+    https://finance.yahoo.com/markets/stocks/articles/amats-investment-strategy-lift-future-150700571.html
+    Applied Materials' operating cash flow fell to $845 million and free cash flow to $210 million in the second quarter of fiscal 2026, down from $1.686 billion and $1.04 billion in the prior quarter, respectively. The company is investing in manufacturing capacity and supply chain readiness to meet increasing customer demand, with expectations of significant growth in its semiconductor equipment business and overall wafer fab equipment spending through 2027.
+
+  [2026-06-25 17:07:27 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Lam Research (LRCX) Opens Boise Office To Get Closer To Micron’s Memory Expansion
+    https://finance.yahoo.com/markets/stocks/articles/lam-research-lrcx-opens-boise-160727378.html
+    Lam Research has opened a new office in Boise to support Micron's expansion of high-volume memory manufacturing, enhancing their collaboration on advanced memory production. This move aligns with Lam Research's strategy to deepen its role with a key customer as Micron scales its production capabilities.
+
+  [2026-06-25 15:42:11 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Micron Sparks Fresh AI Stock Rally
+    https://finance.yahoo.com/markets/stocks/articles/micron-sparks-fresh-ai-stock-144211104.html
+    U.S. stock futures rose as Micron reported strong fiscal Q3 results and provided optimistic guidance, leading to a 17% increase in its stock. The positive momentum extended to other chip companies, with Qualcomm gaining 12%, while Wendy's saw a 15% jump, although ARS Pharmaceuticals dropped 23%.
+
+  [2026-06-25 13:45:56 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Micron Q3 earnings beat sends stock surging 18% premarket
+    https://finance.yahoo.com/markets/stocks/articles/micron-q3-earnings-beat-sends-124556558.html
+    Micron Technology's shares rose 18% in premarket trading after the company reported fiscal third-quarter results that exceeded analysts' expectations and projected a continued memory-chip shortage beyond 2027. The positive news also boosted broader markets, with significant gains in semiconductor stocks and related sectors.
+
+  [2026-06-25 13:30:04 CET] Yahoo Finance (eodhd) | FinBERT neutral 1.00
+    If You Invested $1000 in Applied Materials a Decade Ago, This is How Much It'd Be Worth Now
+    https://finance.yahoo.com/markets/stocks/articles/invested-1000-applied-materials-decade-123004108.html
+    If an investor had put $1,000 into Applied Materials (AMAT) a decade ago, it would be worth approximately $25,353.85 today, reflecting a gain of 2,435.39%. This return significantly outpaces the S&P 500's gain of 261.16% and gold's increase of 190.39% over the same period.
+
+META - Meta Platforms (equity)
+  [2026-06-27 02:07:16 CET] Yahoo Finance (eodhd) | FinBERT positive 0.64
+    Meta’s Arena Prediction Market Push Could Be A Game Changer For Meta Platforms (META)
+    https://finance.yahoo.com/markets/stocks/articles/meta-arena-prediction-market-push-010716200.html
+    Meta Platforms is developing a new prediction market app called Arena, which will utilize video game-style points and explore partnerships with existing platforms like Polymarket and Kalshi. This initiative marks Meta's entry into prediction markets and digital finance, potentially enhancing its monetization strategies across its social platforms.
+
+  [2026-06-27 01:11:00 CET] globenewswire.com (eodhd) | FinBERT neutral 1.00
+    A Former CIA Advisor Just Issued a New Warning About July 29th
+    https://www.globenewswire.com/news-release/2026/06/27/3318518/0/en/A-Former-CIA-Advisor-Just-Issued-a-New-Warning-About-July-29th.html
+    Jim Rickards, a former CIA advisor, has issued a warning that July 29th could be a significant date for investors due to expected earnings updates from major AI companies, including Meta, which may impact current market valuations. He emphasizes that developments in the AI sector are increasingly interconnected with broader financial markets, affecting investors beyond those directly involved in AI stocks.
+
+  [2026-06-27 00:11:25 CET] Yahoo Finance (eodhd) | FinBERT neutral 1.00
+    Market Chatter: Meta Could Explore Partnerships With Polymarket, Kalshi for New Prediction Market App
+    https://finance.yahoo.com/technology/articles/market-chatter-meta-could-explore-231125222.html
+    Meta Platforms Inc CEO Mark Zuckerberg has encouraged executives to consider partnerships with Polymarket and Kalshi for the development of a new prediction market application.
+
+  [2026-06-26 22:31:01 CET] Yahoo Finance (eodhd) | FinBERT neutral 1.00
+    Zuckerberg asks Meta to explore working with Polymarket and Kalshi, NYT reports
+    https://finance.yahoo.com/technology/articles/zuckerberg-asks-meta-explore-working-213101350.html
+    Meta CEO Mark Zuckerberg has instructed his team to explore partnerships with prediction markets Polymarket and Kalshi while developing a similar app called Arena, which will use a points system instead of real-money wagers. The app is aimed at attracting 18- to 34-year-olds and may eventually be integrated into Facebook and Messenger, though it is still in internal testing and may not be released.
+
+  [2026-06-26 18:39:15 CET] Seeking Alpha (eodhd) | FinBERT neutral 0.95
+    Trump threatens 100% tariff on countries taxing digital services
+    https://seekingalpha.com/news/4607814-trump-threatens-100-tariff-on-countries-taxing-digital-services?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news
+    President Donald Trump has threatened to impose a 100% tariff on goods from any country that implements a digital services tax on American tech companies, stating that such tariffs would override existing trade deals. This warning follows discussions among several European countries about introducing such taxes, with Trump specifically mentioning France's tax on digital services.
+
+MRVL - Marvell Technology (equity)
+  [2026-06-26 19:06:00 CET] Yahoo Finance (eodhd) | FinBERT neutral 1.00
+    Marvell’s New Chief Financial Officer Sold Stock. Then the AI Rout Hit.
+    https://finance.yahoo.com/m/fc00dcc9-2846-38dc-b56d-88a3d9e57747/marvell%E2%80%99s-new-chief-financial.html
+    Marvell Technology's new Chief Financial Officer, Dan Durn, conducted his first open-market stock sale since joining the company in 2024, coinciding with a downturn in the AI sector.
+
+  [2026-06-26 18:07:28 CET] nasdaq.com (eodhd) | FinBERT positive 0.87
+    Daily Dividend Report: AZZ,LEN,MATX,MRVL,WWD
+    https://www.nasdaq.com/articles/daily-dividend-report-azzlenmatxmrvlwwd
+    AZZ has announced a first quarter cash dividend of $0.24 per share, payable on July 30, 2026, to shareholders of record as of July 9, 2026. Lennar declared a quarterly cash dividend of $0.50 per share, Matson announced a third quarter dividend of $0.38 per share, Marvell Technology declared a quarterly dividend of $0.06 per share, and Woodward announced a cash dividend of $0.32 per share, all with specified payment dates and record dates.
+
+  [2026-06-26 16:43:00 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Can Marvell Technology's Record Cash Flow Fuel Future Growth?
+    https://finance.yahoo.com/markets/stocks/articles/marvell-technologys-record-cash-flow-154300905.html
+    Marvell Technology reported a record operating cash flow of $638.8 million in the first quarter of fiscal 2027, nearly doubling from $332.9 million in the same quarter last year, while also engaging in significant acquisitions totaling $1.42 billion. The company ended the quarter with $3.84 billion in cash and cash equivalents, indicating a strong liquidity position to support future investments and acquisitions.
+
+  [2026-06-26 16:30:06 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Marvell (MRVL) Up 37.3% Since Last Earnings Report: Can It Continue?
+    https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-37-3-since-153006876.html
+    Marvell Technology (MRVL) reported first-quarter fiscal 2027 earnings of 80 cents per share, matching estimates, with revenues of $2.42 billion, surpassing expectations and increasing 29% year-over-year. The company has seen its shares rise 37.3% since the last earnings report, driven by strong demand in data center revenues and a positive outlook for fiscal 2027, projecting a revenue growth of about 40% year-over-year.
+
+  [2026-06-26 14:35:03 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Marvell Technology (MRVL) Recently Broke Out Above the 20-Day Moving Average
+    https://finance.yahoo.com/markets/stocks/articles/marvell-technology-mrvl-recently-broke-133503361.html
+    Marvell Technology (MRVL) recently broke above the 20-day moving average, indicating a potential short-term bullish trend, and has seen a 37.3% increase over the past four weeks. The company has also experienced 14 positive earnings estimate revisions for the current fiscal year.
+
+MSFT - Microsoft Corp (AI vertical) (equity)
+  [2026-06-27 04:33:00 CET] nasdaq.com (eodhd) | FinBERT positive 1.00
+    From $135 to $154: Tracking SpaceX's Stock Volatility in Its First Weeks as a Public Company
+    https://www.nasdaq.com/articles/135-154-tracking-spacexs-stock-volatility-its-first-weeks-public-company
+    SpaceX's stock has experienced significant volatility since its IPO on June 12, opening at $150 and peaking at $226 before dropping to $155, largely due to its small float of only 4.2% of shares being publicly traded. The company's recent announcement of raising $25 billion in debt has also contributed to investor concerns, and heightened volatility is expected until the lockup period for insiders ends in December.
+
+  [2026-06-26 23:59:01 CET] nasdaq.com (eodhd) | FinBERT positive 1.00
+    Why Microsoft Stock Rose Today
+    https://www.nasdaq.com/articles/why-microsoft-stock-rose-today
+    Microsoft's stock rose 5.2% today as investors shifted their focus from AI chip stocks to AI software stocks, despite the overall market showing mixed results. The company's share price remains down approximately 23% year to date, even after today's gains.
+
+  [2026-06-26 22:12:25 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Why Are Workday (WDAY) Shares Soaring Today
+    https://finance.yahoo.com/markets/stocks/articles/why-workday-wday-shares-soaring-211225376.html
+    Shares of Workday (NASDAQ: WDAY) rose 6.1% after Monness, Crespi, Hardt upgraded the stock to Buy from Neutral with a $150 price target, citing the company's depressed valuation and strong cash flow generation. Despite concerns about AI's impact on the software industry, the upgrade comes after Workday's significant decline of 45% in 2026, making it the worst performer in the firm's coverage universe.
+
+  [2026-06-26 21:39:07 CET] Seeking Alpha (eodhd) | FinBERT positive 1.00
+    Heatmap Highlights: Tech rotation, defensive surge shape S&amp;P 500
+    https://seekingalpha.com/news/4607839-heatmap-highlights-tech-rotation-defensive-surge-shape-sp-500?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news
+    On Friday, the S&P 500 experienced a significant rotation, with semiconductors facing heavy losses while software and defensive sectors, particularly health care, posted strong gains. Notable declines included Western Digital down 13.2% and Seagate down 12.2%, while Microsoft rose 5.7% and Eli Lilly increased by 7.1%.
+
+  [2026-06-26 20:43:57 CET] Yahoo Finance (eodhd) | FinBERT neutral 1.00
+    Sector Update: Tech Stocks Fall Late Afternoon
+    https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-194357745.html
+    Tech stocks experienced a decline late Friday afternoon, as indicated by the State Street Technology Select Sector SPDR ETF.
+
+MU - Micron Technology Inc (equity)
+  [2026-06-27 01:41:39 CET] nasdaq.com (eodhd) | FinBERT positive 0.80
+    Great News for Micron Stock Investors!
+    https://www.nasdaq.com/articles/great-news-micron-stock-investors
+    Micron Technology provided an optimistic forecast for 2025, which was well-received by investors. However, it was not included in a list of the top 10 stocks recommended by The Motley Fool Stock Advisor.
+
+  [2026-06-26 21:48:25 CET] Yahoo Finance (eodhd) | FinBERT negative 1.00
+    Stocks making big moves this week: Qualcomm, Accenture, 10x Genomics, Seagate, and Lattice Semiconductor
+    https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-week-204825313.html
+    Qualcomm, Accenture, Seagate, and Lattice Semiconductor experienced significant declines this week, with Qualcomm falling 4.7%, Accenture down 7.6%, Seagate dropping 7.1%, and Lattice Semiconductor decreasing by 7.8%, largely due to concerns over debt-funded AI capital spending and market reactions to South Korean chipmakers. In contrast, 10x Genomics saw a rise of 6.8% after Barclays raised its price target for the stock.
+
+  [2026-06-26 20:44:32 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.99
+    Is the cost of AI catching up to markets?
+    https://finance.yahoo.com/video/cost-ai-catching-markets-194432684.html
+    Jessica Inskip from StockBrokers.com discussed the current state of the AI trade and market leadership, noting that while the technology sector has seen significant gains, the broader market has only increased by 8%, indicating potential for a pullback. She highlighted the bullish trends in the technology and industrial sectors, despite recent volatility in semiconductor stocks following news from Korea.
+
+  [2026-06-26 20:05:00 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Micron + One Explosive AI Memory Stock to Buy Before H2 2026
+    https://finance.yahoo.com/markets/stocks/articles/micron-one-explosive-ai-memory-190500291.html
+    Micron Technology, Inc. and Sandisk Corporation have experienced significant revenue growth due to increased demand for memory solutions driven by the artificial intelligence boom, with Micron reporting a 74% sequential revenue increase to $41.46 billion and Sandisk achieving a 97% sequential revenue rise to $5.95 billion in their latest fiscal quarters. Both companies are expected to continue this growth trend, with Micron forecasting revenues of around $50 billion for the next quarter and Sandisk projecting revenues between $7.75 billion and $8.25 billion.
+
+  [2026-06-26 19:39:56 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Investing.com’s stocks of the week
+    https://finance.yahoo.com/markets/stocks/articles/investing-com-stocks-week-183956114.html
+    Micron Technology reported strong earnings, with a fiscal third-quarter EPS of $25.11, leading to a 5% increase in its stock price for the week, while Apple saw a 6.4% decline due to significant price hikes on its products. ON Semiconductor's stock dropped 24% after announcing an acquisition, and Strategy fell over 28% as Bitcoin prices declined, while large-cap pharmaceutical stocks like Johnson & Johnson, Merck, and Eli Lilly gained as investors shifted towards defensive names.
+
+NDX - Nasdaq-100 Index (index)
+  [2026-06-27 03:06:09 CET] Yahoo Finance (eodhd) | FinBERT neutral 1.00
+    SpaceX (SPCX) Joins The Nasdaq 100 In A Big Test For Passive Funds
+    https://finance.yahoo.com/markets/stocks/articles/spacex-spcx-joins-nasdaq-100-020609005.html
+    SpaceX is set to join the Nasdaq-100 index and FTSE Russell U.S. indexes on July 7, which will require index-tracking funds and ETFs to include the stock in their portfolios. The company has also priced $25 billion in senior unsecured notes to repay a bridge loan and cover general corporate uses, indicating significant engagement from institutional investors.
+
+  [2026-06-26 18:43:01 CET] Yahoo Finance (eodhd) | FinBERT negative 0.80
+    Asian Tech Stocks Slide as AI Memory Rally Faces Demand Test
+    https://finance.yahoo.com/technology/articles/asian-tech-stocks-slide-ai-174301361.html
+    Asian technology stocks declined significantly as Apple and Microsoft raised prices on key consumer products, raising concerns about the impact of rising memory chip and storage costs on device demand. Major Asian chipmakers like SK Hynix and Samsung Electronics experienced sharp declines, while the MSCI Asia Pacific Infotech gauge fell 6.4%.
+
+  [2026-06-26 18:40:59 CET] Yahoo Finance (eodhd) | FinBERT positive 0.78
+    AI Stocks Reel After Kospi's 10% Drop Shakes Global Tech Rally
+    https://finance.yahoo.com/markets/stocks/articles/ai-stocks-reel-kospis-10-174059916.html
+    AI-linked stocks are experiencing increased volatility as investors reassess the sustainability of this year's market trends, following a 10% drop in South Korea's Kospi and a 3.3% decline in the Nasdaq 100. Despite a brief boost from Micron Technology's positive sales outlook, the market remains cautious due to concerns over inflation and crowded positioning in AI-related investments.
+
+  [2026-06-26 14:54:08 CET] Yahoo Finance (eodhd) | FinBERT positive 0.52
+    TSX poised for lower open on tech weakness and sliding oil prices
+    https://finance.yahoo.com/markets/stocks/articles/tsx-poised-lower-open-tech-135408336.html
+    Canadian equity markets are expected to open lower due to weakness in the global technology sector and a decline in crude oil prices. The S&P/TSX Composite gained 114.12 points on Thursday, but S&P/TSX 60 Futures fell 0.33% ahead of the market opening.
+
+  [2026-06-26 12:32:36 CET] Yahoo Finance (eodhd) | FinBERT positive 0.98
+    UBS trims AI portfolio exposure to semis and hardware after recent rally
+    https://finance.yahoo.com/markets/stocks/articles/ubs-trims-ai-portfolio-exposure-113236653.html
+    UBS has reduced its semiconductor and hardware exposure in its AI investment strategy from approximately 76% to around 61% after a recent rally, while increasing its focus on more defensive sectors to about 20%. The bank continues to favor foundry and memory stocks within semiconductors but maintains a significant underweight in the Magnificent Seven tech stocks.
+
+NRG - NRG Energy (equity)
+  [2026-06-25 16:20:06 CET] Seeking Alpha (eodhd) | FinBERT neutral 0.99
+    Portfolio check: The biggest SA Quant upgrades over the past week
+    https://seekingalpha.com/news/4607315-portfolio-check-the-biggest-sa-quant-upgrades-over-the-past-week?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news
+    Seeking Alpha's Quant Ratings have recently provided upgrades and downgrades for various stocks, allowing investors to track changes in momentum and risk, as well as sentiment indicators. The ratings evaluate stocks based on financial data, performance, and analysts' revenue and earnings estimates.
+
+  [2026-06-25 14:00:02 CET] Yahoo Finance (eodhd) | FinBERT positive 0.56
+    NRG Energy, Inc. (NRG) is Attracting Investor Attention: Here is What You Should Know
+    https://finance.yahoo.com/markets/stocks/articles/nrg-energy-inc-nrg-attracting-130002699.html
+    NRG Energy has gained attention as one of the most searched stocks on Zacks.com, with its shares returning +3.1% over the past month, compared to a -1.4% change in the S&P 500. The company is expected to report earnings of $2.12 per share for the current quarter, reflecting a 26.2% increase from the previous year, while its Zacks Rank is currently #3 (Hold).
+
+  [2026-06-24 19:55:46 CET] Yahoo Finance (eodhd) | FinBERT positive 0.82
+    Should You Buy NRG Energy, Inc. (NRG)’s Shares?
+    https://finance.yahoo.com/markets/stocks/articles/buy-nrg-energy-inc-nrg-185546867.html
+    NRG Energy, Inc. (NYSE:NRG) is highlighted as a long-term stock pick in David Tepper's portfolio, with Appaloosa Management increasing its holdings from 1.2 million shares worth $21.5 million in Q2 2017 to 8.4 million shares valued at $216 million by the end of Q3. The company reported first-quarter earnings with revenue rising to $10.26 billion, although its earnings-per-share of $1.49 fell short of analyst expectations.
+
+  [2026-06-23 14:30:07 CET] Yahoo Finance (eodhd) | FinBERT neutral 1.00
+    Is It Worth Investing in NRG (NRG) Based on Wall Street's Bullish Views?
+    https://finance.yahoo.com/markets/stocks/articles/worth-investing-nrg-nrg-based-133007578.html
+    NRG Energy (NRG) has an average brokerage recommendation (ABR) of 1.40, indicating a consensus of Strong Buy to Buy from 15 brokerage firms, with 80% of the recommendations being Strong Buy. However, the article cautions that brokerage recommendations may not reliably predict stock performance, suggesting that investors should consider additional tools like the Zacks Rank, which currently rates NRG as a Hold.
+
+NVDA - NVIDIA Corp (AI vertical) (equity)
+  [2026-06-27 04:50:00 CET] nasdaq.com (eodhd) | FinBERT negative 0.96
+    3 Beaten-Down AI Chip Stocks to Consider Buying in the Sell-Off
+    https://www.nasdaq.com/articles/3-beaten-down-ai-chip-stocks-consider-buying-sell
+    Nvidia, ON Semiconductor, and Intel are highlighted as three AI chip stocks that have experienced significant declines, with Nvidia trading at about 29 times earnings, ON Semiconductor facing a drop due to a $7 billion acquisition, and Intel showing a turnaround despite only being profitable on a non-GAAP basis. The overall chip sector has been affected by skepticism regarding the sustainability of AI spending, leading to broader sell-offs.
+
+  [2026-06-27 03:50:00 CET] nasdaq.com (eodhd) | FinBERT negative 0.78
+    Can Meta's New $300 Glasses Turn Around the Stock?
+    https://www.nasdaq.com/articles/can-metas-new-300-glasses-turn-around-stock
+    Meta has been losing nearly $20 billion annually on its AI initiatives, but it sold at least 7 million smart glasses last year, which it hopes will help improve its financial outlook. The new $299 smart glasses, developed in partnership with EssilorLuxottica, are seen as a potential catalyst for growth, although Meta's Reality Labs division continues to face significant losses.
+
+  [2026-06-27 02:51:00 CET] nasdaq.com (eodhd) | FinBERT positive 1.00
+    Qualcomm Just Nearly Doubled Its Most Important Growth Target, Confirming Its Place as a Key AI Stock
+    https://www.nasdaq.com/articles/qualcomm-just-nearly-doubled-its-most-important-growth-target-confirming-its-place-key-ai
+    Qualcomm has raised its fiscal 2029 non-handset revenue target to approximately $40 billion, nearly doubling its previous goal, and is aiming for over $15 billion in data center revenue by the same year. The company has secured a multi-year deal with Meta to use its new data center processor, marking a significant step in its diversification efforts beyond smartphone chips.
+
+  [2026-06-27 02:20:00 CET] globenewswire.com (eodhd) | FinBERT positive 0.75
+    Vietnam Tech Summit 2026 to Bring AI Leaders, Founders, Investors, and Vietnamese Tech Talent to Silicon Valley
+    https://www.globenewswire.com/news-release/2026/06/27/3318523/0/en/Vietnam-Tech-Summit-2026-to-Bring-AI-Leaders-Founders-Investors-and-Vietnamese-Tech-Talent-to-Silicon-Valley.html
+    The Vietnam Tech Summit 2026 will be held on August 7 and 8 in Silicon Valley, aiming to connect Vietnamese tech talent with industry leaders and opportunities in artificial intelligence. The event, organized by VietSpark and several NGO partners, has seen significant growth, expanding from 100 to over 900 attendees since 2022, and will include company tours, keynotes, recruiting sessions, and mentoring opportunities.
+
+  [2026-06-27 01:40:00 CET] nasdaq.com (eodhd) | FinBERT neutral 0.98
+    Revealed! 3 Undervalued Stocks I Just Bought
+    https://www.nasdaq.com/articles/revealed-3-undervalued-stocks-i-just-bought
+    The article discusses the purchase of undervalued stocks and highlights that the Motley Fool Stock Advisor analyst team has identified ten stocks they believe are the best to buy currently, with Netflix not being among them. It also mentions the historical performance of stocks recommended by the service, noting significant returns compared to the S&P 500.
+
+NZDUSD - NZD/USD spot (fx)
+  [2026-06-26 06:54:43 CET] FXStreet (eodhd) | FinBERT negative 0.99
+    NZD/USD Price Forecast: New Zealand Dollar holds losses near 0.5650 amid bearish bias
+    https://www.fxstreet.com/news/nzd-usd-price-forecast-new-zealand-dollar-holds-losses-near-05650-amid-bearish-bias-202606260554
+    The NZD/USD currency pair is trading around 0.5650, continuing a losing streak that started on June 17, with technical analysis indicating a downward movement within a descending channel. This trend reflects a persistent bearish bias in the market.
+
+  [2026-06-25 19:08:56 CET] FXStreet (eodhd) | FinBERT negative 0.46
+    NZD/USD Price Forecast: RSI flashes oversold as the pair hovers near seven-month lows
+    https://www.fxstreet.com/news/nzd-usd-price-forecast-rsi-flashes-oversold-as-the-pair-hovers-near-seven-month-lows-202606251808
+    NZD/USD has paused a six-day losing streak, trading around 0.5650 near seven-month lows, as the US Dollar eases following the latest US Personal Consumption Expenditures data that met market expectations.
+
+  [2026-06-25 06:35:52 CET] FXStreet (eodhd) | FinBERT negative 1.00
+    NZD/USD Price Forecast: New Zealand Dollar falls to near 0.5650 as bearish bias prevails
+    https://www.fxstreet.com/news/nzd-usd-price-forecast-new-zealand-dollar-falls-to-near-05650-as-bearish-bias-prevails-202606250535
+    The NZD/USD exchange rate has declined for the seventh consecutive day, trading near 0.5650 during the Asian hours on Thursday, with technical analysis indicating a downward movement within a descending channel. This trend reflects a continued bearish bias in the market.
+
+  [2026-06-24 11:20:37 CET] FXStreet (eodhd) | FinBERT negative 1.00
+    NZD/USD Price Forecast: Kiwi hits fresh YTD lows below 0.5650 as the US Dollar soars
+    https://www.fxstreet.com/news/nzd-usd-price-forecast-kiwi-hits-fresh-ytd-lows-below-05650-as-the-us-dollar-soars-202606241020
+    The New Zealand Dollar (NZD) has reached new year-to-date lows below 0.5650 as the US Dollar (USD) strengthens due to increasing expectations of monetary tightening by the US Federal Reserve and a negative market sentiment.
+
+  [2026-06-23 07:46:35 CET] FXStreet (eodhd) | FinBERT negative 0.93
+    NZD/USD Price Forecast: Kiwi tests YTD lows at 0.5683 in cautious markets
+    https://www.fxstreet.com/news/nzd-usd-price-forecast-kiwi-tests-ytd-lows-at-05683-in-cautious-markets-202606230646
+    The New Zealand Dollar (NZD) has fallen against the US Dollar (USD) for five consecutive days, reaching a year-to-date low of 0.5683 on Tuesday.
+
+ORCL - Oracle (equity)
+  [2026-06-26 20:23:00 CET] nasdaq.com (eodhd) | FinBERT negative 0.99
+    OpenAI Just Signaled It Might Delay Its IPO. AI Stocks Are Tumbling. Is the Bubble Bursting?
+    https://www.nasdaq.com/articles/openai-just-signaled-it-might-delay-its-ipo-ai-stocks-are-tumbling-bubble-bursting
+    OpenAI is reportedly considering delaying its initial public offering until 2027, which has contributed to a decline in AI and chip stocks, including Nvidia and AMD. The company has committed to significant future computing capacity, targeting around $600 billion in total compute spending through 2030, despite currently generating over $25 billion in annualized revenue without being profitable.
+
+  [2026-06-26 18:21:13 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.95
+    Palantir Becomes Most Oversold Mega-Cap Tech Stock
+    https://finance.yahoo.com/markets/stocks/articles/palantir-becomes-most-oversold-mega-172113416.html
+    Palantir Technologies (NASDAQ:PLTR) has been identified as the most oversold mega-cap tech stock, with a Relative Strength Index (RSI) of 27, indicating it is below several major technology companies. This trend follows a broader decline in growth shares, as investors shift away from higher-growth names amid a risk-off environment in equity markets.
+
+  [2026-06-26 17:58:01 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    FuelCell Energy Rockets 24%, Bloom Energy Tumbles 14% in a Stunning Fuel Cell Divergence
+    https://finance.yahoo.com/markets/stocks/articles/fuelcell-energy-rockets-24-bloom-165801982.html
+    FuelCell Energy's stock surged 24% after securing a 380 MW power deal with Fit Energy, while Bloom Energy's stock fell 14% due to profit-taking and competitive pressures. FuelCell Energy has a significant commercial pipeline and is expanding its factory, while Bloom Energy, despite a strong product backlog, is experiencing a pullback after a substantial rise in its stock price.
+
+  [2026-06-26 17:30:35 CET] Yahoo Finance (eodhd) | FinBERT positive 0.99
+    Wall Street Has 36 Buy Ratings on Oracle. Here’s How We See 47% Upside
+    https://finance.yahoo.com/markets/stocks/articles/wall-street-36-buy-ratings-163035147.html
+    Oracle's stock has decreased significantly from a peak of $303 to $152.46, but 24/7 Wall St. rates it a BUY with a price target of $223.70, indicating a potential upside of 46.73%, supported by a $638 billion RPO backlog despite concerns over negative free cash flow of $23.7 billion.
+
+  [2026-06-26 16:42:48 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Palantir Tops Oversold Mega Cap Tech List
+    https://finance.yahoo.com/markets/stocks/articles/palantir-tops-oversold-mega-cap-154248214.html
+    Palantir (NASDAQ:PLTR) is currently leading a list of oversold mega-cap tech stocks, with a Relative Strength Index (RSI) of 27, indicating it may be due for a rebound. Other notable tech stocks include Microsoft (RSI of 29), Oracle (31), Apple (32), and Nvidia (40), as the sector faces selling pressure amid broader market concerns.
+
+PWR - Quanta Services (equity)
+  [2026-06-26 14:41:00 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Can Grid Modernization Become Quanta's Next Growth Driver?
+    https://finance.yahoo.com/energy/articles/grid-modernization-become-quantas-next-134100977.html
+    Quanta Services, Inc. is positioning itself to capitalize on the growing demand for grid modernization in North America, with plans to invest $500-$700 million to expand its manufacturing capacity and support complex infrastructure projects. The company reported a record backlog of $48.5 billion, indicating strong revenue visibility as utilities are expected to invest heavily in transmission infrastructure in the coming years.
+
+  [2026-06-24 17:56:00 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    TTEK Clinches Single-Award Contract From Encina Wastewater Authority
+    https://finance.yahoo.com/markets/stocks/articles/ttek-clinches-single-award-contract-165600682.html
+    Tetra Tech, Inc. has secured a single-award contract from Encina Wastewater Authority to provide digital automation and operational technology solutions for the CLEAR project in California, which includes installing microgrid control and gas conditioning systems. This contract continues Tetra Tech's long-standing collaboration with EWA and aims to enhance wastewater treatment efficiency and reduce emissions.
+
+  [2026-06-23 14:43:00 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Dycom vs. Quanta: Which Infrastructure Growth Stock Is the Better Buy?
+    https://finance.yahoo.com/markets/stocks/articles/dycom-vs-quanta-infrastructure-growth-134300179.html
+    Dycom Industries, Inc. and Quanta Services, Inc. are both infrastructure companies benefiting from increased demand for digital infrastructure, with Dycom focusing on fiber infrastructure and Quanta on utility and communications projects. In their recent financial reports, Dycom reported a record backlog of $11.9 billion and a 56.1% year-over-year revenue increase, while Quanta's backlog reached $48.5 billion with a 26.3% revenue increase year-over-year.
+
+  [2026-06-23 14:42:00 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    AECOM Secures Expanded Role on U.K. Government's CPS2 Framework
+    https://finance.yahoo.com/real-estate/articles/aecom-secures-expanded-role-u-134200162.html
+    AECOM has been selected by the U.K. Government for an expanded role in the Construction Professional Services 2 (CPS2) Framework, which is valued at $4.7 billion and will provide construction professional and technical services across various sectors for public-sector organizations. The company's role has increased from five to nine lots, covering areas such as general infrastructure, defense, and nuclear energy, while its shares dropped 1.4% following the announcement.
+
+  [2026-06-20 06:06:12 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Quanta Services (PWR) Reports Record Backlog And Lifts Full Year Outlook
+    https://finance.yahoo.com/markets/stocks/articles/quanta-services-pwr-reports-record-050612906.html
+    Quanta Services reported a record backlog of $48.5 billion related to grid and AI infrastructure projects and raised its full-year outlook due to strong demand for modernization of power and data networks. The company's stock has seen significant gains, up 59.7% year-to-date and 94.8% over the past year.
+
+QQQ - Invesco QQQ Trust (Nasdaq 100) (equity)
+  [2026-06-27 01:23:27 CET] CNBC (eodhd) | FinBERT neutral 0.70
+    SpaceX will join Nasdaq-100
+    https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100-on-hold-on-hold-on-hold.html
+    SpaceX will be added to the Nasdaq-100 index, making it one of the quickest additions in history, with trading set to begin on July 7. The inclusion follows Nasdaq's new fast-track framework for newly public companies, allowing SpaceX to qualify after just 15 trading days, although it remains ineligible for the S&P 500 due to different requirements.
+
+  [2026-06-27 01:15:21 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    SpaceX set to join Nasdaq 100, paving way for wave of passive buying
+    https://finance.yahoo.com/markets/world-indices/articles/spacex-set-join-nasdaq-100-001521435.html
+    SpaceX will be added to the Nasdaq 100 index on July 7, which is expected to lead to significant passive investment inflows, estimated at $4.3 billion. The inclusion follows Nasdaq's relaxation of entry requirements for companies seeking U.S. listings, despite SpaceX's recent financial losses.
+
+  [2026-06-26 18:18:50 CET] Yahoo Finance (eodhd) | FinBERT neutral 1.00
+    Exchange-Traded Funds Mixed, US Equities Advance After Midday
+    https://finance.yahoo.com/markets/articles/exchange-traded-funds-mixed-us-171850205.html
+    Broad-market exchange-traded fund IWM declined, while IVV increased, as US equities advanced after midday.
+
+  [2026-06-26 13:14:00 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.90
+    QQQ Isn’t the Only Game in Town. Competition Heats Up for Nasdaq-100 ETFs.
+    https://finance.yahoo.com/m/479ef126-d4a6-331d-b71f-4b4e29215c8f/qqq-isn%E2%80%99t-the-only-game-in.html
+    State Street has launched a new Nasdaq-100 exchange-traded fund to compete with Invesco's offering, while BlackRock is also preparing to enter the market.
+
+  [2026-06-25 20:03:00 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.92
+    Why getting dumped from the Dow is the ultimate buy signal for this — or any — stock
+    https://finance.yahoo.com/markets/stocks/articles/why-getting-dumped-dow-ultimate-190300686.html
+    Verizon Communications is being removed from the Dow Jones Industrial Average to make room for Alphabet, which has seen significant stock gains, while Verizon's performance has lagged. Historical analysis suggests that stocks deleted from major indices often outperform those added, indicating potential investment interest in Verizon following its removal.
+
+SFTBY - SoftBank Group Corp (ADR; Tokyo 9984 not on EODHD plan) (equity)
+  [2026-06-26 13:46:55 CET] Yahoo Finance (eodhd) | FinBERT negative 0.98
+    SoftBank Plunges 13% As OpenAI IPO Delay Concerns Shake Investors
+    https://finance.yahoo.com/markets/stocks/articles/softbank-plunges-13-openai-ipo-124655001.html
+    SoftBank Group shares fell 13% on Friday, their largest drop since August 2024, due to concerns that OpenAI may delay its initial public offering until next year. This decline impacted SoftBank's investment narrative, as the anticipated OpenAI listing was expected to significantly enhance the company's market valuation.
+
+  [2026-06-26 12:35:01 CET] Yahoo Finance (eodhd) | FinBERT neutral 1.00
+    Tech Retreat Undercuts European Bourses Midday
+    https://finance.yahoo.com/markets/world-indices/articles/tech-retreat-undercuts-european-bourses-113501384.html
+    European bourses declined midday on Friday as traders remained cautious about tech shares.
+
+  [2026-06-26 12:14:58 CET] Yahoo Finance (eodhd) | FinBERT negative 1.00
+    SoftBank Plunges on OpenAI IPO Delay
+    https://finance.yahoo.com/markets/stocks/articles/softbank-plunges-openai-ipo-delay-111458225.html
+    SoftBank shares fell as much as 13% after reports indicated that OpenAI may delay its IPO until 2027, impacting SoftBank, which holds a significant stake in the company. The decline in SoftBank's stock was also influenced by concerns over capital requirements for AI infrastructure and market volatility.
+
+  [2026-06-26 12:04:45 CET] Yahoo Finance (eodhd) | FinBERT neutral 1.00
+    Tech Caution Prevails on Wall Street Pre-Bell; Asia, Europe Down
+    https://finance.yahoo.com/markets/stocks/articles/tech-caution-prevails-wall-street-110445333.html
+    Wall Street futures indicated a moderate decline before the market opened on Friday, as traders shifted to a risk-off approach. Additionally, stock markets in Asia and Europe also experienced downturns.
+
+  [2026-06-26 12:04:00 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.99
+    OpenAI IPO Fears Hit Oracle and Other Stocks Exposed to the ChatGPT Maker
+    https://finance.yahoo.com/m/926189e9-e8ed-3e1c-a8d9-ef0957803cdb/openai-ipo-fears-hit-oracle.html
+    OpenAI is reportedly considering delaying its initial public offering until 2027, which has negatively impacted Oracle and other stocks associated with the company.
+
+SMCI - Super Micro Computer (equity)
+  [2026-06-25 14:00:02 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Supermicro Stock Jumps on Wall Street Upgrade. The Real Test Is Still Ahead.
+    https://finance.yahoo.com/markets/stocks/articles/supermicro-stock-jumps-wall-street-130002030.html
+    Supermicro (SMCI) stock rose approximately 16% after GF Securities upgraded it to a "Buy" with a target price of $48. The company reported strong fiscal third-quarter results, with revenue of $10.2 billion, but missed analysts' revenue estimates, and it is preparing for a significant increase in AI infrastructure demand.
+
+  [2026-06-25 09:19:27 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    GF Securities Upgrades Super Micro Computer (SMCI) Stock to Buy
+    https://finance.yahoo.com/markets/stocks/articles/gf-securities-upgrades-super-micro-081927644.html
+    GF Securities upgraded Super Micro Computer, Inc. (NASDAQ:SMCI) to a "Buy" rating with a price target of $48, citing strong underlying demand and potential growth from partnerships, despite an anticipated 15% dilution affecting the stock price. The firm believes that the company's outlook is stronger than previously thought, supported by momentum in the AI and server markets.
+
+  [2026-06-24 19:30:36 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Which AI Server Stock Has Dominated in 2026: Super Micro, Dell, or Hewlett Packard Enterprise?
+    https://finance.yahoo.com/markets/stocks/articles/ai-server-stock-dominated-2026-183036000.html
+    In 2026, Dell Technologies' stock has surged 242% year to date, leading the AI server market, followed by Hewlett Packard Enterprise with a 103% increase, while Super Micro Computer has only gained 9%. Despite Super Micro's lower price-to-earnings ratio of 17x compared to Dell's 34x and HPE's 46x, it has struggled with revenue misses and negative market sentiment.
+
+  [2026-06-24 17:30:00 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Micron, Alphabet, Builders FirstSource, Sunrun, Wendy’s, and More Stocks That Explain Today’s Market
+    https://finance.yahoo.com/m/ceec6673-cc8d-32dc-86a0-f6e409c55462/micron%2C-alphabet%2C-builders.html
+    Stocks increased on Wednesday, with stability in artificial intelligence stocks contributing to the overall market gains, while Micron Technology saw a decline of 0.7%. Additionally, Qualcomm is reportedly in discussions to supply custom chips for ByteDance, the owner of TikTok.
+
+  [2026-06-24 14:25:00 CET] Yahoo Finance (eodhd) | FinBERT negative 0.97
+    Can SMCI Overcome Rising Inventory and Cash Flow Pressures?
+    https://finance.yahoo.com/markets/stocks/articles/smci-overcome-rising-inventory-cash-132500773.html
+    Super Micro Computer (SMCI) experienced a significant decline in cash flow and working capital in the third quarter of fiscal 2026, reporting cash flow used in operations of approximately $6.6 billion, compared to $24 million in the previous quarter, largely due to increased inventory and reduced accounts payable. The company faced rising inventory levels, totaling nearly $11.1 billion, and recorded write-downs of approximately $239.3 million related to older-generation components, amid competition from larger players like Hewlett Packard Enterprise and Dell Technologies in the AI data center market.
+
+SMH - VanEck Semiconductor ETF (equity)
+  [2026-06-26 16:51:00 CET] Yahoo Finance (eodhd) | FinBERT neutral 1.00
+    The Market Rotation Is On. ServiceNow, Workday, and AppLovin Rise as Software Tops Chips.
+    https://finance.yahoo.com/m/31358cbd-66f7-30c0-b789-be55da6ff3d8/the-market-rotation-is-on..html
+    ServiceNow, Workday, and AppLovin are among the top-performing software stocks in the S&P 500, indicating a market rotation favoring software over chip stocks. The article raises questions about the evolving narrative surrounding AI in the software sector.
+
+  [2026-06-24 18:59:07 CET] Yahoo Finance (eodhd) | FinBERT positive 0.98
+    Nvidia's Upbeat Forecast Lifts SMH's Earnings Outlook
+    https://finance.yahoo.com/markets/stocks/articles/nvidias-upbeat-forecast-lifts-smhs-175907154.html
+    The VanEck Semiconductor ETF (SMH) has seen a 138% return over the past year, with 71.4% of its largest holdings raising their forward guidance, indicating a positive outlook for the semiconductor sector. Nvidia, which comprises 14.2% of the fund, was the largest contributor to this optimism, raising its revenue guidance by 16.7%, while Qualcomm was the only major holding to lower its outlook.
+
+  [2026-06-24 17:30:33 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Cantor’s CJ Muse Says a 2027 Memory Squeeze Could Power Micron’s Earnings Through 2028
+    https://finance.yahoo.com/markets/stocks/articles/cantor-cj-muse-says-2027-163033792.html
+    Cantor Fitzgerald analyst CJ Muse predicts that a tighter memory supply in 2027 could lead to significant earnings growth for Micron Technology, potentially reaching $200 per share, as demand for memory continues to outpace supply. Muse's comments come ahead of Micron's fiscal Q3 earnings report, with market expectations indicating a high probability of the company beating earnings estimates.
+
+  [2026-06-24 17:16:34 CET] Yahoo Finance (eodhd) | FinBERT positive 0.79
+    Inside SMH: The Few Stocks Driving Your Semiconductor Returns
+    https://finance.yahoo.com/markets/stocks/articles/inside-smh-few-stocks-driving-161634020.html
+    The VanEck Semiconductor ETF (SMH) achieved a return of +138.2% over the past year, primarily driven by a small number of stocks, with Micron Technology and Intel being the largest contributors. Despite 24 of the fund's 25 largest holdings rising, the gains were concentrated, as the top five contributors accounted for about 69% of the total gains, indicating that the fund's performance is heavily influenced by a few key companies.
+
+  [2026-06-24 15:00:00 CET] Yahoo Finance (eodhd) | FinBERT positive 0.99
+    Beyond Mag 7: MANGOS or Big-10 ETFs Will Likely Rule Ahead
+    https://finance.yahoo.com/markets/stocks/articles/beyond-mag-7-mangos-big-140000492.html
+    Wall Street analysts are introducing new groupings of high-potential tech stocks, such as MANGOS, FAB 10, and BofA's AI Big 10, to reflect the evolving leaders in the AI-driven market, moving beyond the previously dominant "Magnificent Seven." These new groupings include a mix of established companies and emerging players in the AI and aerospace sectors, indicating a broader focus on the AI ecosystem and its investment opportunities.
+
+SOX - PHLX Semiconductor Index (index)
+  [2026-06-25 15:39:59 CET] Yahoo Finance (eodhd) | FinBERT negative 0.50
+    Stock Market Today: Indexes Volatile; Micron Surges, But Apple Makes Sell Signal (Live Coverage)
+    https://finance.yahoo.com/m/a73445f1-297d-3bcf-aba0-9d071c23697c/stock-market-today%3A-indexes.html
+    The stock market experienced volatility on Thursday morning, initially declining before rebounding, with Apple stock falling and technology stocks reversing lower. Major indexes, including the Dow Jones Industrial Average, opened higher following a stronger-than-expected GDP reading.
+
+  [2026-06-24 21:40:39 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Micron stock soars after blowout earnings expose AI's memory bottleneck
+    https://finance.yahoo.com/markets/article/micron-stock-soars-after-blowout-earnings-expose-ais-memory-bottleneck-204039376.html
+    Micron Technology's stock surged by as much as 19% following the company's record earnings report for Q3, which included revenue of $41.5 billion and an adjusted earnings per share of $25.11, significantly exceeding Wall Street's expectations. The company also announced 16 strategic customer agreements aimed at securing memory supply, highlighting the increasing demand for memory in AI applications.
+
+  [2026-06-24 21:40:39 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Micron's blowout earnings just reset the AI memory trade
+    https://finance.yahoo.com/markets/article/microns-blowout-earnings-just-reset-the-ai-memory-trade-204039376.html
+    Micron reported record revenue of $41.5 billion and adjusted earnings of $25.11 per share for Q3, significantly exceeding Wall Street estimates, while also signing 16 strategic customer agreements to secure memory supply over several years. The company's gross margin reached 84.9%, the highest since 1990, indicating strong demand for memory driven by AI applications.
+
+  [2026-06-24 21:40:39 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Micron's stock soars after blowout earnings expose AI's memory bottleneck
+    https://finance.yahoo.com/markets/article/microns-stock-soars-after-blowout-earnings-expose-ais-memory-bottleneck-204039376.html
+    Micron's stock rose approximately 18% in premarket trading following the company's strong Q3 earnings report, which included record revenue of $41.5 billion and a gross margin of 84.9%. The company also announced 16 strategic customer agreements aimed at securing long-term memory supply, highlighting the increasing demand for memory in AI applications.
+
+  [2026-06-24 21:40:39 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Micron's stock soars after blowout earnings reset the AI memory trade
+    https://finance.yahoo.com/markets/article/microns-stock-soars-after-blowout-earnings-reset-the-ai-memory-trade-204039376.html
+    Micron's stock rose approximately 18% in premarket trading after the company reported record revenue of $41.5 billion and strong earnings for Q3, surpassing Wall Street estimates. The company also announced 16 strategic customer agreements aimed at securing long-term supply, reflecting increased demand for memory driven by AI applications.
+
+SOXX - iShares Semiconductor ETF (equity)
+  [2026-06-26 12:39:57 CET] CNBC (eodhd) | FinBERT neutral 0.66
+    Stocks making the biggest moves premarket: Sandisk, On Semiconductor, Rocket Lab &amp; more
+    https://www.cnbc.com/2026/06/26/stocks-making-the-biggest-moves-premarket-sndk-on-rkl.html
+    In premarket trading, On Semiconductor's shares fell over 15% after announcing a nearly $7 billion all-stock acquisition of Synaptics, whose stock rose 2.5%. Meanwhile, several memory and semiconductor stocks declined amid a tech sell-off, with Micron and Sandisk both down more than 4%, while Rocket Lab's shares increased by 1.5% following a NASA contract announcement.
+
+  [2026-06-26 02:50:00 CET] nasdaq.com (eodhd) | FinBERT positive 1.00
+    Why Is Nvidia Stock So Cheap? This Is the Only Plausible Answer
+    https://www.nasdaq.com/articles/why-nvidia-stock-so-cheap-only-plausible-answer
+    Nvidia's stock has increased by only 4% this year, underperforming the S&P 500 and other semiconductor stocks, despite expectations that its earnings per share will nearly double. The stock's lackluster performance is attributed to uncertainty surrounding the sustainability of the AI boom and investor concerns about a potential AI bubble.
+
+  [2026-06-25 18:12:59 CET] CNBC (eodhd) | FinBERT positive 1.00
+    Stocks making the biggest moves midday: BlackBerry, Kymera Therapeutics, Apple, Wendy's &amp; more
+    https://www.cnbc.com/2026/06/25/stocks-making-the-biggest-moves-midday-bb-kymr-aapl-wen.html
+    Kymera Therapeutics' stock rose 17% after enrolling in a Phase 2b trial for its KT-621 drug, while BlackBerry shares increased 20% following better-than-expected fiscal first-quarter results. In contrast, Apple shares fell nearly 5% due to announced price hikes, and Hertz Global's stock dropped over 9% after a secondary offering.
+
+  [2026-06-25 17:30:44 CET] Seeking Alpha (eodhd) | FinBERT positive 0.70
+    AI is ‘juicing up’ inflation, says Moody’s Mark Zandi
+    https://seekingalpha.com/news/4607377-ai-is-juicing-up-inflation-says-moody-s-mark-zandi?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news
+    Mark Zandi, chief economist at Moody's Analytics, stated that artificial intelligence is contributing to inflation by increasing demand for semiconductor chips and raising electricity costs, which are driving up consumer prices. He noted that despite expectations for AI to enhance productivity and lower costs, these benefits have not yet materialized in economic data, and inflation is expected to remain above the Federal Reserve's target for the foreseeable future.
+
+  [2026-06-25 16:58:04 CET] Yahoo Finance (eodhd) | FinBERT positive 0.91
+    Micron's Upbeat Forecast Lifts SOXX Earnings Outlook
+    https://finance.yahoo.com/markets/stocks/articles/microns-upbeat-forecast-lifts-soxx-155804950.html
+    Micron Technology raised its EPS guidance by 64%, significantly influencing the iShares Semiconductor ETF (SOXX), where 73.8% of its holdings have increased their earnings or revenue forecasts. In contrast, Qualcomm lowered its forecast, but the overall trend among the fund's major holdings indicates a positive outlook for future earnings.
+
+SPX - S&P 500 Index (index)
+  [2026-06-27 03:06:25 CET] Yahoo Finance (eodhd) | FinBERT positive 0.94
+    How Investors Are Reacting To Cboe Global Markets (CBOE) Launching XSP Binary Options Prediction Suite
+    https://finance.yahoo.com/markets/options/articles/investors-reacting-cboe-global-markets-020625255.html
+    Cboe Global Markets has launched its Cboe Predicts prediction markets suite, introducing Mini-S&P 500 Index (XSP) binary options on Interactive Brokers, with plans for availability on other retail platforms. This initiative aims to attract newer retail traders by offering regulated prediction-style trading products.
+
+  [2026-06-27 00:55:00 CET] Yahoo Finance (eodhd) | FinBERT positive 0.65
+    Review &amp; Preview: Magnificent Worries
+    https://finance.yahoo.com/m/2af9ba0b-58a5-3bbb-a598-bccf075c5752/review-%26-preview%3A-magnificent.html
+    Tech stocks experienced a decline as concerns grew regarding AI spending and its potential inflationary effects on consumers.
+
+  [2026-06-27 00:07:00 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Charitable Giving: Where There’s a Will, There’s a Way
+    https://finance.yahoo.com/m/02593776-1cab-3bd5-9c7c-35b3e6d7df24/charitable-giving%3A-where.html
+    An annual report indicates that donations to nonprofits increased by 3% in inflation-adjusted dollars, reaching $617.2 billion in 2025.
+
+  [2026-06-26 23:15:05 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Diamondback Energy (FANG) Registers a Bigger Fall Than the Market: Important Facts to Note
+    https://finance.yahoo.com/markets/stocks/articles/diamondback-energy-fang-registers-bigger-221505734.html
+    Diamondback Energy (FANG) closed at $179.91, down 1.45%, which was a larger decline than the S&P 500's loss of 0.05%. The company is expected to report earnings of $5.73 per share and revenue of $4.8 billion, reflecting significant year-over-year increases.
+
+  [2026-06-26 23:15:05 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Pagaya Technologies Ltd. (PGY) Advances While Market Declines: Some Information for Investors
+    https://finance.yahoo.com/markets/stocks/articles/pagaya-technologies-ltd-pgy-advances-221505705.html
+    Pagaya Technologies Ltd. (PGY) closed at $15.87, up 2.52% from the previous day, while the broader market indices, including the S&P 500, Dow, and Nasdaq, experienced slight declines. The company is expected to report an EPS of $0.71 and revenue of $358.15 million in its upcoming earnings disclosure, with a Zacks Rank of #1 (Strong Buy) indicating positive analyst sentiment.
+
+SPY - SPDR S&P 500 ETF Trust (equity)
+  [2026-06-27 04:31:01 CET] Yahoo Finance (eodhd) | FinBERT positive 0.96
+    Scott Bessent Defends Tariff Reboot, Unveils ‘3 Through 3’ Plan To Beat ‘Structural Inflation’
+    https://finance.yahoo.com/economy/policy/articles/scott-bessent-defends-tariff-reboot-033101799.html
+    Treasury Secretary Scott Bessent defended the administration's trade policies and introduced a "3 through 3" economic plan aimed at achieving 3% GDP growth, increasing energy production, and reducing the national deficit to 3% of GDP. He argued that structural inflation is primarily driven by domestic services rather than tariffs, which he claims are necessary to protect American manufacturing and enhance national security.
+
+  [2026-06-26 23:24:52 CET] nasdaq.com (eodhd) | FinBERT negative 0.96
+    Stock Indexes Finish Lower as Chipmakers Sell Off
+    https://www.nasdaq.com/articles/stock-indexes-finish-lower-chipmakers-sell
+    On Friday, major U.S. stock indexes closed lower, with the S&P 500 down 0.05%, the Dow down 0.09%, and the Nasdaq 100 down 1.09%, primarily due to a sell-off in chipmakers. The South Korea's Kospi Index fell over 5% following declines in Samsung Electronics and SK Hynix, contributing to a global downturn in the semiconductor sector.
+
+  [2026-06-26 21:59:21 CET] Seeking Alpha (eodhd) | FinBERT positive 1.00
+    Health Care had the best week vs. the S&amp;P 500 on record
+    https://seekingalpha.com/news/4607851-health-care-had-the-best-week-vs-the-s-and-p-500-on-record?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news
+    The health care sector had its best week against the S&P 500 on record, outperforming it by 9.92 percentage points, with the health care index returning +4.63% while the S&P 500 returned -1.67%. The sector is up 7.9% from a month ago and 2.8% year-to-date.
+
+  [2026-06-26 21:17:51 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.99
+    AI Rout Exposes Wall Street’s $270 Billion Speculation Machine
+    https://finance.yahoo.com/markets/options/articles/ai-rout-exposes-wall-street-201751958.html
+    The recent tech selloff has highlighted the vulnerabilities of Wall Street's $270 billion leveraged investment products, particularly in AI chip stocks and crypto markets, as these speculative vehicles amplified losses during the downturn. The rapid growth of leveraged ETFs and other financial products has created a feedback loop that can intensify market movements, revealing the risks associated with their reliance on investor sentiment and speculative trading strategies.
+
+  [2026-06-26 19:41:35 CET] Seeking Alpha (eodhd) | FinBERT positive 0.76
+    S&amp;P 500 Index divergence: Equal-weight climbs while cap-weight melts
+    https://seekingalpha.com/news/4607818-s-and-p-500-index-divergence-equal-weight-climbs-while-cap-weight-melts?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news
+    The S&P 500 has shown a divergence, with the equal-weight index rising 10.8% year-to-date while the cap-weighted index has declined 7.5%, largely due to significant losses in major tech stocks known as the "magnificent seven." This trend indicates a shift in investor focus away from a few dominant technology companies towards broader market participation.
+
+SU - Schneider Electric (Euronext Paris) (equity)
+  [2026-06-25 15:52:00 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Northumbria Healthcare NHS Foundation Trust Continues to Deliver Outstanding Patient Care with Schneider Electric's EcoStruxure™ Data Centre solution
+    https://finance.yahoo.com/healthcare/articles/northumbria-healthcare-nhs-foundation-trust-145200830.html
+    Northumbria Healthcare NHS Foundation Trust has completed a £1 million project with Schneider Electric to modernize and standardize its uninterruptible power supply (UPS) infrastructure across multiple sites, achieving 100% uptime and improved operational visibility. The project includes a five-year service and maintenance agreement to support ongoing monitoring and maintenance of the UPS systems.
+
+  [2026-06-25 09:22:00 CET] Yahoo Finance (eodhd) | FinBERT neutral 1.00
+    Pre-stabilisation Announcement
+    https://finance.yahoo.com/markets/options/articles/pre-stabilisation-announcement-082200847.html
+    Schneider Electric SE has announced a pre-stabilisation period for the offer of securities, with a stabilisation period expected to start on June 25, 2026, and end no later than 30 days after the proposed issue date. The announcement specifies that the securities are not for distribution in the United States or jurisdictions where such distribution would be unlawful.
+
+  [2026-06-23 13:00:00 CET] Yahoo Finance (eodhd) | FinBERT positive 0.89
+    Schneider Electric Launches Industrial Automation Modernization as a Service Built on HPE Infrastructure
+    https://finance.yahoo.com/technology/articles/schneider-electric-launches-industrial-automation-120000399.html
+    Schneider Electric has launched "Industrial Automation Modernization as a Service," which combines its EcoStruxure™ Automation Expert with HPE SimpliVity hybrid cloud infrastructure to help industrial organizations modernize their automation systems without disrupting production. This service allows for incremental modernization, shifting from capital expenditure to operational expenditure, while preserving existing investments and enhancing operational resilience.
+
+  [2026-06-22 14:03:00 CET] Yahoo Finance (eodhd) | FinBERT positive 0.99
+    Schneider Electric Advances Open, Software-Defined Automation at Automate 2026
+    https://finance.yahoo.com/technology/articles/schneider-electric-advances-open-software-130300394.html
+    Schneider Electric is showcasing its advancements in open software-defined automation, industrial AI, and electrification at Automate 2026 in Chicago, collaborating with various industry partners to demonstrate hardware-agnostic automation solutions. The company emphasizes its commitment to U.S. manufacturing and aims to guide visitors toward achieving autonomous operations that enhance safety and productivity.
+
+TLN - Talen Energy (equity)
+  [2026-06-23 14:33:01 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    IBM upgrade, SpaceX initiation among today's top calls on Wall Street
+    https://finance.yahoo.com/markets/stocks/articles/ibm-upgrade-spacex-initiation-among-133301562.html
+    JPMorgan upgraded IBM to Overweight with a price target of $291, citing confidence in software acceleration, while several other companies, including Target and Synopsys, also received upgrades. Conversely, Nike and Home Depot were downgraded by Evercore ISI and Wolfe Research, respectively, due to ongoing challenges and strategic shifts, and Susquehanna initiated coverage of SpaceX with a Neutral rating and a $170 price target.
+
+  [2026-06-23 13:00:00 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Best Nuclear and AI Energy Stocks to Buy Now and Hold : GEV, TLN
+    https://finance.yahoo.com/energy/articles/best-nuclear-ai-energy-stocks-120000687.html
+    Investors are encouraged to consider Talen Energy (TLN) and GE Vernova (GEV) as strong stocks in the nuclear and AI energy sectors, which are expected to benefit from increasing electricity demand and government initiatives to expand nuclear capacity. Both companies have shown significant growth potential, with Talen Energy projected to increase its earnings and revenue substantially by 2027, while GE Vernova is positioned to thrive in the evolving energy landscape with a growing backlog of orders.
+
+TSM - TSMC (ADR) (equity)
+  [2026-06-26 21:46:40 CET] nasdaq.com (eodhd) | FinBERT negative 0.79
+    Why Tower Semiconductor Took a Dive Today
+    https://www.nasdaq.com/articles/why-tower-semiconductor-took-dive-today
+    Tower Semiconductor's shares fell 7.4% on Friday, influenced by a broader decline in AI chip stocks following a report that OpenAI may delay its IPO until 2027. The sell-off was attributed to profit-taking after significant gains in AI-related semiconductor stocks, including a 465% increase in Tower's stock over the past year.
+
+  [2026-06-26 15:06:20 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Big Tech’s Quiet Diversification Out of Taiwan Is the Ultimate Catalyst for Intel’s Turnaround
+    https://finance.yahoo.com/technology/articles/big-tech-quiet-diversification-taiwan-140620620.html
+    Intel has received significant funding from hyperscalers as a geopolitical hedge against Taiwan Semiconductor Manufacturing (TSMC), with $8.9 billion from the CHIPS Act and investments from NVIDIA and SoftBank. Both companies reported their Q1 2026 results, with Intel's revenue at $13.58 billion and TSMC's at NT$1,134.10 billion, highlighting the competitive landscape in advanced chip manufacturing.
+
+  [2026-06-26 11:50:24 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Aletheia Capital Raises Price Target on Taiwan Semiconductor (TSM) on Advanced Node Growth Expectations
+    https://finance.yahoo.com/markets/stocks/articles/aletheia-capital-raises-price-target-105024440.html
+    Aletheia Capital has raised its price target for Taiwan Semiconductor Manufacturing Company Limited (TSM) to NT$3,500 and maintained a Buy rating, citing expectations for significant growth in high-end node capacity and wafer fabrication equipment expenditure. The firm forecasts TSMC's revenue and earnings growth to accelerate in 2028, following a compound annual growth rate of over 30% from 2024 to 2027.
+
+  [2026-06-25 22:00:00 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Equinox Gold Secures Long-Term Land Access Agreements with All Three Communities at Los Filos Mine, Planning and Technical Work Underway to Support Mine Restart and Annual Production Expansion
+    https://finance.yahoo.com/markets/commodities/articles/equinox-gold-secures-long-term-210000893.html
+    Equinox Gold Corp. has signed 20-year land access agreements with three communities near its Los Filos Mine in Guerrero, Mexico, and has begun planning for the restart of heap leach operations and potential production expansion. The company is also advancing technical studies to evaluate further development options while committing to responsible operations and stakeholder engagement.
+
+  [2026-06-25 22:00:00 CET] globenewswire.com (eodhd) | FinBERT positive 1.00
+    Equinox Gold Secures Long-Term Land Access Agreements with All Three Communities at Los Filos Mine, Planning and Technical Work Underway to Support Mine Restart and Annual Production Expansion
+    https://www.globenewswire.com/news-release/2026/06/25/3317977/0/en/Equinox-Gold-Secures-Long-Term-Land-Access-Agreements-with-All-Three-Communities-at-Los-Filos-Mine-Planning-and-Technical-Work-Underway-to-Support-Mine-Restart-and-Annual-Productio.html
+    Equinox Gold Corp. has signed 20-year land access agreements with the communities surrounding its Los Filos Mine in Guerrero, Mexico, and has begun planning for the restart of heap leach operations and potential production expansion. The company is also advancing technical studies to evaluate further development options while committing to responsible operations and community engagement.
+
+USDCAD - USD/CAD spot (fx)
+  [2026-06-20 10:59:41 CET] news.google.com (google) | FinBERT neutral 1.00
+    Canadian Dollar to US Dollar Exchange Rate June 23 2026 - Robinhood
+    https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVXk5YjNjcjk2YUJrN2tIaW9lNkZYVmRrMllscnVmUTg3MnpNc01FM1lIeEhRZnc0WldPanpjVllrcGF2MUVtTHNQYjNsR21Ldm05T01vZ3AyXzJEV1Rvd3M1aVJjQ1UxMHFKT0N5b2hUd3lTcUloRzZyUFZzWER1Z0M1czh5UndrWE1lWVl6U21uNEVDaW1qQkRnTlRGYjBXblllQW9RZXZwMGg2R1k1RzAzZmY2YzN4Q2ljQkpGRXV5ZGM?oc=5
+    The article discusses the exchange rate between the Canadian Dollar and the US Dollar as of June 23, 2026, as reported by Robinhood. Specific exchange rate figures or trends are not provided in the summary.
+
+USDJPY - USD/JPY spot (fx)
+  [2026-06-21 12:00:35 CET] news.google.com (google) | FinBERT neutral 1.00
+    Citi Forecasts Yen Recovery as USDJPY Expected to Move Below ¥155 - Revista ADVFN
+    https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUW9Ea0czT1ZIaDZ1QUhPQVV2amJzRUk3WGdzTGpsMVRsYzBveS1COFFNZ3VsbWVRbXBFT01NSFpFbFZxTkZQWC1PSVhuNU8xZWJmZ0VITlRQWEdObndnZXhPT3hZSGlTc2JqUEZPZjR0di1GbDJEeFhXZGxLbnd2R25OcFo3V3J0eXVHeXRKeTY0aWFzY0ZfOXpfZ1ZRNGlTTTZJbmJzaS13NTlIa2RDSkVuUjNIQjZsRk5lT2xaQW1vUQ?oc=5
+    Citi has forecasted a recovery for the Japanese yen, predicting that the USDJPY exchange rate will move below ¥155. The report indicates expectations for a strengthening of the yen against the US dollar.
+
+  [2026-06-20 11:03:36 CET] news.google.com (google) | FinBERT neutral 1.00
+    US Dollar to Japanese Yen Exchange Rate June 23 2026 - Robinhood
+    https://news.google.com/rss/articles/CBMivwFBVV95cUxPclFnN0tCd1lWQUN2ZmtLVmdkMzFudzFQdi1Ea043azdhdFMwMFdZTVZzYk5DR052WVI1bGRadFFFUnlxbDBUU29PeFpSWkEzNXFMT2NQN1lXR2FrRnA0b1c5Y1dpLXFwYV9jQ25iZ2NER0FLRU04eXczbmNocXRRdmFvcnNTa3M3ZVk1RkplVENUVG1idTVmbEtQVnZxSXJqWkFmVW93M0ZHRUhrVGUyekpKSVZCV1doMmc0SVRhSQ?oc=5
+    The article discusses the exchange rate between the US Dollar and the Japanese Yen as of June 23, 2026, as reported by Robinhood. Specific figures or trends regarding the exchange rate are not provided in the summary.
+
+  [2026-06-20 08:00:00 CET] news.google.com (google) | FinBERT neutral 1.00
+    Japanese Yen Outlook 2026: Inflation Pressures Give BoJ Room To Hike - Exchange Rates UK
+    https://news.google.com/rss/articles/CBMixgFBVV95cUxNajdSd3l3TXRVVXpKaF9NZ1lCUGdOWW54a1prNHhBMmtFWFgxdFlUMVZzMUIxV01rX0J1cjJFSVZGcTZIcENtOWJSV2RlMXpVZVpGa3dKRnh6OEVuUEZzdlQ2c0hyMnlmS0xGU3F6SzdnTm5NZDIwdXl2WmdFUi01RXk1NEswYnN1WEZjSHhkU2lRWmlJS3ppZDY4aHVMRFNNTGNEOWJvc2RpejZVdmY0Q3BBVk9RWTZWWndIbFlEdFVjNjY0NEE?oc=5
+    The article discusses the outlook for the Japanese yen in 2026, highlighting that inflation pressures may provide the Bank of Japan (BoJ) with the opportunity to increase interest rates. It suggests that these economic conditions could influence the yen's value in the coming years.
+
+VIX - CBOE Volatility Index (volatility)
+  [2026-06-26 11:34:58 CET] Yahoo Finance (eodhd) | FinBERT positive 0.97
+    Market Fear Index Flashes Red as Wall Street Dumps Tech Stocks
+    https://finance.yahoo.com/m/d07c63fa-0bda-30bb-b4f7-f4194d0e75c4/market-fear-index-flashes-red.html
+    The Market Fear Index reached a significant level on Friday as investors sold off tech stocks due to concerns over rising memory costs and aggressive spending plans in artificial intelligence.
+
+  [2026-06-25 14:33:01 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Nasdaq Roars Back After Micron Earnings, Inflation Report
+    https://finance.yahoo.com/m/84a81e27-bc3d-323c-b33e-abd538a7e1b3/nasdaq-roars-back-after.html
+    The Nasdaq rose 0.9% following Micron's earnings report, which exceeded expectations and included a positive forecast, encouraging renewed investment in the chip sector.
+
+  [2026-06-25 12:07:28 CET] Yahoo Finance (eodhd) | FinBERT negative 1.00
+    Market Fear Index Drops as Investors Pile Back Into AI Stocks
+    https://finance.yahoo.com/m/22f08fa5-4a49-3865-90b8-bfaff3439042/market-fear-index-drops-as.html
+    The Cboe Volatility Index (VIX) decreased as investors regained confidence following strong third-quarter earnings from Micron Technology, alleviating concerns about the sustainability of the artificial intelligence boom. This shift led to increased investment in AI stocks.
+
+  [2026-06-24 15:55:29 CET] Yahoo Finance (eodhd) | FinBERT neutral 1.00
+    Could SVOL’s High 20% Yield Backfire? 2018 Says “Maybe”
+    https://finance.yahoo.com/markets/options/articles/could-svol-high-20-yield-145529551.html
+    The Simplify Volatility Premium ETF (SVOL) generates a 20.9% yield by maintaining a short position in VIX futures and using VIX call options as a hedge, but this strategy carries significant risks, particularly during periods of market volatility. Historical performance shows that while SVOL can provide income during calm markets, it has also experienced substantial drawdowns, such as a 33.48% decline during the 2025 tariff-driven selloff.
+
+  [2026-06-24 11:11:11 CET] Yahoo Finance (eodhd) | FinBERT negative 1.00
+    Market Fear Index Slips as AI Worries Ease
+    https://finance.yahoo.com/m/a5742d18-400d-3063-8a38-4378bead9a25/market-fear-index-slips-as-ai.html
+    The Cboe Volatility Index (VIX), a measure of market fear and uncertainty, decreased as tech stocks rebounded after two consecutive days of losses. This shift indicates a slight easing of concerns related to artificial intelligence in the market.
+
+VRT - Vertiv Holdings (equity)
+  [2026-06-26 14:00:05 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.89
+    Investors Heavily Search Vertiv Holdings Co. (VRT): Here is What You Need to Know
+    https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-vertiv-holdings-130005839.html
+    Vertiv Holdings Co. (VRT) has been among the most searched stocks recently, with shares returning +3.6% over the past month, while the broader S&P 500 composite declined by -1.4%. The company is expected to report earnings of $1.42 per share for the current quarter, reflecting a year-over-year increase of +49.5%, and has a Zacks Rank of #3 (Hold).
+
+  [2026-06-24 18:45:10 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Fund Manager: Wall Street Is Using the Wrong ‘E’ to Judge AI Valuations
+    https://finance.yahoo.com/markets/stocks/articles/fund-manager-wall-street-using-174510160.html
+    Dr. Ankur Crawford, a portfolio manager, argues that Wall Street's consensus earnings estimates for AI-related companies are systematically too low due to reliance on linear models that fail to capture the exponential growth in capital expenditures. He highlights GE Vernova's significant revenue growth and backlog as evidence of this misjudgment in earnings assessments across the AI supply chain.
+
+  [2026-06-24 09:09:47 CET] Yahoo Finance (eodhd) | FinBERT positive 0.59
+    US Stock Market Today: S&amp;P 500 Futures Slide As Rate Hike And Growth Worries Build
+    https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080947422.html
+    US stock futures are declining, with E-mini S&P 500 contracts down about 1.5% and Nasdaq-100 futures down more than 2.7%, as concerns grow over potential Federal Reserve rate hikes and soft global growth indicated by recent European purchasing manager indexes. Key earnings reports are expected from companies like Micron Technology and NVIDIA, while the focus remains on the impact of high borrowing costs on rate-sensitive sectors.
+
+  [2026-06-23 22:45:04 CET] Yahoo Finance (eodhd) | FinBERT positive 0.96
+    Vertiv Holdings Co. (VRT) Registers a Bigger Fall Than the Market: Important Facts to Note
+    https://finance.yahoo.com/markets/stocks/articles/vertiv-holdings-co-vrt-registers-214504168.html
+    Vertiv Holdings Co. (VRT) closed at $318.32, down 11.07% in the latest trading session, which was a larger decline than the S&P 500's loss of 1.44%. The company is expected to report earnings of $1.42 per share, reflecting a year-over-year growth of 49.47%, with projected revenue of $3.37 billion, a 27.69% increase from the same quarter last year.
+
+  [2026-06-23 17:42:18 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Tech Is Getting Hit Hard. Why the Dow Is Actually Rising Today.
+    https://finance.yahoo.com/m/aed96bb5-276e-311c-96f0-e49d77405f88/tech-is-getting-hit-hard.-why.html
+    The Dow increased by 140 points, or 0.3%, despite a decline in the iShares Semiconductor ETF, which was down 7.1%. Gains were seen in consumer staples, health care, real estate, utilities, and financials, while several tech stocks, including Sandisk and Lam Research, fell by 8% or more.
+
+VST - Vistra (equity)
+  [2026-06-24 14:00:06 CET] Yahoo Finance (eodhd) | FinBERT positive 0.85
+    Vistra Corp. (VST) Is a Trending Stock: Facts to Know Before Betting on It
+    https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-trending-stock-130006443.html
+    Vistra Corp. (VST) has seen a return of -1.3% over the past month, matching the S&P 500's performance, while the Zacks Utility - Electric Power industry gained 0.2%. The company is expected to report earnings of $2.16 per share for the current quarter, reflecting a 113.9% increase from the previous year, with a consensus sales estimate of $6.26 billion indicating a 47.3% year-over-year change.
+
+  [2026-06-22 22:45:03 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Vistra Corp. (VST) Advances While Market Declines: Some Information for Investors
+    https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-advances-while-214503132.html
+    Vistra Corp. (VST) closed at $167.26, up 2.14%, outperforming the S&P 500's decline of 0.37%, and has seen a 4.79% increase over the past month. The company is expected to report earnings of $2.16 per share and revenue of $6.26 billion for the upcoming quarter, reflecting significant year-over-year growth.
+
+  [2026-06-22 22:30:21 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Here is Why Vistra (VST) is Among the Best Electrical Infrastructure Stocks to Buy in 2026
+    https://finance.yahoo.com/energy/articles/why-vistra-vst-among-best-213021599.html
+    Vistra Corp. (NYSE:VST) has been recognized as one of the 13 Best Electrical Infrastructure Stocks to Buy in 2026, with analysts from Bernstein and Seaport Research initiating coverage and raising price targets due to the company's strong position in the evolving energy market. Bernstein's analyst initiated coverage with an 'Outperform' rating and a $187 price target, while Seaport Research increased its target from $227 to $230, indicating significant potential upside.
+
+  [2026-06-22 17:35:00 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.59
+    The Nuclear Power Comeback Is Real -- and These 3 Stocks Are the Best Way to Play It
+    https://finance.yahoo.com/energy/articles/nuclear-power-comeback-real-3-163500238.html
+    The nuclear power industry is experiencing a resurgence, with nuclear energy accounting for nearly 19% of U.S. power generation, while solar and wind combined make up only 17%. Key companies positioned to benefit from this trend include Cameco, GE Vernova, and Vistra, each involved in various aspects of nuclear power production and technology development.
+
+  [2026-06-22 17:35:00 CET] nasdaq.com (eodhd) | FinBERT neutral 1.00
+    The Nuclear Power Comeback Is Real -- and These 3 Stocks Are the Best Way to Play It
+    https://www.nasdaq.com/articles/nuclear-power-comeback-real-and-these-3-stocks-are-best-way-play-it-0
+    The article discusses the resurgence of the nuclear power industry and highlights three companies as key players: Cameco, a major supplier of uranium; GE Vernova, which is expanding into nuclear technology; and Vistra, a utility company increasing its nuclear capacity. The article notes that nuclear power is expected to play a significant role in meeting growing electricity demands, particularly as renewable sources struggle to keep pace.
+
+XLU - Utilities Select Sector SPDR ETF (equity)
+  [2026-06-26 13:01:26 CET] Seeking Alpha (eodhd) | FinBERT neutral 1.00
+    These are the highest-rated utilities stocks by growth
+    https://seekingalpha.com/news/4607693-these-are-the-highest-rated-utilities-stocks-by-growth?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news
+    The article lists the highest-rated utilities stocks by growth factor grade, with Vistra Corp. leading at an A+ grade, followed by Constellation Energy at A, and Xcel Energy and Sempra receiving B and B- grades, respectively. Traditional regulated utilities like American Electric Power and Southern Company received lower grades, indicating more moderate growth characteristics compared to their peers.
+
+  [2026-06-25 17:32:00 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.99
+    MoneyMasters Podcast 6-25-26- Six Experts Sound Off on AI, Tech, Hot IPOs,  Top Stocks
+    https://finance.yahoo.com/markets/stocks/articles/moneymasters-podcast-6-25-26-163200759.html
+    The MoneyMasters Podcast featured six financial experts discussing AI, technology stocks, hot IPOs, and Federal Reserve policy amid global market fluctuations. The experts shared their stock and ETF recommendations and insights on market trends, including the implications of recent trading actions and the prospects for newly public companies like SpaceX.
+
+  [2026-06-25 16:36:52 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    Forget XLU. The Grid Fund Actually Powering the AI Boom Is Up 23% in 2026
+    https://finance.yahoo.com/markets/stocks/articles/forget-xlu-grid-fund-actually-153652208.html
+    The First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund (GRID) has gained 23% year-to-date, significantly outperforming the Utilities Select Sector SPDR Fund (XLU), which is up 7%, by focusing on equipment makers and contractors rather than regulated utilities. GE Vernova reported a 71% increase in orders for data center equipment in Q1 2026, while Quanta Services achieved a record backlog of $48 billion.
+
+  [2026-06-24 19:23:17 CET] Yahoo Finance (eodhd) | FinBERT positive 0.98
+    Why Advisors Are Ditching Mutual Funds for Sector ETFs
+    https://finance.yahoo.com/markets/stocks/articles/why-advisors-ditching-mutual-funds-182317860.html
+    Financial advisors are increasingly shifting from mutual funds to sector ETFs, with advisor ETF allocations projected to surpass mutual fund allocations by 2027, according to State Street Investment Management's 2026 ETF Impact Report. This trend is driven by a need for targeted income sources, as corporate share buybacks have replaced dividends, leading advisors to seek specific sector funds that can provide reliable income and protection against inflation.
+
+  [2026-06-24 06:02:00 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.93
+    Chart of the Day 6-24-26- The Case for Utilities
+    https://finance.yahoo.com/markets/stocks/articles/chart-day-6-24-26-050200083.html
+    Experts Jeff Hirsch and Kevin Mahn discussed the potential for utility stocks to perform well in the current market environment, citing their relative safety and alignment with AI power demand. The State Street Utilities Select Sector SPDR ETF (XLU) has shown a positive trend, with analysts noting the possibility of further upside if it surpasses key resistance levels.
+
+000660 - SK Hynix (Korea) (equity)
+  No headlines in window.
+
+005930 - Samsung Electronics (Korea) (equity)
+  No headlines in window.
+
+AUDCAD - AUD/CAD spot (fx)
+  No headlines in window.
+
+AUDCHF - AUD/CHF spot (fx)
+  No headlines in window.
+
+AUDJPY - AUD/JPY spot (fx)
+  No headlines in window.
+
+AUDNZD - AUD/NZD spot (fx)
+  No headlines in window.
+
+AUDSEK - AUD/SEK spot (fx)
+  No headlines in window.
+
+CADCHF - CAD/CHF spot (fx)
+  No headlines in window.
+
+CADJPY - CAD/JPY spot (fx)
+  No headlines in window.
+
+CHFJPY - CHF/JPY spot (fx)
+  No headlines in window.
+
+DTCR - Global X Data Center & Digital Infra ETF (equity)
+  No headlines in window.
+
+DXY - US Dollar Index (DXY) (index)
+  No headlines in window.
+
+EURAUD - EUR/AUD spot (fx)
+  No headlines in window.
+
+EURCAD - EUR/CAD spot (fx)
+  No headlines in window.
+
+EURCHF - EUR/CHF spot (fx)
+  No headlines in window.
+
+EURJPY - EUR/JPY spot (fx)
+  No headlines in window.
+
+EURNOK - EUR/NOK spot (fx)
+  No headlines in window.
+
+EURNZD - EUR/NZD spot (fx)
+  No headlines in window.
+
+EURSEK - EUR/SEK spot (fx)
+  No headlines in window.
+
+GBPAUD - GBP/AUD spot (fx)
+  No headlines in window.
+
+GBPCAD - GBP/CAD spot (fx)
+  No headlines in window.
+
+GBPCHF - GBP/CHF spot (fx)
+  No headlines in window.
+
+GBPJPY - GBP/JPY spot (fx)
+  No headlines in window.
+
+GBPSEK - GBP/SEK spot (fx)
+  No headlines in window.
+
+NOKCAD - NOK/CAD spot (fx)
+  No headlines in window.
+
+NOKCHF - NOK/CHF spot (fx)
+  No headlines in window.
+
+NOKJPY - NOK/JPY spot (fx)
+  No headlines in window.
+
+NOKSEK - NOK/SEK spot (fx)
+  No headlines in window.
+
+NZDCAD - NZD/CAD spot (fx)
+  No headlines in window.
+
+NZDCHF - NZD/CHF spot (fx)
+  No headlines in window.
+
+NZDJPY - NZD/JPY spot (fx)
+  No headlines in window.
+
+NZDNOK - NZD/NOK spot (fx)
+  No headlines in window.
+
+NZDSEK - NZD/SEK spot (fx)
+  No headlines in window.
+
+SEKCAD - SEK/CAD spot (fx)
+  No headlines in window.
+
+SEKCHF - SEK/CHF spot (fx)
+  No headlines in window.
+
+SEKJPY - SEK/JPY spot (fx)
+  No headlines in window.
+
+TWII - TAIEX (Taiwan Weighted Index) (index)
+  No headlines in window.
+
+USDCHF - USD/CHF spot (fx)
+  No headlines in window.
+
+USDNOK - USD/NOK spot (fx)
+  No headlines in window.
+
+USDSEK - USD/SEK spot (fx)
+  No headlines in window.
+
+USDTWD - USD/TWD spot (fx)
+  No headlines in window.
+
+
+REPORTED EARNINGS (NUMBERS)
+========================================================================
+Reported quarterly numbers, shown as-is. These are deterministic facts, never
+scored and never fed to the sentiment model; they follow the sentiment read above.
+
+Symbol | Reported   | Fiscal     | Ccy | EPS act. | EPS est. | Surprise | Revenue
+-------+------------+------------+-----+----------+----------+----------+--------
+ORCL   | 2026-06-10 | 2026-05-31 | USD | 1.79     | 1.58     | +13.3%   | 19.18B 
+AVGO   | 2026-06-03 | 2026-04-30 | USD | 2.44     | 2.39     | +2.1%    | 22.19B 
+DELL   | 2026-05-28 | 2026-04-30 | USD | 4.63     | 2.79     | +65.9%   | 43.84B 
+MRVL   | 2026-05-27 | 2026-04-30 | USD | 0.80     | 0.79     | +1.3%    | 2.42B  
+NVDA   | 2026-05-20 | 2026-04-30 | USD | 1.87     | 1.77     | +5.6%    | 81.61B 
+AMAT   | 2026-05-14 | 2026-04-30 | USD | 2.86     | 2.69     | +6.3%    | 7.91B  
+CSCO   | 2026-05-13 | 2026-04-30 | USD | 1.06     | 1.04     | +1.9%    | 15.84B 
+CEG    | 2026-05-11 | 2026-03-31 | USD | 2.74     | 2.60     | +5.4%    | 11.12B 
+VST    | 2026-05-08 | 2026-03-31 | USD | 2.87     | 2.21     | +29.9%   | 4.65B  
+NRG    | 2026-05-06 | 2026-03-31 | USD | 0.52     | 1.81     | -71.3%   | 10.30B 
+AMD    | 2026-05-05 | 2026-03-31 | USD | 1.37     | 1.29     | +6.2%    | 10.25B 
+ANET   | 2026-05-05 | 2026-03-31 | USD | 0.87     | 0.81     | +7.4%    | 2.71B  
