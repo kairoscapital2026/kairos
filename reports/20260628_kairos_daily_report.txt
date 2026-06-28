@@ -1,14 +1,14 @@
 KAIROS DAILY REPORT
 ========================================================================
 Date: 2026-06-28
-Generated: 2026-06-28 12:25:13 CET
+Generated: 2026-06-28 16:34:05 CET
 
 
 MACRO DATA SUMMARY
 ========================================================================
 Numeric market and fundamental data, shown as-is.
 Prices are daily closes (latest 2026-06-28).
-Prices last fetched 2026-06-28 12:21:19 CET.
+Prices last fetched 2026-06-28 16:25:09 CET.
 This is not sentiment and is never scored.
 
 Volatility: VIX 18.41 (normal) -0.4800 (-2.54%)
@@ -43,6 +43,7 @@ MU     | 1,132.33     | -81.2301 (-6.69%)     | 2026-06-26
 NRG    | 149.36       | +2.2500 (+1.53%)      | 2026-06-26
 NVDA   | 192.53       | -3.2100 (-1.64%)      | 2026-06-26
 ORCL   | 148.53       | -3.9300 (-2.58%)      | 2026-06-26
+PLTR   | 112.93       | +5.6600 (+5.28%)      | 2026-06-26
 PWR    | 687.87       | -30.7200 (-4.28%)     | 2026-06-26
 QQQ    | 706.52       | -9.8600 (-1.38%)      | 2026-06-26
 SFTBY  | 19.71        | -1.1700 (-5.60%)      | 2026-06-26
@@ -62,7 +63,7 @@ Symbol | Last    | Change           | Close date
 -------+---------+------------------+-----------
 NOKSEK | 0.9756  | -0.0102 (-1.03%) | 2026-06-26
 NOKCHF | 0.0813  | -0.0008 (-0.97%) | 2026-06-26
-NOKJPY | 16.2440 | -0.1576 (-0.96%) | 2026-06-26
+NOKJPY | 16.2440 | -0.1467 (-0.90%) | 2026-06-26
 SEKCAD | 0.1447  | -0.0010 (-0.69%) | 2026-06-27
 EURNOK | 11.2801 | +0.0563 (+0.50%) | 2026-06-26
 GBPNOK | 13.0817 | +0.0583 (+0.45%) | 2026-06-26
@@ -88,48 +89,49 @@ Sentiment is the latest FinBERT label/score for the instrument.
 Hdl +/0/- = positive/neutral/negative scored headlines in the news window.
 
 Equities:
-Symbol | Name                                                    | Last         | 1D     | 1W      | 1M     | 3M      | Sentiment              | Hdl +/0/- | Comp
--------+---------------------------------------------------------+--------------+--------+---------+--------+---------+------------------------+-----------+-----
-000660 | SK Hynix (Korea)                                        | 1,000,000.00 | +0.00% | +0.00%  | n/a    | n/a     | --                     | 0/0/0     | --  
-005930 | Samsung Electronics (Korea)                             | 339,500.00   | -5.30% | -4.10%  | n/a    | n/a     | --                     | 0/0/0     | --  
-AMAT   | Applied Materials                                       | 626.84       | -6.16% | +1.58%  | n/a    | n/a     | positive 1.00 (28 Jun) | 16/2/2    | --  
-AMD    | Advanced Micro Devices                                  | 521.58       | -2.06% | -2.94%  | n/a    | n/a     | positive 1.00 (27 Jun) | 61/31/11  | --  
-AMZN   | Amazon                                                  | 232.69       | +2.50% | -4.79%  | n/a    | n/a     | positive 1.00 (28 Jun) | 68/29/11  | --  
-ANET   | Arista Networks                                         | 157.60       | -4.74% | -7.11%  | n/a    | n/a     | positive 1.00 (25 Jun) | 4/3/0     | --  
-ARM    | Arm Holdings                                            | 334.27       | -3.87% | -23.94% | n/a    | n/a     | positive 1.00 (27 Jun) | 4/5/2     | --  
-ASML   | ASML Holding (ADR)                                      | 1,794.62     | -2.53% | -7.00%  | n/a    | n/a     | neutral 0.97 (28 Jun)  | 13/12/10  | --  
-AVGO   | Broadcom                                                | 365.02       | -3.67% | -11.12% | n/a    | n/a     | positive 1.00 (28 Jun) | 57/21/17  | --  
-CEG    | Constellation Energy                                    | 264.02       | -1.74% | -3.66%  | n/a    | n/a     | neutral 0.86 (28 Jun)  | 20/12/3   | --  
-CSCO   | Cisco Systems                                           | 113.77       | -4.37% | -4.83%  | n/a    | n/a     | positive 1.00 (27 Jun) | 16/4/1    | --  
-DELL   | Dell Technologies                                       | 399.49       | -2.43% | -2.44%  | n/a    | n/a     | neutral 1.00 (28 Jun)  | 26/14/2   | --  
-DLR    | Digital Realty (datacenter REIT)                        | 193.00       | +0.29% | +2.58%  | n/a    | n/a     | positive 1.00 (23 Jun) | 4/0/0     | --  
-DTCR   | Global X Data Center & Digital Infra ETF                | 30.68        | -1.26% | -3.88%  | n/a    | n/a     | positive 1.00 (27 Jun) | 1/0/0     | --  
-EQIX   | Equinix (datacenter REIT)                               | 1,091.30     | +0.34% | -0.08%  | n/a    | n/a     | positive 0.60 (25 Jun) | 4/1/0     | --  
-ETN    | Eaton                                                   | 402.68       | -4.09% | -4.53%  | n/a    | n/a     | positive 0.85 (26 Jun) | 4/2/0     | --  
-GEV    | GE Vernova                                              | 1,045.17     | -3.71% | -5.82%  | n/a    | n/a     | positive 0.51 (26 Jun) | 31/9/0    | --  
-GOOGL  | Alphabet                                                | 337.39       | -1.84% | -8.33%  | n/a    | n/a     | neutral 1.00 (28 Jun)  | 49/41/11  | --  
-KLAC   | KLA Corp                                                | 248.64       | -3.93% | -4.21%  | n/a    | n/a     | positive 1.00 (26 Jun) | 8/1/1     | --  
-LRCX   | Lam Research                                            | 379.09       | -5.66% | -2.56%  | n/a    | n/a     | positive 0.91 (26 Jun) | 23/4/5    | --  
-META   | Meta Platforms                                          | 550.25       | +1.36% | -4.67%  | n/a    | n/a     | positive 1.00 (28 Jun) | 66/42/17  | --  
-MRVL   | Marvell Technology                                      | 266.77       | -5.15% | -14.11% | n/a    | n/a     | positive 1.00 (26 Jun) | 37/18/7   | --  
-MSFT   | Microsoft Corp (AI vertical)                            | 372.97       | +5.71% | -1.69%  | -9.62% | +2.13%  | positive 1.00 (28 Jun) | 86/42/29  | --  
-MU     | Micron Technology Inc                                   | 1,132.33     | -6.69% | -0.15%  | n/a    | n/a     | positive 1.00 (28 Jun) | 103/38/26 | --  
-NRG    | NRG Energy                                              | 149.36       | +1.53% | +10.59% | n/a    | n/a     | positive 1.00 (26 Jun) | 3/2/0     | --  
-NVDA   | NVIDIA Corp (AI vertical)                               | 192.53       | -1.64% | -8.62%  | -9.33% | +12.56% | positive 1.00 (28 Jun) | 135/84/41 | --  
-ORCL   | Oracle                                                  | 148.53       | -2.58% | -19.40% | n/a    | n/a     | positive 1.00 (27 Jun) | 52/22/32  | --  
-PWR    | Quanta Services                                         | 687.87       | -4.28% | -2.05%  | n/a    | n/a     | positive 1.00 (26 Jun) | 4/0/0     | --  
-QQQ    | Invesco QQQ Trust (Nasdaq 100)                          | 706.52       | -1.38% | -4.50%  | -3.14% | +23.13% | neutral 0.65 (27 Jun)  | 26/30/4   | --  
-SFTBY  | SoftBank Group Corp (ADR; Tokyo 9984 not on EODHD plan) | 19.71        | -5.60% | -15.81% | n/a    | n/a     | positive 0.99 (27 Jun) | 9/8/7     | --  
-SMCI   | Super Micro Computer                                    | 30.63        | -3.31% | -0.10%  | n/a    | n/a     | neutral 0.42 (27 Jun)  | 31/5/3    | --  
-SMH    | VanEck Semiconductor ETF                                | 611.61       | -3.97% | -7.31%  | n/a    | n/a     | positive 1.00 (27 Jun) | 8/4/2     | --  
-SOXX   | iShares Semiconductor ETF                               | 589.94       | -5.64% | -7.74%  | n/a    | n/a     | neutral 0.66 (26 Jun)  | 15/10/6   | --  
-SPY    | SPDR S&P 500 ETF Trust                                  | 728.99       | -0.72% | -2.38%  | -2.61% | +13.30% | positive 0.96 (27 Jun) | 60/50/7   | --  
-SU     | Schneider Electric (Euronext Paris)                     | 276.05       | -1.25% | -4.56%  | n/a    | n/a     | positive 1.00 (25 Jun) | 3/1/0     | --  
-TLN    | Talen Energy                                            | 404.09       | -3.05% | -7.38%  | n/a    | n/a     | neutral 0.97 (26 Jun)  | 2/1/0     | --  
-TSM    | TSMC (ADR)                                              | 432.35       | -0.61% | -6.44%  | n/a    | n/a     | positive 0.80 (28 Jun) | 64/15/4   | --  
-VRT    | Vertiv Holdings                                         | 303.95       | -6.64% | -8.74%  | n/a    | n/a     | neutral 1.00 (26 Jun)  | 8/3/0     | --  
-VST    | Vistra                                                  | 163.49       | -2.55% | -0.02%  | n/a    | n/a     | positive 0.91 (28 Jun) | 7/3/0     | --  
-XLU    | Utilities Select Sector SPDR ETF                        | 46.20        | +0.76% | +3.88%  | n/a    | n/a     | neutral 1.00 (26 Jun)  | 5/3/0     | --  
+Symbol | Name                                                    | Last         | 1D     | 1W      | 1M      | 3M       | Sentiment              | Hdl +/0/- | Comp
+-------+---------------------------------------------------------+--------------+--------+---------+---------+----------+------------------------+-----------+-----
+000660 | SK Hynix (Korea)                                        | 1,000,000.00 | +0.00% | +0.00%  | +0.00%  | +0.52%   | --                     | 0/0/0     | --  
+005930 | Samsung Electronics (Korea)                             | 339,500.00   | -5.30% | -4.10%  | +10.59% | +80.00%  | --                     | 0/0/0     | --  
+AMAT   | Applied Materials                                       | 626.84       | -6.16% | +1.58%  | +39.84% | +85.38%  | positive 1.00 (28 Jun) | 16/2/2    | --  
+AMD    | Advanced Micro Devices                                  | 521.58       | -2.06% | -2.94%  | +5.25%  | +155.97% | positive 1.00 (27 Jun) | 61/31/11  | --  
+AMZN   | Amazon                                                  | 232.69       | +2.50% | -4.79%  | -14.41% | +12.12%  | positive 1.00 (28 Jun) | 68/29/11  | --  
+ANET   | Arista Networks                                         | 157.60       | -4.74% | -7.11%  | +2.13%  | +28.60%  | positive 1.00 (25 Jun) | 4/3/0     | --  
+ARM    | Arm Holdings                                            | 334.27       | -3.87% | -23.94% | +10.43% | +115.94% | positive 1.00 (27 Jun) | 4/5/2     | --  
+ASML   | ASML Holding (ADR)                                      | 1,794.62     | -2.53% | -7.00%  | +12.31% | +35.28%  | neutral 0.97 (28 Jun)  | 13/12/10  | --  
+AVGO   | Broadcom                                                | 365.02       | -3.67% | -11.12% | -13.33% | +18.16%  | positive 1.00 (28 Jun) | 57/21/17  | --  
+CEG    | Constellation Energy                                    | 264.02       | -1.74% | -3.66%  | -8.54%  | -10.42%  | neutral 0.86 (28 Jun)  | 20/12/3   | --  
+CSCO   | Cisco Systems                                           | 113.77       | -4.37% | -4.83%  | -4.93%  | +39.22%  | positive 1.00 (27 Jun) | 16/4/1    | --  
+DELL   | Dell Technologies                                       | 399.49       | -2.43% | -2.44%  | +30.84% | +127.92% | neutral 1.00 (28 Jun)  | 26/13/2   | --  
+DLR    | Digital Realty (datacenter REIT)                        | 193.00       | +0.29% | +2.58%  | +1.34%  | +11.18%  | positive 1.00 (23 Jun) | 4/0/0     | --  
+DTCR   | Global X Data Center & Digital Infra ETF                | 30.68        | -1.26% | -3.88%  | -1.86%  | +30.00%  | positive 1.00 (27 Jun) | 1/0/0     | --  
+EQIX   | Equinix (datacenter REIT)                               | 1,091.30     | +0.34% | -0.08%  | +1.97%  | +13.84%  | positive 0.60 (25 Jun) | 4/1/0     | --  
+ETN    | Eaton                                                   | 402.68       | -4.09% | -4.53%  | -0.91%  | +13.08%  | positive 0.85 (26 Jun) | 4/2/0     | --  
+GEV    | GE Vernova                                              | 1,045.17     | -3.71% | -5.82%  | +1.34%  | +19.77%  | positive 0.51 (26 Jun) | 31/9/0    | --  
+GOOGL  | Alphabet                                                | 337.39       | -1.84% | -8.33%  | -13.18% | +20.17%  | neutral 1.00 (28 Jun)  | 49/40/11  | --  
+KLAC   | KLA Corp                                                | 248.64       | -3.93% | -4.21%  | +27.04% | +71.56%  | positive 1.00 (26 Jun) | 8/1/1     | --  
+LRCX   | Lam Research                                            | 379.09       | -5.66% | -2.56%  | +18.95% | +79.26%  | positive 0.91 (26 Jun) | 23/4/5    | --  
+META   | Meta Platforms                                          | 550.25       | +1.36% | -4.67%  | -13.30% | +0.59%   | positive 1.00 (28 Jun) | 66/41/16  | --  
+MRVL   | Marvell Technology                                      | 266.77       | -5.15% | -14.11% | +34.26% | +173.24% | positive 1.00 (26 Jun) | 37/18/7   | --  
+MSFT   | Microsoft Corp (AI vertical)                            | 372.97       | +5.71% | -1.69%  | -9.62%  | +2.13%   | positive 1.00 (28 Jun) | 84/42/29  | --  
+MU     | Micron Technology Inc                                   | 1,132.33     | -6.69% | -0.15%  | +21.96% | +218.69% | positive 1.00 (28 Jun) | 103/37/25 | --  
+NRG    | NRG Energy                                              | 149.36       | +1.53% | +10.59% | +8.23%  | +2.52%   | positive 1.00 (26 Jun) | 3/2/0     | --  
+NVDA   | NVIDIA Corp (AI vertical)                               | 192.53       | -1.64% | -8.62%  | -9.33%  | +12.56%  | positive 1.00 (28 Jun) | 132/82/40 | --  
+ORCL   | Oracle                                                  | 148.53       | -2.58% | -19.40% | -22.22% | +4.37%   | positive 1.00 (27 Jun) | 51/19/31  | --  
+PLTR   | Palantir Technologies                                   | 112.93       | +5.28% | -12.10% | -14.78% | -23.47%  | positive 0.99 (27 Jun) | 25/12/13  | --  
+PWR    | Quanta Services                                         | 687.87       | -4.28% | -2.05%  | -6.24%  | +26.09%  | positive 1.00 (26 Jun) | 4/0/0     | --  
+QQQ    | Invesco QQQ Trust (Nasdaq 100)                          | 706.52       | -1.38% | -4.50%  | -3.04%  | +23.27%  | neutral 0.65 (27 Jun)  | 26/30/4   | --  
+SFTBY  | SoftBank Group Corp (ADR; Tokyo 9984 not on EODHD plan) | 19.71        | -5.60% | -15.81% | -13.70% | +69.98%  | positive 0.99 (27 Jun) | 9/8/7     | --  
+SMCI   | Super Micro Computer                                    | 30.63        | -3.31% | -0.10%  | -19.80% | +37.91%  | neutral 0.42 (27 Jun)  | 31/5/3    | --  
+SMH    | VanEck Semiconductor ETF                                | 611.61       | -3.97% | -7.31%  | +2.71%  | +60.60%  | positive 1.00 (27 Jun) | 8/3/2     | --  
+SOXX   | iShares Semiconductor ETF                               | 589.94       | -5.64% | -7.74%  | +4.65%  | +79.48%  | neutral 0.66 (26 Jun)  | 15/10/6   | --  
+SPY    | SPDR S&P 500 ETF Trust                                  | 728.99       | -0.72% | -2.38%  | -2.61%  | +13.30%  | positive 0.96 (27 Jun) | 59/50/3   | --  
+SU     | Schneider Electric (Euronext Paris)                     | 276.05       | -1.25% | -4.56%  | +3.29%  | +17.70%  | positive 1.00 (25 Jun) | 3/1/0     | --  
+TLN    | Talen Energy                                            | 404.09       | -3.05% | -7.38%  | +6.40%  | +25.05%  | neutral 0.97 (26 Jun)  | 2/1/0     | --  
+TSM    | TSMC (ADR)                                              | 432.35       | -0.61% | -6.44%  | +2.46%  | +32.82%  | positive 0.80 (28 Jun) | 63/15/4   | --  
+VRT    | Vertiv Holdings                                         | 303.95       | -6.64% | -8.74%  | -4.93%  | +20.45%  | neutral 1.00 (26 Jun)  | 8/3/0     | --  
+VST    | Vistra                                                  | 163.49       | -2.55% | -0.02%  | +2.23%  | +7.49%   | positive 0.91 (28 Jun) | 7/3/0     | --  
+XLU    | Utilities Select Sector SPDR ETF                        | 46.20        | +0.76% | +3.88%  | +3.00%  | +2.57%   | neutral 1.00 (26 Jun)  | 5/3/0     | --  
 
 Volatility:
 Symbol | Name                  | Last  | 1D     | 1W     | 1M      | 3M      | Sentiment              | Hdl +/0/- | Comp
@@ -168,13 +170,13 @@ GBPSEK | GBP/SEK spot | 12.8225  | -0.12% | +1.69% | +2.25% | +2.89% | --       
 GBPUSD | GBP/USD spot | 1.3188   | +0.16% | -0.09% | -1.71% | -2.19% | positive 1.00 (26 Jun) | 4/2/4     | --  
 NOKCAD | NOK/CAD spot | 0.1419   | +0.00% | -1.60% | -4.06% | -2.81% | neutral 1.00 (19 Jun)  | 0/0/0     | --  
 NOKCHF | NOK/CHF spot | 0.0813   | -0.97% | -2.40% | -4.13% | -1.57% | neutral 0.96 (30 Mar)  | 0/0/0     | --  
-NOKJPY | NOK/JPY spot | 16.2440  | -0.96% | -1.87% | -5.48% | -3.47% | neutral 1.00 (19 Jun)  | 0/0/0     | --  
+NOKJPY | NOK/JPY spot | 16.2440  | -0.90% | -1.87% | -5.48% | -3.47% | neutral 1.00 (19 Jun)  | 0/0/0     | --  
 NOKSEK | NOK/SEK spot | 0.9756   | -1.03% | -1.35% | -2.70% | +0.41% | neutral 1.00 (19 Jun)  | 0/0/0     | --  
 NZDCAD | NZD/CAD spot | 0.8004   | -0.21% | -1.46% | -2.40% | -1.49% | neutral 1.00 (19 Jun)  | 0/0/0     | --  
 NZDCHF | NZD/CHF spot | 0.4565   | -0.26% | -1.34% | -2.14% | -0.95% | neutral 1.00 (18 May)  | 0/0/0     | --  
 NZDJPY | NZD/JPY spot | 91.2000  | -0.21% | -1.32% | -3.74% | -2.68% | neutral 1.00 (19 Jun)  | 0/0/0     | --  
 NZDNOK | NZD/NOK spot | 5.5995   | +0.00% | +0.89% | +2.20% | +1.93% | neutral 1.00 (16 Apr)  | 0/0/0     | --  
-NZDSEK | NZD/SEK spot | 5.4965   | +0.00% | +0.05% | -0.50% | +1.99% | positive 0.93 (04 Jun) | 0/0/0     | --  
+NZDSEK | NZD/SEK spot | 5.4965   | -0.15% | +0.05% | -0.50% | +1.99% | positive 0.93 (04 Jun) | 0/0/0     | --  
 NZDUSD | NZD/USD spot | 0.5641   | +0.00% | -1.24% | -3.87% | -4.24% | negative 0.99 (26 Jun) | 0/1/6     | --  
 SEKCAD | SEK/CAD spot | 0.1447   | -0.69% | -2.03% | -2.10% | -2.82% | neutral 1.00 (17 Nov)  | 0/0/0     | --  
 SEKCHF | SEK/CHF spot | 0.0830   | -0.36% | -1.54% | -1.89% | -2.35% | neutral 0.98 (16 Jun)  | 0/0/0     | --  
@@ -184,16 +186,16 @@ USDCHF | USD/CHF spot | 0.8096   | -0.07% | +0.21% | +2.83% | +3.68% | positive 
 USDJPY | USD/JPY spot | 161.7100 | -0.05% | +0.30% | +1.13% | +2.09% | neutral 1.00 (21 Jun)  | 0/1/0     | --  
 USDNOK | USD/NOK spot | 9.9096   | +0.38% | +2.65% | +6.69% | +4.82% | neutral 1.00 (21 May)  | 0/0/0     | --  
 USDSEK | USD/SEK spot | 9.7133   | -0.19% | +1.62% | +4.30% | +5.74% | positive 0.69 (17 Jun) | 0/0/0     | --  
-USDTWD | USD/TWD spot | 31.8450  | +0.10% | +0.50% | n/a    | n/a    | --                     | 0/0/0     | --  
+USDTWD | USD/TWD spot | 31.8450  | +0.10% | +0.50% | +1.38% | +0.33% | --                     | 0/0/0     | --  
 
 index:
-Symbol | Name                          | Last      | 1D     | 1W     | 1M  | 3M  | Sentiment              | Hdl +/0/- | Comp
--------+-------------------------------+-----------+--------+--------+-----+-----+------------------------+-----------+-----
-DXY    | US Dollar Index (DXY)         | 101.37    | -0.06% | +0.51% | n/a | n/a | positive 0.92 (10 Jun) | 0/0/0     | --  
-NDX    | Nasdaq-100 Index              | 29,118.24 | -1.09% | -4.24% | n/a | n/a | positive 0.67 (27 Jun) | 27/8/21   | --  
-SOX    | PHLX Semiconductor Index      | 13,203.57 | -5.29% | -7.94% | n/a | n/a | negative 0.50 (25 Jun) | 11/1/2    | --  
-SPX    | S&P 500 Index                 | 7,354.02  | -0.05% | -1.95% | n/a | n/a | neutral 0.71 (28 Jun)  | 297/65/36 | --  
-TWII   | TAIEX (Taiwan Weighted Index) | 44,571.76 | -3.64% | -4.07% | n/a | n/a | --                     | 0/0/0     | --  
+Symbol | Name                          | Last      | 1D     | 1W     | 1M     | 3M      | Sentiment              | Hdl +/0/- | Comp
+-------+-------------------------------+-----------+--------+--------+--------+---------+------------------------+-----------+-----
+DXY    | US Dollar Index (DXY)         | 101.37    | -0.06% | +0.51% | +2.37% | +1.41%  | positive 0.92 (10 Jun) | 0/0/0     | --  
+NDX    | Nasdaq-100 Index              | 29,118.24 | -1.09% | -4.24% | -2.85% | +23.45% | positive 0.67 (27 Jun) | 26/8/21   | --  
+SOX    | PHLX Semiconductor Index      | 13,203.57 | -5.29% | -7.94% | +3.95% | +74.05% | negative 0.50 (25 Jun) | 11/1/2    | --  
+SPX    | S&P 500 Index                 | 7,354.02  | -0.05% | -1.95% | -2.21% | +13.54% | neutral 0.71 (28 Jun)  | 293/64/36 | --  
+TWII   | TAIEX (Taiwan Weighted Index) | 44,571.76 | -3.64% | -4.07% | +0.71% | +33.29% | --                     | 0/0/0     | --  
 
 
 KEY MACRO NUMBERS
@@ -205,7 +207,7 @@ ECONOMIC CALENDAR (WEEK AHEAD)
 ========================================================================
 Time (CET / GMT)             | Ccy | Country | Event                                | Est.     | Prev.    | Affects (watchlist)                      
 -----------------------------+-----+---------+--------------------------------------+----------+----------+------------------------------------------
-28 Jun 17:35 CET / 16:35 GMT | USD | US      | Fed Barkin Speech                    | -        | -        | AMAT, AMD, AMZN, ANET, ARM +47           
+28 Jun 17:35 CET / 16:35 GMT | USD | US      | Fed Barkin Speech                    | -        | -        | AMAT, AMD, AMZN, ANET, ARM +48           
 29 Jun 00:50 CET / 23:50 GMT | JPY | JP      | Retail Sales                         | 0.70     | 1.30     | AUDJPY, CADJPY, CHFJPY, EURJPY, GBPJPY +4
 29 Jun 06:00 CET / 05:00 GMT | JPY | JP      | Housing Starts                       | -        | 11.40    | AUDJPY, CADJPY, CHFJPY, EURJPY, GBPJPY +4
 29 Jun 06:00 CET / 05:00 GMT | EUR | FI      | Consumer Confidence                  | -10.00   | -10.50   | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
@@ -223,7 +225,7 @@ Time (CET / GMT)             | Ccy | Country | Event                            
 29 Jun 10:30 CET / 09:30 GMT | EUR | BE      | Inflation Rate                       | 0.30     | -0.08    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
 29 Jun 11:00 CET / 10:00 GMT | EUR | PT      | Retail Sales                         | -0.30    | -0.70    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
 29 Jun 11:00 CET / 10:00 GMT | EUR | IE      | Retail Sales                         | -        | -0.20    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
-29 Jun 15:30 CET / 14:30 GMT | USD | US      | Dallas Fed Manufacturing Index       | 2.00     | 0.40     | AMAT, AMD, AMZN, ANET, ARM +47           
+29 Jun 15:30 CET / 14:30 GMT | USD | US      | Dallas Fed Manufacturing Index       | 2.00     | 0.40     | AMAT, AMD, AMZN, ANET, ARM +48           
 29 Jun 17:30 CET / 16:30 GMT | EUR | EU      | ECB President Lagarde Speech         | -        | -        | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
 29 Jun 17:30 CET / 16:30 GMT | EUR | EU      | ECB Lagarde Speech                   | -        | -        | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
 30 Jun 00:30 CET / 23:30 GMT | JPY | JP      | Unemployment Rate                    | 2.50     | 2.50     | AUDJPY, CADJPY, CHFJPY, EURJPY, GBPJPY +4
@@ -259,10 +261,10 @@ Time (CET / GMT)             | Ccy | Country | Event                            
 30 Jun 13:00 CET / 12:00 GMT | EUR | DE      | Inflation Rate                       | 0.10     | -0.20    | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
 30 Jun 13:00 CET / 12:00 GMT | EUR | EU      | ECB Cipollone Speech                 | -        | -        | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
 30 Jun 14:30 CET / 13:30 GMT | EUR | EU      | ECB Lane Speech                      | -        | -        | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
-30 Jun 14:45 CET / 13:45 GMT | USD | US      | Chicago PMI                          | 60.00    | 62.70    | AMAT, AMD, AMZN, ANET, ARM +47           
-30 Jun 15:00 CET / 14:00 GMT | USD | US      | CB Consumer Confidence               | 94.20    | 93.10    | AMAT, AMD, AMZN, ANET, ARM +47           
-30 Jun 15:30 CET / 14:30 GMT | USD | US      | Dallas Fed Services Index            | -4.00    | -7.70    | AMAT, AMD, AMZN, ANET, ARM +47           
-30 Jun 15:30 CET / 14:30 GMT | USD | US      | Dallas Fed Services Revenues Index   | 6.00     | 5.00     | AMAT, AMD, AMZN, ANET, ARM +47           
+30 Jun 14:45 CET / 13:45 GMT | USD | US      | Chicago PMI                          | 60.00    | 62.70    | AMAT, AMD, AMZN, ANET, ARM +48           
+30 Jun 15:00 CET / 14:00 GMT | USD | US      | CB Consumer Confidence               | 94.20    | 93.10    | AMAT, AMD, AMZN, ANET, ARM +48           
+30 Jun 15:30 CET / 14:30 GMT | USD | US      | Dallas Fed Services Index            | -4.00    | -7.70    | AMAT, AMD, AMZN, ANET, ARM +48           
+30 Jun 15:30 CET / 14:30 GMT | USD | US      | Dallas Fed Services Revenues Index   | 6.00     | 5.00     | AMAT, AMD, AMZN, ANET, ARM +48           
 01 Jul 00:00 CET / 23:00 GMT | AUD | AU      | Ai Group Manufacturing Index         | -22.00   | -22.40   | AUDCAD, AUDCHF, AUDJPY, AUDNOK, AUDNZD +4
 01 Jul 00:00 CET / 23:00 GMT | AUD | AU      | S&P Global Manufacturing PMI         | 51.20    | 51.20    | AUDCAD, AUDCHF, AUDJPY, AUDNOK, AUDNZD +4
 01 Jul 00:50 CET / 23:50 GMT | JPY | JP      | Tankan Non-Manufacturing Outlook     | 30.00    | 29.00    | AUDJPY, CADJPY, CHFJPY, EURJPY, GBPJPY +4
@@ -304,11 +306,11 @@ Time (CET / GMT)             | Ccy | Country | Event                            
 01 Jul 14:00 CET / 13:00 GMT | EUR | EU      | ECB President Lagarde Speech         | -        | -        | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
 01 Jul 14:00 CET / 13:00 GMT | GBP | UK      | BoE Gov Bailey Speech                | -        | -        | EURGBP, GBPAUD, GBPCAD, GBPCHF, GBPJPY +4
 01 Jul 14:00 CET / 13:00 GMT | EUR | EU      | ECB Lagarde Speech                   | -        | -        | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
-01 Jul 14:45 CET / 13:45 GMT | USD | US      | S&P Global Manufacturing PMI         | 55.70    | 55.10    | AMAT, AMD, AMZN, ANET, ARM +47           
-01 Jul 15:00 CET / 14:00 GMT | USD | US      | ISM Manufacturing PMI                | 53.70    | 54.00    | AMAT, AMD, AMZN, ANET, ARM +47           
-01 Jul 15:00 CET / 14:00 GMT | USD | US      | ISM Manufacturing New Orders         | 56.00    | 56.80    | AMAT, AMD, AMZN, ANET, ARM +47           
-01 Jul 15:00 CET / 14:00 GMT | USD | US      | ISM Manufacturing Employment         | 49.00    | 48.60    | AMAT, AMD, AMZN, ANET, ARM +47           
-01 Jul 15:00 CET / 14:00 GMT | USD | US      | ISM Manufacturing Prices             | 79.00    | 82.10    | AMAT, AMD, AMZN, ANET, ARM +47           
+01 Jul 14:45 CET / 13:45 GMT | USD | US      | S&P Global Manufacturing PMI         | 55.70    | 55.10    | AMAT, AMD, AMZN, ANET, ARM +48           
+01 Jul 15:00 CET / 14:00 GMT | USD | US      | ISM Manufacturing PMI                | 53.70    | 54.00    | AMAT, AMD, AMZN, ANET, ARM +48           
+01 Jul 15:00 CET / 14:00 GMT | USD | US      | ISM Manufacturing New Orders         | 56.00    | 56.80    | AMAT, AMD, AMZN, ANET, ARM +48           
+01 Jul 15:00 CET / 14:00 GMT | USD | US      | ISM Manufacturing Employment         | 49.00    | 48.60    | AMAT, AMD, AMZN, ANET, ARM +48           
+01 Jul 15:00 CET / 14:00 GMT | USD | US      | ISM Manufacturing Prices             | 79.00    | 82.10    | AMAT, AMD, AMZN, ANET, ARM +48           
 02 Jul 02:30 CET / 01:30 GMT | AUD | AU      | Balance of Trade                     | 2.20     | 1.79     | AUDCAD, AUDCHF, AUDJPY, AUDNOK, AUDNZD +4
 02 Jul 07:30 CET / 06:30 GMT | CHF | CH      | CPI                                  | 0.10     | 0.20     | AUDCHF, CADCHF, CHFJPY, EURCHF, GBPCHF +4
 02 Jul 07:30 CET / 06:30 GMT | CHF | CH      | Inflation Rate                       | 0.10     | 0.20     | AUDCHF, CADCHF, CHFJPY, EURCHF, GBPCHF +4
@@ -318,21 +320,21 @@ Time (CET / GMT)             | Ccy | Country | Event                            
 02 Jul 09:30 CET / 08:30 GMT | GBP | UK      | BoE Credit Conditions Survey         | -        | -        | EURGBP, GBPAUD, GBPCAD, GBPCHF, GBPJPY +4
 02 Jul 10:00 CET / 09:00 GMT | EUR | EU      | Unemployment Rate                    | 6.30     | 6.30     | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
 02 Jul 11:00 CET / 10:00 GMT | EUR | EU      | ECB Elderson Speech                  | -        | -        | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
-02 Jul 13:30 CET / 12:30 GMT | USD | US      | Non Farm Payrolls                    | 114.00   | 172.00   | AMAT, AMD, AMZN, ANET, ARM +47           
-02 Jul 13:30 CET / 12:30 GMT | USD | US      | Continuing Jobless Claims            | 1,825.00 | 1,821.00 | AMAT, AMD, AMZN, ANET, ARM +47           
-02 Jul 13:30 CET / 12:30 GMT | USD | US      | Initial Jobless Claims               | 220.00   | 215.00   | AMAT, AMD, AMZN, ANET, ARM +47           
-02 Jul 13:30 CET / 12:30 GMT | USD | US      | Government Payrolls                  | 10.00    | 52.00    | AMAT, AMD, AMZN, ANET, ARM +47           
-02 Jul 13:30 CET / 12:30 GMT | USD | US      | Jobless Claims 4-Week Average        | 220.50   | 224.25   | AMAT, AMD, AMZN, ANET, ARM +47           
-02 Jul 13:30 CET / 12:30 GMT | USD | US      | Nonfarm Payrolls Private             | 100.00   | 120.00   | AMAT, AMD, AMZN, ANET, ARM +47           
-02 Jul 13:30 CET / 12:30 GMT | USD | US      | Unemployment Rate                    | 4.30     | 4.30     | AMAT, AMD, AMZN, ANET, ARM +47           
-02 Jul 13:30 CET / 12:30 GMT | USD | US      | U-6 Unemployment Rate                | 8.10     | 8.10     | AMAT, AMD, AMZN, ANET, ARM +47           
-02 Jul 13:30 CET / 12:30 GMT | USD | US      | Manufacturing Payrolls               | 12.00    | 7.00     | AMAT, AMD, AMZN, ANET, ARM +47           
+02 Jul 13:30 CET / 12:30 GMT | USD | US      | Non Farm Payrolls                    | 114.00   | 172.00   | AMAT, AMD, AMZN, ANET, ARM +48           
+02 Jul 13:30 CET / 12:30 GMT | USD | US      | Continuing Jobless Claims            | 1,825.00 | 1,821.00 | AMAT, AMD, AMZN, ANET, ARM +48           
+02 Jul 13:30 CET / 12:30 GMT | USD | US      | Initial Jobless Claims               | 220.00   | 215.00   | AMAT, AMD, AMZN, ANET, ARM +48           
+02 Jul 13:30 CET / 12:30 GMT | USD | US      | Government Payrolls                  | 10.00    | 52.00    | AMAT, AMD, AMZN, ANET, ARM +48           
+02 Jul 13:30 CET / 12:30 GMT | USD | US      | Jobless Claims 4-Week Average        | 220.50   | 224.25   | AMAT, AMD, AMZN, ANET, ARM +48           
+02 Jul 13:30 CET / 12:30 GMT | USD | US      | Nonfarm Payrolls Private             | 100.00   | 120.00   | AMAT, AMD, AMZN, ANET, ARM +48           
+02 Jul 13:30 CET / 12:30 GMT | USD | US      | Unemployment Rate                    | 4.30     | 4.30     | AMAT, AMD, AMZN, ANET, ARM +48           
+02 Jul 13:30 CET / 12:30 GMT | USD | US      | U-6 Unemployment Rate                | 8.10     | 8.10     | AMAT, AMD, AMZN, ANET, ARM +48           
+02 Jul 13:30 CET / 12:30 GMT | USD | US      | Manufacturing Payrolls               | 12.00    | 7.00     | AMAT, AMD, AMZN, ANET, ARM +48           
 02 Jul 14:30 CET / 13:30 GMT | CAD | CA      | S&P Global Manufacturing PMI         | 53.40    | 52.90    | AUDCAD, CADCHF, CADJPY, EURCAD, GBPCAD +4
-02 Jul 15:00 CET / 14:00 GMT | USD | US      | Factory Orders ex Transportation     | 0.40     | 1.30     | AMAT, AMD, AMZN, ANET, ARM +47           
-02 Jul 15:00 CET / 14:00 GMT | USD | US      | Factory Orders                       | 2.10     | 4.80     | AMAT, AMD, AMZN, ANET, ARM +47           
+02 Jul 15:00 CET / 14:00 GMT | USD | US      | Factory Orders ex Transportation     | 0.40     | 1.30     | AMAT, AMD, AMZN, ANET, ARM +48           
+02 Jul 15:00 CET / 14:00 GMT | USD | US      | Factory Orders                       | 2.10     | 4.80     | AMAT, AMD, AMZN, ANET, ARM +48           
 02 Jul 16:45 CET / 15:45 GMT | GBP | UK      | BoE Mann Speech                      | -        | -        | EURGBP, GBPAUD, GBPCAD, GBPCHF, GBPJPY +4
 02 Jul 18:55 CET / 17:55 GMT | EUR | EU      | ECB Cipollone Speech                 | -        | -        | EURAUD, EURCAD, EURCHF, EURGBP, EURJPY +5
-02 Jul 21:30 CET / 20:30 GMT | USD | US      | Fed Balance Sheet                    | 6.50     | 6.74     | AMAT, AMD, AMZN, ANET, ARM +47           
+02 Jul 21:30 CET / 20:30 GMT | USD | US      | Fed Balance Sheet                    | 6.50     | 6.74     | AMAT, AMD, AMZN, ANET, ARM +48           
 02 Jul 23:00 CET / 22:00 GMT | NZD | NZ      | ANZ Roy Morgan Consumer Confidence   | 86.00    | 86.50    | AUDNZD, EURNZD, GBPNZD, NZDCAD, NZDCHF +4
 03 Jul 00:00 CET / 23:00 GMT | AUD | AU      | S&P Global Services PMI              | 49.90    | 49.90    | AUDCAD, AUDCHF, AUDJPY, AUDNOK, AUDNZD +4
 03 Jul 00:00 CET / 23:00 GMT | AUD | AU      | S&P Global Composite PMI             | 49.80    | -        | AUDCAD, AUDCHF, AUDJPY, AUDNOK, AUDNZD +4
@@ -660,10 +662,10 @@ DELL - Dell Technologies (equity)
     https://finance.yahoo.com/economy/articles/elon-musk-tim-cook-issue-164500375.html
     Tim Cook, CEO of Apple, and Elon Musk, CEO of Tesla and SpaceX, have both issued warnings about unprecedented price increases affecting the tech industry, with Cook describing the situation as a "hundred-year flood." The rising costs, particularly for memory and storage chips, have led Apple to announce price hikes for its products, a trend also seen among other major device manufacturers.
 
-  [2026-06-26 16:22:09 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.99
-    Trump name-dropped Nokia and Eli Lilly in a Pennsylvania speech. Here's what happened to 5 other stocks he singled out
-    https://finance.yahoo.com/markets/stocks/articles/trump-name-dropped-nokia-eli-152209306.html
-    During a speech in Pennsylvania, former President Donald Trump praised Eli Lilly for its $3.5 billion investment in a manufacturing facility and Nokia for its $30 million expansion in semiconductor packaging and testing. The article also discusses how Trump's positive mentions of various companies, including Micron and Dell, have coincided with significant stock price increases, while noting that he holds shares in Eli Lilly and has made investments in other companies he has publicly endorsed.
+  [2026-06-26 15:58:19 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
+    TD Synnex Delivers Strong Fiscal Q2 on Hyve Growth, Market Share Gains, Morgan Stanley Says
+    https://finance.yahoo.com/markets/stocks/articles/td-synnex-delivers-strong-fiscal-145819373.html
+    TD Synnex reported strong fiscal Q2 results, attributed to growth in its Hyve segment and gains in market share, according to Morgan Stanley.
 
 DLR - Digital Realty (datacenter REIT) (equity)
   [2026-06-23 14:25:00 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
@@ -1140,6 +1142,32 @@ ORCL - Oracle (equity)
     https://finance.yahoo.com/energy/articles/insane-number-hpe-ceo-just-115123961.html
     Hewlett Packard Enterprise CEO Antonio Neri projects a 19-gigawatt power gap in the U.S. by 2028, highlighting the increasing demand for reliable power as data centers could account for nearly half of U.S. electricity demand by 2030. Bloom Energy's modular fuel cells, which can be deployed in about 90 days, have secured $7.65 billion in data center contracts and reported a 130% revenue increase in Q1, raising its 2026 revenue guidance to $3.8 billion.
 
+PLTR - Palantir Technologies (equity)
+  [2026-06-27 23:33:00 CET] Yahoo Finance (eodhd) | FinBERT positive 0.99
+    Cathie Wood buys $11.5 million of battered tech stock
+    https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buys-11-5-223300620.html
+    Cathie Wood, head of Ark Investment Management, purchased $11.5 million worth of Coinbase shares, adding to her holdings after the stock's recent decline. This follows a trend of significant net outflows from her Ark Innovation ETF, which has struggled in performance compared to the S&P 500 over the past year.
+
+  [2026-06-27 19:05:34 CET] Yahoo Finance (eodhd) | FinBERT positive 0.99
+    Palantir (PLTR) Wins Key Army Role As Europe Contracts Slip
+    https://finance.yahoo.com/markets/stocks/articles/palantir-pltr-wins-key-army-180534345.html
+    Palantir Technologies has secured a key role in the U.S. Army's Next Generation Command and Control project, while facing challenges in Europe as contracts shift to domestic providers in countries like France, and engagements in the UK and Germany come under pressure. The company's stock has seen a decline of 12.1% over the past week and 32.7% year to date, despite institutional investors increasing their positions during this pullback.
+
+  [2026-06-27 14:00:00 CET] globenewswire.com (eodhd) | FinBERT neutral 0.98
+    Some Investors Believe the Next 30 Days Could Be More Important Than the Last 3 Years
+    https://www.globenewswire.com/news-release/2026/06/27/3318544/0/en/Some-Investors-Believe-the-Next-30-Days-Could-Be-More-Important-Than-the-Last-3-Years.html
+    Financial researcher Jim Rickards suggests that the next 30 days could be more critical for investors than the past three years, as upcoming corporate reports, particularly from AI-linked company Meta, may provide key insights into the actual performance and returns of AI investments. He warns that disappointing earnings could lead to significant shifts in market sentiment, similar to the dot-com era, and highlights the broader implications of AI's impact on various financial sectors.
+
+  [2026-06-27 12:08:32 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.90
+    This is not what a risk-off month usually looks like: Chart of the Day
+    https://finance.yahoo.com/markets/article/this-is-not-what-a-risk-off-month-usually-looks-like-chart-of-the-day-110832956.html
+    In June, small-cap stocks are outperforming mid-caps and large caps, while the "Magnificent Seven" tech stocks have collectively lost over $2 trillion in market value, negatively impacting major indexes. Lower oil prices have benefited airlines and homebuilders, while sectors like traditional and clean energy are under pressure.
+
+  [2026-06-27 04:07:00 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.99
+    Wedbush spots clear investor opportunities in tech stocks
+    https://finance.yahoo.com/technology/articles/wedbush-spots-clear-investor-opportunities-030700638.html
+    Dan Ives of Wedbush Securities described the current state of tech stocks as a "Twilight Zone market," noting significant sell-offs in major companies like Microsoft and Meta, while Micron Technology reported strong earnings. He highlighted a disconnect between heavy capital spending on AI infrastructure, estimated at $700 billion this year, and the delayed revenue returns, suggesting that current market conditions present buying opportunities for investors.
+
 PWR - Quanta Services (equity)
   [2026-06-26 14:41:00 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
     Can Grid Modernization Become Quanta's Next Growth Driver?
@@ -1245,11 +1273,6 @@ SMH - VanEck Semiconductor ETF (equity)
     https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-one-best-153245819.html
     NVIDIA Corporation (NASDAQ:NVDA) has underperformed in 2026, with shares rising about 12% compared to the nearly 85% gain of the VanEck Semiconductor ETF, and the company's compute price for its AI chips has decreased from a peak of $6.11 per hour to $4.22. Analysts express uncertainty over future GPU demand and supply, impacting planning for both buyers and manufacturers.
 
-  [2026-06-26 16:51:00 CET] Yahoo Finance (eodhd) | FinBERT neutral 1.00
-    The Market Rotation Is On. ServiceNow, Workday, and AppLovin Rise as Software Tops Chips.
-    https://finance.yahoo.com/m/31358cbd-66f7-30c0-b789-be55da6ff3d8/the-market-rotation-is-on..html
-    ServiceNow, Workday, and AppLovin are among the top-performing software stocks in the S&P 500, indicating a market rotation favoring software over chip stocks. The article raises questions about the evolving narrative surrounding AI in the software sector.
-
   [2026-06-24 18:59:07 CET] Yahoo Finance (eodhd) | FinBERT positive 0.98
     Nvidia's Upbeat Forecast Lifts SMH's Earnings Outlook
     https://finance.yahoo.com/markets/stocks/articles/nvidias-upbeat-forecast-lifts-smhs-175907154.html
@@ -1264,6 +1287,11 @@ SMH - VanEck Semiconductor ETF (equity)
     Inside SMH: The Few Stocks Driving Your Semiconductor Returns
     https://finance.yahoo.com/markets/stocks/articles/inside-smh-few-stocks-driving-161634020.html
     The VanEck Semiconductor ETF (SMH) achieved a return of +138.2% over the past year, primarily driven by a small number of stocks, with Micron Technology and Intel being the largest contributors. Despite 24 of the fund's 25 largest holdings rising, the gains were concentrated, as the top five contributors accounted for about 69% of the total gains, indicating that the fund's performance is heavily influenced by a few key companies.
+
+  [2026-06-24 15:00:00 CET] Yahoo Finance (eodhd) | FinBERT positive 0.99
+    Beyond Mag 7: MANGOS or Big-10 ETFs Will Likely Rule Ahead
+    https://finance.yahoo.com/markets/stocks/articles/beyond-mag-7-mangos-big-140000492.html
+    Wall Street analysts are introducing new groupings of high-potential tech stocks, such as MANGOS, FAB 10, and BofA's AI Big 10, to reflect the evolving leaders in the AI-driven market, moving beyond the previously dominant "Magnificent Seven." These new groupings include a mix of established companies and emerging players in the AI and aerospace sectors, indicating a broader focus on the AI ecosystem and its investment opportunities.
 
 SOX - PHLX Semiconductor Index (index)
   [2026-06-25 15:39:59 CET] Yahoo Finance (eodhd) | FinBERT negative 0.50
@@ -1359,15 +1387,15 @@ SPY - SPDR S&P 500 ETF Trust (equity)
     https://finance.yahoo.com/economy/policy/articles/scott-bessent-defends-tariff-reboot-033101799.html
     Treasury Secretary Scott Bessent defended the administration's trade policies and introduced a "3 through 3" economic plan aimed at achieving 3% GDP growth, increasing energy production, and reducing the national deficit to 3% of GDP. He argued that structural inflation is primarily driven by domestic services rather than tariffs, which he claims are necessary to protect American manufacturing and enhance national security.
 
-  [2026-06-26 23:24:52 CET] nasdaq.com (eodhd) | FinBERT negative 0.96
-    Stock Indexes Finish Lower as Chipmakers Sell Off
-    https://www.nasdaq.com/articles/stock-indexes-finish-lower-chipmakers-sell
-    On Friday, major U.S. stock indexes closed lower, with the S&P 500 down 0.05%, the Dow down 0.09%, and the Nasdaq 100 down 1.09%, primarily due to a sell-off in chipmakers. The South Korea's Kospi Index fell over 5% following declines in Samsung Electronics and SK Hynix, contributing to a global downturn in the semiconductor sector.
-
   [2026-06-26 22:09:47 CET] Yahoo Finance (eodhd) | FinBERT neutral 0.98
     VFLO Marks 3 Years of Next-Gen Free Cash Flow Investing
     https://finance.yahoo.com/markets/stocks/articles/vflo-marks-3-years-next-210947143.html
     The VictoryShares Free Cash Flow ETF (VFLO) has reached over $7.5 billion in assets under management three years after its inception on June 21, 2023, and it tracks the Victory U.S. Large Cap Free Cash Flow Index, focusing on companies with high expected free cash flow yield and strong fundamental growth. VFLO's methodology excludes the Financials and Real Estate sectors and emphasizes a disciplined approach to free cash flow generation as a measure of company quality.
+
+  [2026-06-26 21:59:21 CET] Seeking Alpha (eodhd) | FinBERT positive 1.00
+    Health Care had the best week vs. the S&amp;P 500 on record
+    https://seekingalpha.com/news/4607851-health-care-had-the-best-week-vs-the-s-and-p-500-on-record?utm_source=feed_news_all&amp;utm_medium=referral&amp;feed_item_type=news
+    The health care sector had its best week against the S&P 500 on record, outperforming it by 9.92 percentage points, with the health care index returning +4.63% while the S&P 500 returned -1.67%. The sector is up 7.9% from a month ago and 2.8% year-to-date.
 
 SU - Schneider Electric (Euronext Paris) (equity)
   [2026-06-25 15:52:00 CET] Yahoo Finance (eodhd) | FinBERT positive 1.00
