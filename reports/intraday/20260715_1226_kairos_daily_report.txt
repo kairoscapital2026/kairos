@@ -1,0 +1,10 @@
+==============================================================================
+EX-POST RECONSTRUCTION - NOT A LIVE CAPTURE
+This file stands in for the 13:30 CET slot of 20260715, which was never taken:
+the scheduled run for this slot did not produce one and the reason was not established after the fact.
+It was rebuilt on 2026-08-03 from that day's archived end-of-day report, so it shows
+end-of-day figures - not what was known at 13:30 CET. The dated report for 20260715 is
+the genuine artifact.
+==============================================================================
+
+Kairos Daily Report for 2026-07-15. This report is HTML only; open the HTML version for the full portfolio, watchlist, signals and news.
