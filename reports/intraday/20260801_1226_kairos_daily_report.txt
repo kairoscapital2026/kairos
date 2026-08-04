@@ -1,10 +1,1 @@
-==============================================================================
-EX-POST RECONSTRUCTION - NOT A LIVE CAPTURE
-This file stands in for the 13:30 CET slot of 20260801, which was never taken:
-the report build failed on every scheduled run from 2026-07-23 to 2026-08-03 (a directory at the repository root shadowed the report_engine module; fixed 2026-08-03).
-It was rebuilt on 2026-08-03 from that day's archived end-of-day report, so it shows
-end-of-day figures - not what was known at 13:30 CET. The dated report for 20260801 is
-the genuine artifact.
-==============================================================================
-
 Kairos Daily Report for 2026-08-01. This report is HTML only; open the HTML version for the full portfolio, watchlist, signals and news.
